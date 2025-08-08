@@ -76334,6 +76334,38 @@
 			"proj": 3
 		},
 		{
+			"name": "Sävenäs",
+			"ril100": "XVSAV",
+			"group": 2,
+			"x": 736,
+			"y": -968,
+			"proj": 3
+		},
+		{
+			"name": "Partille",
+			"ril100": "XVPT",
+			"group": 2,
+			"x": 746,
+			"y": -970,
+			"proj": 3
+		},
+		{
+			"name": "Jonsered",
+			"ril100": "XVJO",
+			"group": 2,
+			"x": 755,
+			"y": -972,
+			"proj": 3
+		},
+		{
+			"name": "Aspen",
+			"ril100": "XVAP",
+			"group": 2,
+			"x": 763,
+			"y": -973,
+			"proj": 3
+		},
+		{
 			"name": "Aspedalen",
 			"ril100": "XVAD",
 			"group": 2,
@@ -76341,6 +76373,30 @@
 			"y": -973,
 			"platformLength": 180,
 			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Lerum",
+			"ril100": "XVLE",
+			"group": 2,
+			"x": 767,
+			"y": -975,
+			"proj": 3
+		},
+		{
+			"name": "Stenkullen",
+			"ril100": "XVSK",
+			"group": 2,
+			"x": 773,
+			"y": -978,
+			"proj": 3
+		},
+		{
+			"name": "Floda",
+			"ril100": "XVFL",
+			"group": 2,
+			"x": 779,
+			"y": -981,
 			"proj": 3
 		},
 		{
@@ -76354,6 +76410,14 @@
 			"proj": 3
 		},
 		{
+			"name": "Västra bodarna",
+			"ril100": "🇸🇪O3158244409",
+			"group": 2,
+			"x": 793,
+			"y": -994,
+			"proj": 3
+		},
+		{
 			"name": "Alingsås",
 			"ril100": "XVAS",
 			"group": 2,
@@ -76361,6 +76425,22 @@
 			"y": -999,
 			"platformLength": 357,
 			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Vårgårda",
+			"ril100": "🇸🇪O270883345",
+			"group": 2,
+			"x": 835,
+			"y": -1017,
+			"proj": 3
+		},
+		{
+			"name": "Herrljunga",
+			"ril100": "XVHE",
+			"group": 2,
+			"x": 862,
+			"y": -1024,
 			"proj": 3
 		},
 		{
@@ -76432,6 +76512,22 @@
 			"y": -1072,
 			"platformLength": 145,
 			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Skövde C",
+			"ril100": "XVSVD",
+			"group": 2,
+			"x": 967,
+			"y": -1074,
+			"proj": 3
+		},
+		{
+			"name": "Töreboda",
+			"ril100": "XVTB",
+			"group": 2,
+			"x": 1000,
+			"y": -1124,
 			"proj": 3
 		},
 		{

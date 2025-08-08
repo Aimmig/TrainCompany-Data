@@ -71166,6 +71166,7 @@
 			"neededEquipments": [
 				"SE"
 			],
+			"name": "Västra stambanan",
 			"objects": [
 				{
 					"start": "XVGB",
@@ -71190,8 +71191,22 @@
 				},
 				{
 					"start": "XVAS",
+					"end": "🇸🇪O270883345",
+					"length": 21,
+					"maxSpeed": 200,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇸🇪O270883345",
+					"end": "XVHE",
+					"length": 14,
+					"maxSpeed": 200,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "XVHE",
 					"end": "XVFY",
-					"length": 55,
+					"length": 20,
 					"maxSpeed": 200,
 					"twistingFactor": 0.39
 				},
@@ -71211,8 +71226,22 @@
 				},
 				{
 					"start": "XVST",
+					"end": "XVSVD",
+					"length": 16,
+					"maxSpeed": 200,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "XVSVD",
+					"end": "XVTB",
+					"length": 39,
+					"maxSpeed": 200,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "XVTB",
 					"end": "XVLX",
-					"length": 100,
+					"length": 45,
 					"maxSpeed": 200,
 					"twistingFactor": 0.18
 				},
@@ -71295,6 +71324,7 @@
 			"neededEquipments": [
 				"SE"
 			],
+			"name": "Södra stambanan",
 			"objects": [
 				{
 					"start": "XVM",
