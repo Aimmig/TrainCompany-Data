@@ -34441,6 +34441,62 @@
 			"proj": 3
 		},
 		{
+			"name": "Mellerud",
+			"ril100": "XVME",
+			"group": 2,
+			"x": 789,
+			"y": -1123,
+			"proj": 3
+		},
+		{
+			"name": "Amal",
+			"ril100": "XVAM",
+			"group": 2,
+			"x": 818,
+			"y": -1178,
+			"proj": 3
+		},
+		{
+			"name": "Säffle",
+			"ril100": "XVSF",
+			"group": 2,
+			"x": 845,
+			"y": -1192,
+			"proj": 3
+		},
+		{
+			"name": "Värmlands Bro",
+			"ril100": "🇸🇪O853598869",
+			"group": 2,
+			"x": 858,
+			"y": -1200,
+			"proj": 3
+		},
+		{
+			"name": "Grums",
+			"ril100": "XVGU",
+			"group": 2,
+			"x": 869,
+			"y": -1227,
+			"proj": 3
+		},
+		{
+			"name": "Kil",
+			"ril100": "🇸🇪O3002644717",
+			"group": 2,
+			"x": 894,
+			"y": -1251,
+			"proj": 3
+		},
+		{
+			"name": "Kristinehamn",
+			"ril100": "🇸🇪O8115368640",
+			"group": 2,
+			"x": 995,
+			"y": -1221,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Engertsham",
 			"ril100": "MEGH",
