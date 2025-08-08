@@ -36065,9 +36065,9 @@
 					"start": "XVGB",
 					"end": "🇸🇪O3157150233",
 					"name": "Norge-/Vänerbanan",
-					"length": 11,
+					"length": 3,
 					"maxSpeed": 200,
-					"twistingFactor": 0.08,
+					"twistingFactor": 0.15,
 					"neededEquipments": [
 						"SE"
 					]
@@ -36109,7 +36109,7 @@
 					"start": "🇸🇪O844104410",
 					"end": "🇸🇪O3157150236",
 					"name": "Norge-/Vänerbanan",
-					"length": 2,
+					"length": 3,
 					"maxSpeed": 200,
 					"twistingFactor": 0.01,
 					"neededEquipments": [
@@ -36120,7 +36120,7 @@
 					"start": "🇸🇪O3157150236",
 					"end": "XVAA",
 					"name": "Norge-/Vänerbanan",
-					"length": 5,
+					"length": 6,
 					"maxSpeed": 200,
 					"twistingFactor": 0.01,
 					"neededEquipments": [
@@ -36153,7 +36153,7 @@
 					"start": "XVTH",
 					"end": "XVOX",
 					"name": "Norge-/Vänerbanan",
-					"length": 87,
+					"length": 9,
 					"maxSpeed": 200,
 					"twistingFactor": 0.3,
 					"neededEquipments": [
@@ -36164,8 +36164,8 @@
 					"start": "XVOX",
 					"end": "🇸🇪SKBL",
 					"name": "Norge-/Vänerbanan",
-					"length": 87,
-					"maxSpeed": 200,
+					"length": 30,
+					"maxSpeed": 160,
 					"twistingFactor": 0.3,
 					"neededEquipments": [
 						"SE"
@@ -36175,8 +36175,8 @@
 					"start": "🇸🇪SKBL",
 					"end": "XVE",
 					"name": "Norge-/Vänerbanan",
-					"length": 87,
-					"maxSpeed": 200,
+					"length": 49,
+					"maxSpeed": 160,
 					"twistingFactor": 0.3,
 					"neededEquipments": [
 						"SE"
@@ -36184,10 +36184,10 @@
 				},
 				{
 					"start": "XVE",
-					"end": "XOHA",
+					"end": "🇳🇴KO",
 					"name": "Østfoldbanen",
-					"length": 52,
-					"maxSpeed": 160,
+					"length": 20,
+					"maxSpeed": 140,
 					"twistingFactor": 0.39,
 					"neededEquipments": [
 						"SE",
@@ -36195,10 +36195,21 @@
 					]
 				},
 				{
+					"start": "🇳🇴KO",
+					"end": "XOHA",
+					"name": "Østfoldbanen",
+					"length": 33,
+					"maxSpeed": 120,
+					"twistingFactor": 0.39,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
 					"start": "XOHA",
 					"end": "XOSA",
 					"name": "Østfoldbanen",
-					"length": 26,
+					"length": 27,
 					"maxSpeed": 130,
 					"twistingFactor": 0.24,
 					"neededEquipments": [
@@ -36222,7 +36233,7 @@
 					"name": "Østfoldbanen",
 					"length": 17,
 					"maxSpeed": 130,
-					"twistingFactor": 0.16,
+					"twistingFactor": 0.18,
 					"neededEquipments": [
 						"NO"
 					]
@@ -36231,7 +36242,7 @@
 					"start": "XORD",
 					"end": "XORY",
 					"name": "Østfoldbanen",
-					"length": 7,
+					"length": 8,
 					"maxSpeed": 130,
 					"twistingFactor": 0.13,
 					"neededEquipments": [
@@ -36253,7 +36264,7 @@
 					"start": "XOMO",
 					"end": "XOKM",
 					"name": "Østfoldbanen",
-					"length": 5,
+					"length": 6,
 					"maxSpeed": 160,
 					"twistingFactor": 0.13,
 					"neededEquipments": [
@@ -36264,7 +36275,7 @@
 					"start": "XOKM",
 					"end": "XOVYS",
 					"name": "Østfoldbanen",
-					"length": 14,
+					"length": 5,
 					"maxSpeed": 160,
 					"twistingFactor": 0.13,
 					"neededEquipments": [
@@ -36275,7 +36286,7 @@
 					"start": "XOVYS",
 					"end": "XOVY",
 					"name": "Østfoldbanen",
-					"length": 14,
+					"length": 10,
 					"maxSpeed": 160,
 					"twistingFactor": 0.13,
 					"neededEquipments": [
@@ -36297,7 +36308,7 @@
 					"start": "XOAS",
 					"end": "XOS",
 					"name": "Østfoldbanen",
-					"length": 6,
+					"length": 7,
 					"maxSpeed": 160,
 					"twistingFactor": 0.13,
 					"neededEquipments": [
@@ -36309,8 +36320,8 @@
 					"end": "XOO",
 					"group": 2,
 					"name": "Østfoldbanen",
-					"length": 24,
-					"maxSpeed": 160,
+					"length": 23,
+					"maxSpeed": 200,
 					"twistingFactor": 0.05,
 					"neededEquipments": [
 						"NO"
@@ -60776,7 +60787,8 @@
 		},
 		{
 			"electrified": true,
-			"group": 0,
+			"group": 1,
+			"maxSpeed": 160,
 			"neededEquipments": [
 				"SE"
 			],
@@ -60785,48 +60797,42 @@
 					"start": "🇸🇪SKBL",
 					"end": "XVME",
 					"name": "Vänerbanan",
-					"length": 41,
-					"maxSpeed": 160,
-					"twistingFactor": 0.11
+					"length": 11,
+					"twistingFactor": 0.05
 				},
 				{
 					"start": "XVME",
 					"end": "XVAM",
 					"name": "Vänerbanan",
 					"length": 41,
-					"maxSpeed": 160,
-					"twistingFactor": 0.11
+					"twistingFactor": 0.15
 				},
 				{
 					"start": "XVAM",
 					"end": "XVSF",
 					"name": "Vänerbanan",
-					"length": 15,
-					"maxSpeed": 160,
+					"length": 16,
 					"twistingFactor": 0.11
 				},
 				{
 					"start": "XVSF",
 					"end": "🇸🇪O853598869",
 					"name": "Vänerbanan",
-					"length": 8,
-					"maxSpeed": 160,
-					"twistingFactor": 0.11
+					"length": 9,
+					"twistingFactor": 0.15
 				},
 				{
 					"start": "🇸🇪O853598869",
 					"end": "XVGU",
 					"name": "Vänerbanan",
-					"length": 20,
-					"maxSpeed": 160,
+					"length": 21,
 					"twistingFactor": 0.15
 				},
 				{
 					"start": "XVGU",
 					"end": "🇸🇪O3002644717",
 					"name": "Vänerbanan",
-					"length": 21,
-					"maxSpeed": 160,
+					"length": 22,
 					"twistingFactor": 0.16
 				}
 			]

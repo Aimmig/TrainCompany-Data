@@ -34483,7 +34483,7 @@
 		{
 			"name": "Kil",
 			"ril100": "🇸🇪O3002644717",
-			"group": 2,
+			"group": 1,
 			"x": 894,
 			"y": -1251,
 			"proj": 3
@@ -75942,7 +75942,7 @@
 		{
 			"name": "Trollhättan",
 			"ril100": "XVTH",
-			"group": 2,
+			"group": 1,
 			"x": 769,
 			"y": -1058,
 			"proj": 3
@@ -75972,6 +75972,14 @@
 			"proj": 3
 		},
 		{
+			"name": "Kornsjø",
+			"ril100": "🇳🇴KO",
+			"group": 6,
+			"x": 703,
+			"y": -1190,
+			"proj": 3
+		},
+		{
 			"name": "Halden",
 			"ril100": "XOHA",
 			"group": 2,
@@ -75990,7 +75998,7 @@
 		{
 			"name": "Fredrikstad",
 			"ril100": "XOFR",
-			"group": 2,
+			"group": 1,
 			"x": 597,
 			"y": -1204,
 			"proj": 3
