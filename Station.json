@@ -34489,14 +34489,6 @@
 			"proj": 3
 		},
 		{
-			"name": "Kristinehamn",
-			"ril100": "🇸🇪O8115368640",
-			"group": 2,
-			"x": 995,
-			"y": -1221,
-			"proj": 3
-		},
-		{
 			"group": 5,
 			"name": "Engertsham",
 			"ril100": "MEGH",
@@ -75889,6 +75881,192 @@
 			"group": 5,
 			"x": 1152,
 			"y": -249,
+			"proj": 3
+		},
+		{
+			"name": "Gamlestaden",
+			"ril100": "🇸🇪O3157150233",
+			"group": 5,
+			"x": 733,
+			"y": -968,
+			"proj": 3
+		},
+		{
+			"name": "Surte",
+			"ril100": "🇸🇪O3157150237",
+			"group": 5,
+			"x": 734,
+			"y": -984,
+			"proj": 3
+		},
+		{
+			"name": "Bohus",
+			"ril100": "XVBO",
+			"group": 5,
+			"x": 734,
+			"y": -988,
+			"proj": 3
+		},
+		{
+			"name": "Nödinge",
+			"ril100": "🇸🇪O844104410",
+			"group": 5,
+			"x": 738,
+			"y": -995,
+			"proj": 3
+		},
+		{
+			"name": "Nol",
+			"ril100": "🇸🇪O3157150236",
+			"group": 5,
+			"x": 740,
+			"y": -999,
+			"proj": 3
+		},
+		{
+			"name": "Älvängen",
+			"ril100": "XVAA",
+			"group": 5,
+			"x": 747,
+			"y": -1005,
+			"proj": 3
+		},
+		{
+			"name": "Lödöse södra",
+			"ril100": "🇸🇪O3157150235",
+			"group": 5,
+			"x": 753,
+			"y": -1014,
+			"proj": 3
+		},
+		{
+			"name": "Trollhättan",
+			"ril100": "XVTH",
+			"group": 2,
+			"x": 769,
+			"y": -1058,
+			"proj": 3
+		},
+		{
+			"name": "Öxnered",
+			"ril100": "XVOX",
+			"group": 2,
+			"x": 767,
+			"y": -1077,
+			"proj": 3
+		},
+		{
+			"name": "Abzw Skälebol",
+			"ril100": "🇸🇪SKBL",
+			"group": 4,
+			"x": 775,
+			"y": -1100,
+			"proj": 3
+		},
+		{
+			"name": "Ed",
+			"ril100": "XVE",
+			"group": 2,
+			"x": 721,
+			"y": -1157,
+			"proj": 3
+		},
+		{
+			"name": "Halden",
+			"ril100": "XOHA",
+			"group": 2,
+			"x": 651,
+			"y": -1190,
+			"proj": 3
+		},
+		{
+			"name": "Sarpsborg",
+			"ril100": "XOSA",
+			"group": 2,
+			"x": 618,
+			"y": -1216,
+			"proj": 3
+		},
+		{
+			"name": "Fredrikstad",
+			"ril100": "XOFR",
+			"group": 2,
+			"x": 597,
+			"y": -1204,
+			"proj": 3
+		},
+		{
+			"name": "Rade",
+			"ril100": "XORD",
+			"group": 2,
+			"x": 586,
+			"y": -1226,
+			"proj": 3
+		},
+		{
+			"name": "Rygge",
+			"ril100": "XORY",
+			"group": 2,
+			"x": 571,
+			"y": -1231,
+			"proj": 3
+		},
+		{
+			"name": "Moss",
+			"ril100": "XOMO",
+			"group": 2,
+			"x": 559,
+			"y": -1239,
+			"proj": 3
+		},
+		{
+			"name": "Kambo",
+			"ril100": "XOKM",
+			"group": 5,
+			"x": 564,
+			"y": -1246,
+			"platformLength": 228,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Sonsveien",
+			"ril100": "XOVYS",
+			"group": 5,
+			"x": 568,
+			"y": -1253,
+			"proj": 3
+		},
+		{
+			"name": "Vestby",
+			"ril100": "XOVY",
+			"group": 5,
+			"x": 571,
+			"y": -1266,
+			"proj": 3
+		},
+		{
+			"name": "Ås",
+			"ril100": "XOAS",
+			"group": 5,
+			"x": 576,
+			"y": -1276,
+			"proj": 3
+		},
+		{
+			"name": "Ski",
+			"ril100": "XOS",
+			"group": 2,
+			"x": 581,
+			"y": -1284,
+			"proj": 3
+		},
+		{
+			"name": "Oslo",
+			"ril100": "XOO",
+			"group": 0,
+			"x": 571,
+			"y": -1315,
 			"proj": 3
 		},
 		{

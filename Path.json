@@ -36058,6 +36058,267 @@
 			]
 		},
 		{
+			"electrified": true,
+			"group": 0,
+			"objects": [
+				{
+					"start": "XVGB",
+					"end": "🇸🇪O3157150233",
+					"name": "Norge-/Vänerbanan",
+					"length": 11,
+					"maxSpeed": 200,
+					"twistingFactor": 0.08,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪O3157150233",
+					"end": "🇸🇪O3157150237",
+					"name": "Norge-/Vänerbanan",
+					"length": 11,
+					"maxSpeed": 200,
+					"twistingFactor": 0.08,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪O3157150237",
+					"end": "XVBO",
+					"name": "Norge-/Vänerbanan",
+					"length": 2,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVBO",
+					"end": "🇸🇪O844104410",
+					"name": "Norge-/Vänerbanan",
+					"length": 5,
+					"maxSpeed": 200,
+					"twistingFactor": 0.28,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪O844104410",
+					"end": "🇸🇪O3157150236",
+					"name": "Norge-/Vänerbanan",
+					"length": 2,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪O3157150236",
+					"end": "XVAA",
+					"name": "Norge-/Vänerbanan",
+					"length": 5,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVAA",
+					"end": "🇸🇪O3157150235",
+					"name": "Norge-/Vänerbanan",
+					"length": 7,
+					"maxSpeed": 200,
+					"twistingFactor": 0.18,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪O3157150235",
+					"end": "XVTH",
+					"name": "Norge-/Vänerbanan",
+					"length": 33,
+					"maxSpeed": 200,
+					"twistingFactor": 0.17,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVTH",
+					"end": "XVOX",
+					"name": "Norge-/Vänerbanan",
+					"length": 87,
+					"maxSpeed": 200,
+					"twistingFactor": 0.3,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVOX",
+					"end": "🇸🇪SKBL",
+					"name": "Norge-/Vänerbanan",
+					"length": 87,
+					"maxSpeed": 200,
+					"twistingFactor": 0.3,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "🇸🇪SKBL",
+					"end": "XVE",
+					"name": "Norge-/Vänerbanan",
+					"length": 87,
+					"maxSpeed": 200,
+					"twistingFactor": 0.3,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVE",
+					"end": "XOHA",
+					"name": "Østfoldbanen",
+					"length": 52,
+					"maxSpeed": 160,
+					"twistingFactor": 0.39,
+					"neededEquipments": [
+						"SE",
+						"NO"
+					]
+				},
+				{
+					"start": "XOHA",
+					"end": "XOSA",
+					"name": "Østfoldbanen",
+					"length": 26,
+					"maxSpeed": 130,
+					"twistingFactor": 0.24,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOSA",
+					"end": "XOFR",
+					"name": "Østfoldbanen",
+					"length": 15,
+					"maxSpeed": 130,
+					"twistingFactor": 0.29,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOFR",
+					"end": "XORD",
+					"name": "Østfoldbanen",
+					"length": 17,
+					"maxSpeed": 130,
+					"twistingFactor": 0.16,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XORD",
+					"end": "XORY",
+					"name": "Østfoldbanen",
+					"length": 7,
+					"maxSpeed": 130,
+					"twistingFactor": 0.13,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XORY",
+					"end": "XOMO",
+					"name": "Østfoldbanen",
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.26,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOMO",
+					"end": "XOKM",
+					"name": "Østfoldbanen",
+					"length": 5,
+					"maxSpeed": 160,
+					"twistingFactor": 0.13,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOKM",
+					"end": "XOVYS",
+					"name": "Østfoldbanen",
+					"length": 14,
+					"maxSpeed": 160,
+					"twistingFactor": 0.13,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOVYS",
+					"end": "XOVY",
+					"name": "Østfoldbanen",
+					"length": 14,
+					"maxSpeed": 160,
+					"twistingFactor": 0.13,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOVY",
+					"end": "XOAS",
+					"name": "Østfoldbanen",
+					"length": 7,
+					"maxSpeed": 160,
+					"twistingFactor": 0.14,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOAS",
+					"end": "XOS",
+					"name": "Østfoldbanen",
+					"length": 6,
+					"maxSpeed": 160,
+					"twistingFactor": 0.13,
+					"neededEquipments": [
+						"NO"
+					]
+				},
+				{
+					"start": "XOS",
+					"end": "XOO",
+					"group": 2,
+					"name": "Østfoldbanen",
+					"length": 24,
+					"maxSpeed": 160,
+					"twistingFactor": 0.05,
+					"neededEquipments": [
+						"NO"
+					]
+				}
+			]
+		},
+		{
 			"name": "Oberrheinbahn",
 			"electrified": true,
 			"objects": [
@@ -60521,6 +60782,14 @@
 			],
 			"objects": [
 				{
+					"start": "🇸🇪SKBL",
+					"end": "XVME",
+					"name": "Vänerbanan",
+					"length": 41,
+					"maxSpeed": 160,
+					"twistingFactor": 0.11
+				},
+				{
 					"start": "XVME",
 					"end": "XVAM",
 					"name": "Vänerbanan",
@@ -60559,22 +60828,6 @@
 					"length": 21,
 					"maxSpeed": 160,
 					"twistingFactor": 0.16
-				},
-				{
-					"start": "🇸🇪O3002644717",
-					"end": "🇸🇪O8115368640",
-					"name": "Värmlandsbanan",
-					"length": 59,
-					"maxSpeed": 200,
-					"twistingFactor": 0.3
-				},
-				{
-					"start": "🇸🇪O8115368640",
-					"end": "XVLX",
-					"name": "Värmlandsbanan",
-					"length": 60,
-					"maxSpeed": 200,
-					"twistingFactor": 0.37
 				}
 			]
 		},
