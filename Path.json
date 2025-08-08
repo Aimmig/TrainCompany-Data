@@ -36155,7 +36155,7 @@
 					"name": "Norge-/Vänerbanan",
 					"length": 9,
 					"maxSpeed": 200,
-					"twistingFactor": 0.3,
+					"twistingFactor": 0.15,
 					"neededEquipments": [
 						"SE"
 					]
@@ -36166,16 +36166,27 @@
 					"name": "Norge-/Vänerbanan",
 					"length": 30,
 					"maxSpeed": 160,
-					"twistingFactor": 0.3,
+					"twistingFactor": 0.1,
 					"neededEquipments": [
 						"SE"
 					]
 				},
 				{
 					"start": "🇸🇪SKBL",
+					"end": "XVDR",
+					"name": "Norge-/Vänerbanan",
+					"length": 13,
+					"maxSpeed": 200,
+					"twistingFactor": 0.1,
+					"neededEquipments": [
+						"SE"
+					]
+				},
+				{
+					"start": "XVDR",
 					"end": "XVE",
 					"name": "Norge-/Vänerbanan",
-					"length": 49,
+					"length": 36,
 					"maxSpeed": 160,
 					"twistingFactor": 0.3,
 					"neededEquipments": [
