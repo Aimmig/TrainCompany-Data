@@ -84556,6 +84556,182 @@
 			"y": 1166,
 			"platforms": 2,
 			"proj": 3
+		},
+		{
+			"name": "Degerfors",
+			"ril100": "🇸🇪O146981914",
+			"group": 2,
+			"x": 1038,
+			"y": -1207,
+			"proj": 3
+		},
+		{
+			"name": "Kristinehamn",
+			"ril100": "🇸🇪O1781447285",
+			"group": 2,
+			"x": 995,
+			"y": -1221,
+			"proj": 3
+		},
+		{
+			"name": "Karlstad central",
+			"ril100": "🇸🇪O356121937",
+			"group": 2,
+			"x": 918,
+			"y": -1231,
+			"proj": 3
+		},
+		{
+			"name": "Kil",
+			"ril100": "🇸🇪O3002644717",
+			"group": 1,
+			"x": 894,
+			"y": -1251,
+			"proj": 3
+		},
+		{
+			"name": "Högboda",
+			"ril100": "🇸🇪O251411320",
+			"group": 2,
+			"x": 861,
+			"y": -1259,
+			"proj": 3
+		},
+		{
+			"name": "Edane",
+			"ril100": "🇸🇪O251364296",
+			"group": 2,
+			"x": 833,
+			"y": -1270,
+			"proj": 3
+		},
+		{
+			"name": "Arvika",
+			"ril100": "🇸🇪O304891750",
+			"group": 2,
+			"x": 803,
+			"y": -1274,
+			"proj": 3
+		},
+		{
+			"name": "Åmotfors",
+			"ril100": "🇸🇪O447958132",
+			"group": 2,
+			"x": 774,
+			"y": -1292,
+			"proj": 3
+		},
+		{
+			"name": "Charlottenberg",
+			"ril100": "🇸🇪O251357455",
+			"group": 2,
+			"x": 765,
+			"y": -1310,
+			"proj": 3
+		},
+		{
+			"name": "Skotterud",
+			"ril100": "🇳🇴O1291093054",
+			"group": 5,
+			"x": 742,
+			"y": -1326,
+			"proj": 3
+		},
+		{
+			"name": "Åbogen",
+			"ril100": "🇳🇴O3099160276",
+			"group": 5,
+			"x": 741,
+			"y": -1346,
+			"proj": 3
+		},
+		{
+			"name": "Kongsvinger",
+			"ril100": "XOKN",
+			"group": 2,
+			"x": 727,
+			"y": -1358,
+			"proj": 3
+		},
+		{
+			"name": "Sander",
+			"ril100": "🇳🇴O2779927194",
+			"group": 5,
+			"x": 703,
+			"y": -1364,
+			"proj": 3
+		},
+		{
+			"name": "Skarnes",
+			"ril100": "XOSE",
+			"group": 2,
+			"x": 687,
+			"y": -1369,
+			"proj": 3
+		},
+		{
+			"name": "Disenå",
+			"ril100": "🇳🇴O5709159949",
+			"group": 5,
+			"x": 682,
+			"y": -1362,
+			"proj": 3
+		},
+		{
+			"name": "Arnes",
+			"ril100": "XOAE",
+			"group": 2,
+			"x": 660,
+			"y": -1348,
+			"proj": 3
+		},
+		{
+			"name": "Haga",
+			"ril100": "🇳🇴O2778334157",
+			"group": 2,
+			"x": 649,
+			"y": -1337,
+			"proj": 3
+		},
+		{
+			"name": "Rånåsfoss",
+			"ril100": "🇳🇴O2778334159",
+			"group": 2,
+			"x": 643,
+			"y": -1333,
+			"proj": 3
+		},
+		{
+			"name": "Blaker",
+			"ril100": "🇳🇴O2778334235",
+			"group": 2,
+			"x": 640,
+			"y": -1329,
+			"proj": 3
+		},
+		{
+			"name": "Sorumsand",
+			"ril100": "XOSSA",
+			"group": 2,
+			"x": 632,
+			"y": -1326,
+			"proj": 3
+		},
+		{
+			"name": "Fetsund",
+			"ril100": "🇳🇴O2443139435",
+			"group": 2,
+			"x": 622,
+			"y": -1317,
+			"proj": 3
+		},
+		{
+			"name": "Lillestrom",
+			"ril100": "XOLS",
+			"group": 2,
+			"x": 608,
+			"y": -1321,
+			"proj": 3
 		}
 	]
 }
