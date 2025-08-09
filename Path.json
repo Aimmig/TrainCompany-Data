@@ -8411,6 +8411,72 @@
 			]
 		},
 		{
+			"name": "Arendalsbanen",
+			"electrified": true,
+			"neededEquipments": [
+				"NO"
+			],
+			"group": 1,
+			"objects": [
+				{
+					"start": "XONL",
+					"end": "🇳🇴02136",
+					"length": 4,
+					"maxSpeed": 85,
+					"twistingFactor": 0.35
+				},
+				{
+					"start": "🇳🇴02136",
+					"end": "🇳🇴O250911243",
+					"length": 7,
+					"maxSpeed": 85,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O250911243",
+					"end": "🇳🇴02140",
+					"length": 5,
+					"maxSpeed": 90,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴02140",
+					"end": "🇳🇴O3050356012",
+					"length": 2,
+					"maxSpeed": 90,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "🇳🇴O3050356012",
+					"end": "🇳🇴02142",
+					"length": 4,
+					"maxSpeed": 90,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "🇳🇴02142",
+					"end": "🇳🇴O5526331896",
+					"length": 4,
+					"maxSpeed": 70,
+					"twistingFactor": 0.36
+				},
+				{
+					"start": "🇳🇴O5526331896",
+					"end": "🇳🇴O5526332059",
+					"length": 1,
+					"maxSpeed": 70,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526332059",
+					"end": "🇳🇴02146",
+					"length": 3,
+					"maxSpeed": 70,
+					"twistingFactor": 0.12
+				}
+			]
+		},
+		{
 			"twistingFactor": 0.1,
 			"maxSpeed": 140,
 			"objects": [

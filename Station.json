@@ -44520,6 +44520,70 @@
 			"proj": 3
 		},
 		{
+			"name": "Flaten",
+			"ril100": "🇳🇴02136",
+			"group": 5,
+			"x": 309,
+			"y": -1113,
+			"proj": 3
+		},
+		{
+			"name": "Bøylestad",
+			"ril100": "🇳🇴O250911243",
+			"group": 5,
+			"x": 312,
+			"y": -1104,
+			"proj": 3
+		},
+		{
+			"name": "Froland",
+			"ril100": "🇳🇴02140",
+			"group": 5,
+			"x": 305,
+			"y": -1096,
+			"proj": 3
+		},
+		{
+			"name": "Blakstad",
+			"ril100": "🇳🇴O3050356012",
+			"group": 2,
+			"x": 304,
+			"y": -1093,
+			"proj": 3
+		},
+		{
+			"name": "Rise",
+			"ril100": "🇳🇴02142",
+			"group": 5,
+			"x": 301,
+			"y": -1086,
+			"proj": 3
+		},
+		{
+			"name": "Bråstad",
+			"ril100": "🇳🇴O5526331896",
+			"group": 5,
+			"x": 310,
+			"y": -1085,
+			"proj": 3
+		},
+		{
+			"name": "Stoa",
+			"ril100": "🇳🇴O5526332059",
+			"group": 2,
+			"x": 312,
+			"y": -1086,
+			"proj": 3
+		},
+		{
+			"name": "Arendal",
+			"ril100": "🇳🇴02146",
+			"group": 1,
+			"x": 320,
+			"y": -1086,
+			"proj": 3
+		},
+		{
 			"group": 0,
 			"name": "Singen (Hohentwiel)",
 			"ril100": "RSI",
