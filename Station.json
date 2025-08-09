@@ -10249,7 +10249,7 @@
 		{
 			"name": "Lillestrom",
 			"ril100": "XOLS",
-			"group": 2,
+			"group": 1,
 			"x": 608,
 			"y": -1321,
 			"proj": 3
@@ -37788,7 +37788,7 @@
 		{
 			"name": "Drammen",
 			"ril100": "XODM",
-			"group": 2,
+			"group": 1,
 			"x": 502,
 			"y": -1288,
 			"proj": 3
@@ -37822,7 +37822,7 @@
 		{
 			"name": "Hokksund",
 			"ril100": "XOHO",
-			"group": 2,
+			"group": 1,
 			"x": 465,
 			"y": -1292,
 			"proj": 3
@@ -37870,7 +37870,7 @@
 		{
 			"name": "Honefoss",
 			"ril100": "XOHF",
-			"group": 2,
+			"group": 1,
 			"x": 507,
 			"y": -1355,
 			"proj": 3
@@ -38182,7 +38182,7 @@
 		{
 			"name": "Bergen",
 			"ril100": "🇳🇴02351",
-			"group": 2,
+			"group": 1,
 			"x": -106,
 			"y": -1390,
 			"platformLength": 41,
@@ -66406,7 +66406,7 @@
 		{
 			"name": "Stavanger",
 			"ril100": "XOSR",
-			"group": 2,
+			"group": 1,
 			"x": -63,
 			"y": -1165,
 			"proj": 3
@@ -66606,7 +66606,7 @@
 		{
 			"name": "Kristiansand",
 			"ril100": "XOKS",
-			"group": 2,
+			"group": 1,
 			"x": 219,
 			"y": -1035,
 			"proj": 3
@@ -84795,7 +84795,7 @@
 		{
 			"name": "Roa",
 			"ril100": "XOR",
-			"group": 2,
+			"group": 1,
 			"x": 554,
 			"y": -1373,
 			"proj": 3
@@ -84859,7 +84859,7 @@
 		{
 			"name": "Gjovik",
 			"ril100": "XOGJ",
-			"group": 2,
+			"group": 1,
 			"x": 563,
 			"y": -1454,
 			"proj": 3
