@@ -43448,6 +43448,55 @@
 			]
 		},
 		{
+			"name": "Roa-Hønefossbanen",
+			"electrified": true,
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
+				{
+					"start": "XOHF",
+					"end": "🇳🇴O2687579655",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 65,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O2687579655",
+					"end": "🇳🇴O11161033296",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 100,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇳🇴O11161033296",
+					"end": "🇳🇴O11161081063",
+					"group": 1,
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.26
+				},
+				{
+					"start": "🇳🇴O11161081063",
+					"end": "🇳🇴O5712251488",
+					"group": 1,
+					"length": 3,
+					"maxSpeed": 90,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O5712251488",
+					"end": "XOR",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 90,
+					"twistingFactor": 0.17
+				}
+			]
+		},
+		{
 			"name": "South Wales Main Line",
 			"electrified": true,
 			"group": 0,

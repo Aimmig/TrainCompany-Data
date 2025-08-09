@@ -56467,6 +56467,38 @@
 			"proj": 3
 		},
 		{
+			"name": "Hval",
+			"ril100": "🇳🇴O2687579655",
+			"group": 5,
+			"x": 515,
+			"y": -1358,
+			"proj": 3
+		},
+		{
+			"name": "Jevnaker stasjon",
+			"ril100": "🇳🇴O11161033296",
+			"group": 2,
+			"x": 527,
+			"y": -1366,
+			"proj": 3
+		},
+		{
+			"name": "Gunstad stasjon",
+			"ril100": "🇳🇴O11161081063",
+			"group": 5,
+			"x": 529,
+			"y": -1375,
+			"proj": 3
+		},
+		{
+			"name": "Grindvoll",
+			"ril100": "🇳🇴O5712251488",
+			"group": 5,
+			"x": 538,
+			"y": -1375,
+			"proj": 3
+		},
+		{
 			"name": "Pavlovsk",
 			"ril100": "🇷🇺O4138001513",
 			"group": 5,
