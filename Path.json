@@ -67106,6 +67106,572 @@
 		},
 		{
 			"electrified": true,
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
+				{
+					"start": "🇳🇴O660921",
+					"end": "XOSY",
+					"name": "Oslotunnelen",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 90,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XOSY",
+					"end": "🇳🇴O5526332060",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 90,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O5526332060",
+					"end": "🇳🇴O240488207",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 160,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "🇳🇴O240488207",
+					"end": "🇳🇴O240487830",
+					"name": "Drammenbanen",
+					"group": 1,
+					"length": 1,
+					"maxSpeed": 105,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O240487830",
+					"end": "🇳🇴O5720557868",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 95,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5720557868",
+					"end": "XOSV",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 160,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XOSV",
+					"end": "🇳🇴O1069972499",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 110,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "🇳🇴O1069972499",
+					"end": "🇳🇴O2014813987",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 105,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "🇳🇴O2014813987",
+					"end": "🇳🇴O1077168534",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 105,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "🇳🇴O1077168534",
+					"end": "🇳🇴O1471000208",
+					"name": "Drammenbanen",
+					"group": 1,
+					"length": 1,
+					"maxSpeed": 105,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O1471000208",
+					"end": "🇳🇴O1471000269",
+					"name": "Drammenbanen",
+					"group": 1,
+					"length": 0,
+					"maxSpeed": 105,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O1471000269",
+					"end": "XOAK",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 105,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XOAK",
+					"end": "🇳🇴O2409183975",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 11,
+					"maxSpeed": 130,
+					"twistingFactor": 0.11
+				},
+				{
+					"start": "🇳🇴O2409183975",
+					"end": "🇳🇴O2409857393",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 3,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O2409857393",
+					"end": "XODM",
+					"name": "Drammenbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 100,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "XODM",
+					"end": "🇳🇴O31376090",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 130,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O31376090",
+					"end": "🇳🇴01603",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 130,
+					"twistingFactor": 0.11
+				},
+				{
+					"start": "🇳🇴01603",
+					"end": "🇳🇴O5720557918",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5720557918",
+					"end": "XOHO",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 3,
+					"maxSpeed": 130,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "XOHO",
+					"end": "🇳🇴O31375286",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 21,
+					"maxSpeed": 120,
+					"twistingFactor": 0.25
+				},
+				{
+					"start": "🇳🇴O31375286",
+					"end": "XOVS",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 115,
+					"twistingFactor": 0.04
+				},
+				{
+					"start": "XOVS",
+					"end": "🇳🇴O9666267602",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 6,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O9666267602",
+					"end": "🇳🇴O5712251498",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 130,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O5712251498",
+					"end": "🇳🇴O9665436171",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 6,
+					"maxSpeed": 120,
+					"twistingFactor": 0.25
+				},
+				{
+					"start": "🇳🇴O9665436171",
+					"end": "XOHF",
+					"name": "Randsfjordbanen",
+					"group": 0,
+					"length": 6,
+					"maxSpeed": 130,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "XOHF",
+					"end": "🇳🇴O33044639",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 22,
+					"maxSpeed": 130,
+					"twistingFactor": 0.27
+				},
+				{
+					"start": "🇳🇴O33044639",
+					"end": "🇳🇴O5594662244",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 28,
+					"maxSpeed": 130,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "🇳🇴O5594662244",
+					"end": "XOF",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 10,
+					"maxSpeed": 120,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "XOF",
+					"end": "XONB",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 33,
+					"maxSpeed": 130,
+					"twistingFactor": 0.37
+				},
+				{
+					"start": "XONB",
+					"end": "XOG",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 16,
+					"maxSpeed": 130,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "XOG",
+					"end": "🇳🇴O5594659008",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 15,
+					"maxSpeed": 120,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "🇳🇴O5594659008",
+					"end": "XOA",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 10,
+					"maxSpeed": 130,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "XOA",
+					"end": "XOGI",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 24,
+					"maxSpeed": 130,
+					"twistingFactor": 0.22
+				},
+				{
+					"start": "XOGI",
+					"end": "XOUS",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 11,
+					"maxSpeed": 115,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "XOUS",
+					"end": "🇳🇴02321",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 10,
+					"maxSpeed": 130,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "🇳🇴02321",
+					"end": "XOFI",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 25,
+					"maxSpeed": 160,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "XOFI",
+					"end": "XOHL",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 16,
+					"maxSpeed": 160,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XOHL",
+					"end": "XOMY",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 12,
+					"maxSpeed": 70,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "XOMY",
+					"end": "🇳🇴02325",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 6,
+					"maxSpeed": 70,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴02325",
+					"end": "🇳🇴O5526331838",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 90,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526331838",
+					"end": "🇳🇴32134",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 90,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "🇳🇴32134",
+					"end": "🇳🇴O33053804",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 90,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "🇳🇴O33053804",
+					"end": "🇳🇴02326",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 90,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "🇳🇴02326",
+					"end": "🇳🇴02327",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 100,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇳🇴02327",
+					"end": "🇳🇴O5526331840",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 3,
+					"maxSpeed": 100,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "🇳🇴O5526331840",
+					"end": "🇳🇴O5526331835",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 3,
+					"maxSpeed": 90,
+					"twistingFactor": 0.27
+				},
+				{
+					"start": "🇳🇴O5526331835",
+					"end": "🇳🇴02328",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 1,
+					"maxSpeed": 90,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴02328",
+					"end": "🇳🇴O33054499",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 90,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "🇳🇴O33054499",
+					"end": "🇳🇴O33054735",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 75,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "🇳🇴O33054735",
+					"end": "🇳🇴O5011725047",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 105,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5011725047",
+					"end": "XOV",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 3,
+					"maxSpeed": 100,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "XOV",
+					"end": "🇳🇴O432638967",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 7,
+					"maxSpeed": 130,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O432638967",
+					"end": "🇳🇴O5526332051",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 2,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526332051",
+					"end": "🇳🇴O5526331892",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 7,
+					"maxSpeed": 90,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴O5526331892",
+					"end": "🇳🇴O5526332224",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "🇳🇴O5526332224",
+					"end": "XOD",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 10,
+					"maxSpeed": 130,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XOD",
+					"end": "🇳🇴02336",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇳🇴02336",
+					"end": "🇳🇴02337",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 8,
+					"maxSpeed": 110,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇳🇴02337",
+					"end": "🇳🇴O9976325318",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 4,
+					"maxSpeed": 80,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇳🇴O9976325318",
+					"end": "🇳🇴02339",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 5,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴02339",
+					"end": "XOAR",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "XOAR",
+					"end": "🇳🇴02351",
+					"name": "Bergensbanen",
+					"group": 0,
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.25
+				}
+			]
+		},
+		{
+			"electrified": true,
 			"group": 0,
 			"neededEquipments": [
 				"CH"

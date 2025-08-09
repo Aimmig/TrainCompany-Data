@@ -37674,6 +37674,532 @@
 			"proj": 3
 		},
 		{
+			"name": "Oslo S",
+			"ril100": "🇳🇴O660921",
+			"group": 2,
+			"x": 571,
+			"y": -1315,
+			"platformLength": 78,
+			"platforms": 9,
+			"proj": 3
+		},
+		{
+			"name": "Skoyen",
+			"ril100": "XOSY",
+			"group": 2,
+			"x": 562,
+			"y": -1316,
+			"proj": 3
+		},
+		{
+			"name": "Lysaker",
+			"ril100": "🇳🇴O5526332060",
+			"group": 2,
+			"x": 556,
+			"y": -1315,
+			"proj": 3
+		},
+		{
+			"name": "Stabekk",
+			"ril100": "🇳🇴O240488207",
+			"group": 5,
+			"x": 553,
+			"y": -1314,
+			"proj": 3
+		},
+		{
+			"name": "Høvik",
+			"ril100": "🇳🇴O240487830",
+			"group": 5,
+			"x": 549,
+			"y": -1313,
+			"proj": 3
+		},
+		{
+			"name": "Blommenholm",
+			"ril100": "🇳🇴O5720557868",
+			"group": 5,
+			"x": 546,
+			"y": -1312,
+			"proj": 3
+		},
+		{
+			"name": "Sandvika",
+			"ril100": "XOSV",
+			"group": 2,
+			"x": 542,
+			"y": -1312,
+			"proj": 3
+		},
+		{
+			"name": "Slependen",
+			"ril100": "🇳🇴O1069972499",
+			"group": 5,
+			"x": 539,
+			"y": -1311,
+			"proj": 3
+		},
+		{
+			"name": "Billingstad",
+			"ril100": "🇳🇴O2014813987",
+			"group": 5,
+			"x": 537,
+			"y": -1309,
+			"proj": 3
+		},
+		{
+			"name": "Hvalstad",
+			"ril100": "🇳🇴O1077168534",
+			"group": 5,
+			"x": 534,
+			"y": -1306,
+			"proj": 3
+		},
+		{
+			"name": "Vakås",
+			"ril100": "🇳🇴O1471000208",
+			"group": 5,
+			"x": 535,
+			"y": -1305,
+			"proj": 3
+		},
+		{
+			"name": "Høn",
+			"ril100": "🇳🇴O1471000269",
+			"group": 5,
+			"x": 534,
+			"y": -1304,
+			"proj": 3
+		},
+		{
+			"name": "Asker",
+			"ril100": "XOAK",
+			"group": 2,
+			"x": 531,
+			"y": -1302,
+			"proj": 3
+		},
+		{
+			"name": "Lier",
+			"ril100": "🇳🇴O2409183975",
+			"group": 2,
+			"x": 513,
+			"y": -1291,
+			"proj": 3
+		},
+		{
+			"name": "Brakerøya",
+			"ril100": "🇳🇴O2409857393",
+			"group": 2,
+			"x": 506,
+			"y": -1288,
+			"proj": 3
+		},
+		{
+			"name": "Drammen",
+			"ril100": "XODM",
+			"group": 2,
+			"x": 502,
+			"y": -1288,
+			"proj": 3
+		},
+		{
+			"name": "Gulskogen",
+			"ril100": "🇳🇴O31376090",
+			"group": 2,
+			"x": 496,
+			"y": -1288,
+			"proj": 3
+		},
+		{
+			"name": "Mjøndalen",
+			"ril100": "🇳🇴01603",
+			"group": 2,
+			"x": 478,
+			"y": -1289,
+			"proj": 3
+		},
+		{
+			"name": "Steinberg",
+			"ril100": "🇳🇴O5720557918",
+			"group": 2,
+			"x": 472,
+			"y": -1291,
+			"platformLength": 127,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Hokksund",
+			"ril100": "XOHO",
+			"group": 2,
+			"x": 465,
+			"y": -1292,
+			"proj": 3
+		},
+		{
+			"name": "Geithus",
+			"ril100": "🇳🇴O31375286",
+			"group": 5,
+			"x": 473,
+			"y": -1318,
+			"proj": 3
+		},
+		{
+			"name": "Vikersund",
+			"ril100": "XOVS",
+			"group": 2,
+			"x": 476,
+			"y": -1324,
+			"proj": 3
+		},
+		{
+			"name": "Ås",
+			"ril100": "🇳🇴O9666267602",
+			"group": -1,
+			"x": 480,
+			"y": -1332,
+			"proj": 3
+		},
+		{
+			"name": "Tyristrand",
+			"ril100": "🇳🇴O5712251498",
+			"group": 5,
+			"x": 490,
+			"y": -1342,
+			"proj": 3
+		},
+		{
+			"name": "Hjelle",
+			"ril100": "🇳🇴O9665436171",
+			"group": -1,
+			"x": 495,
+			"y": -1350,
+			"proj": 3
+		},
+		{
+			"name": "Honefoss",
+			"ril100": "XOHF",
+			"group": 2,
+			"x": 507,
+			"y": -1355,
+			"proj": 3
+		},
+		{
+			"name": "Sokna",
+			"ril100": "🇳🇴O33044639",
+			"group": 5,
+			"x": 467,
+			"y": -1367,
+			"proj": 3
+		},
+		{
+			"name": "Gulsvik",
+			"ril100": "🇳🇴O5594662244",
+			"group": 5,
+			"x": 427,
+			"y": -1389,
+			"proj": 3
+		},
+		{
+			"name": "Fla",
+			"ril100": "XOF",
+			"group": 2,
+			"x": 411,
+			"y": -1397,
+			"proj": 3
+		},
+		{
+			"name": "Nesbyen",
+			"ril100": "XONB",
+			"group": 2,
+			"x": 366,
+			"y": -1419,
+			"proj": 3
+		},
+		{
+			"name": "Gol",
+			"ril100": "XOG",
+			"group": 2,
+			"x": 348,
+			"y": -1438,
+			"proj": 3
+		},
+		{
+			"name": "Torpo",
+			"ril100": "🇳🇴O5594659008",
+			"group": 5,
+			"x": 316,
+			"y": -1432,
+			"proj": 3
+		},
+		{
+			"name": "Al",
+			"ril100": "XOA",
+			"group": 2,
+			"x": 297,
+			"y": -1427,
+			"proj": 3
+		},
+		{
+			"name": "Geilo",
+			"ril100": "XOGI",
+			"group": 2,
+			"x": 253,
+			"y": -1413,
+			"proj": 3
+		},
+		{
+			"name": "Ustaoset",
+			"ril100": "XOUS",
+			"group": 2,
+			"x": 232,
+			"y": -1407,
+			"platformLength": 323,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Haugastøl",
+			"ril100": "🇳🇴02321",
+			"group": 2,
+			"x": 210,
+			"y": -1409,
+			"proj": 3
+		},
+		{
+			"name": "Finse",
+			"ril100": "XOFI",
+			"group": 2,
+			"x": 165,
+			"y": -1423,
+			"proj": 3
+		},
+		{
+			"name": "Hallingskeid",
+			"ril100": "XOHL",
+			"group": 2,
+			"x": 134,
+			"y": -1434,
+			"proj": 3
+		},
+		{
+			"name": "Myrdal",
+			"ril100": "XOMY",
+			"group": 2,
+			"x": 118,
+			"y": -1444,
+			"platformLength": 250,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Upsete",
+			"ril100": "🇳🇴02325",
+			"group": 2,
+			"x": 104,
+			"y": -1443,
+			"platformLength": 97,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vieren",
+			"ril100": "🇳🇴O5526331838",
+			"group": 5,
+			"x": 100,
+			"y": -1440,
+			"proj": 3
+		},
+		{
+			"name": "Ørneberget",
+			"ril100": "🇳🇴32134",
+			"group": 2,
+			"x": 95,
+			"y": -1439,
+			"platformLength": 172,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Ljosanbotn",
+			"ril100": "🇳🇴O33053804",
+			"group": 5,
+			"x": 90,
+			"y": -1440,
+			"platformLength": 45,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Mjølfjell",
+			"ril100": "🇳🇴02326",
+			"group": 2,
+			"x": 83,
+			"y": -1438,
+			"proj": 3
+		},
+		{
+			"name": "Reimegrend",
+			"ril100": "🇳🇴02327",
+			"group": 2,
+			"x": 69,
+			"y": -1435,
+			"proj": 3
+		},
+		{
+			"name": "Skiple",
+			"ril100": "🇳🇴O5526331840",
+			"group": 5,
+			"x": 63,
+			"y": -1436,
+			"proj": 3
+		},
+		{
+			"name": "Øyeflaten",
+			"ril100": "🇳🇴O5526331835",
+			"group": 5,
+			"x": 56,
+			"y": -1435,
+			"proj": 3
+		},
+		{
+			"name": "Urdland",
+			"ril100": "🇳🇴02328",
+			"group": 2,
+			"x": 52,
+			"y": -1435,
+			"proj": 3
+		},
+		{
+			"name": "Kløve",
+			"ril100": "🇳🇴O33054499",
+			"group": 5,
+			"x": 44,
+			"y": -1433,
+			"proj": 3
+		},
+		{
+			"name": "Ygre",
+			"ril100": "🇳🇴O33054735",
+			"group": 5,
+			"x": 41,
+			"y": -1430,
+			"proj": 3
+		},
+		{
+			"name": "Gjerdåker",
+			"ril100": "🇳🇴O5011725047",
+			"group": 5,
+			"x": 35,
+			"y": -1429,
+			"proj": 3
+		},
+		{
+			"name": "Voss",
+			"ril100": "XOV",
+			"group": 2,
+			"x": 29,
+			"y": -1427,
+			"proj": 3
+		},
+		{
+			"name": "Bulken",
+			"ril100": "🇳🇴O432638967",
+			"group": 2,
+			"x": 13,
+			"y": -1428,
+			"proj": 3
+		},
+		{
+			"name": "Seimsgrend",
+			"ril100": "🇳🇴O5526332051",
+			"group": 5,
+			"x": 7,
+			"y": -1428,
+			"proj": 3
+		},
+		{
+			"name": "Evanger",
+			"ril100": "🇳🇴O5526331892",
+			"group": 2,
+			"x": -8,
+			"y": -1430,
+			"proj": 3
+		},
+		{
+			"name": "Bolstadøyri",
+			"ril100": "🇳🇴O5526332224",
+			"group": 2,
+			"x": -27,
+			"y": -1429,
+			"proj": 3
+		},
+		{
+			"name": "Dale",
+			"ril100": "XOD",
+			"group": 2,
+			"x": -45,
+			"y": -1421,
+			"proj": 3
+		},
+		{
+			"name": "Stanghelle",
+			"ril100": "🇳🇴02336",
+			"group": 2,
+			"x": -55,
+			"y": -1415,
+			"platformLength": 153,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vaksdal",
+			"ril100": "🇳🇴02337",
+			"group": 2,
+			"x": -55,
+			"y": -1404,
+			"platformLength": 158,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Langhelle",
+			"ril100": "🇳🇴O9976325318",
+			"group": -1,
+			"x": -58,
+			"y": -1400,
+			"proj": 3
+		},
+		{
+			"name": "Trengereid",
+			"ril100": "🇳🇴02339",
+			"group": 2,
+			"x": -69,
+			"y": -1396,
+			"proj": 3
+		},
+		{
+			"name": "Arna",
+			"ril100": "XOAR",
+			"group": 2,
+			"x": -89,
+			"y": -1395,
+			"platformLength": 367,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Bergen",
+			"ril100": "🇳🇴02351",
+			"group": 2,
+			"x": -106,
+			"y": -1390,
+			"platformLength": 41,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Amqui",
 			"ril100": "🇨🇦O7039606483",
 			"group": 5,
