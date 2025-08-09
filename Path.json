@@ -35152,6 +35152,317 @@
 			]
 		},
 		{
+			"name": "Sørlandsbanen",
+			"electrified": true,
+			"group": 0,
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
+				{
+					"start": "XOSR",
+					"end": "🇳🇴O5526332082",
+					"length": 15,
+					"maxSpeed": 100,
+					"twistingFactor": 0.26
+				},
+				{
+					"start": "🇳🇴O5526332082",
+					"end": "🇳🇴O5526332086",
+					"length": 2,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526332086",
+					"end": "🇳🇴02224",
+					"length": 6,
+					"maxSpeed": 130,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "🇳🇴02224",
+					"end": "XOBY",
+					"length": 4,
+					"maxSpeed": 125,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "XOBY",
+					"end": "🇳🇴O5526332021",
+					"length": 7,
+					"maxSpeed": 130,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "🇳🇴O5526332021",
+					"end": "🇳🇴02220",
+					"length": 5,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴02220",
+					"end": "🇳🇴02219",
+					"length": 5,
+					"maxSpeed": 130,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴02219",
+					"end": "🇳🇴O5526332035",
+					"length": 4,
+					"maxSpeed": 130,
+					"twistingFactor": 0.06
+				},
+				{
+					"start": "🇳🇴O5526332035",
+					"end": "🇳🇴O672560811",
+					"length": 3,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O672560811",
+					"end": "🇳🇴O5526332097",
+					"length": 2,
+					"maxSpeed": 100,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "🇳🇴O5526332097",
+					"end": "🇳🇴O672560864",
+					"length": 5,
+					"maxSpeed": 110,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "🇳🇴O672560864",
+					"end": "XOES",
+					"length": 6,
+					"maxSpeed": 115,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XOES",
+					"end": "🇳🇴O5594218123",
+					"length": 15,
+					"maxSpeed": 100,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "🇳🇴O5594218123",
+					"end": "🇳🇴O5594217617",
+					"length": 12,
+					"maxSpeed": 105,
+					"twistingFactor": 0.27
+				},
+				{
+					"start": "🇳🇴O5594217617",
+					"end": "🇳🇴O5594217592",
+					"length": 7,
+					"maxSpeed": 130,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "🇳🇴O5594217592",
+					"end": "XOM",
+					"length": 13,
+					"maxSpeed": 105,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "XOM",
+					"end": "XOSI",
+					"length": 8,
+					"maxSpeed": 130,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "XOSI",
+					"end": "XOGY",
+					"length": 15,
+					"maxSpeed": 130,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "XOGY",
+					"end": "XOSKV",
+					"length": 7,
+					"maxSpeed": 130,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "XOSKV",
+					"end": "XOSM",
+					"length": 17,
+					"maxSpeed": 160,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "XOSM",
+					"end": "🇳🇴O527384485",
+					"length": 13,
+					"maxSpeed": 160,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇳🇴O527384485",
+					"end": "XOMD",
+					"length": 13,
+					"maxSpeed": 110,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "XOMD",
+					"end": "XOBL",
+					"length": 16,
+					"maxSpeed": 110,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "XOBL",
+					"end": "XONO",
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "XONO",
+					"end": "XOKS",
+					"length": 9,
+					"maxSpeed": 130,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "XOKS",
+					"end": "XOVN",
+					"length": 14,
+					"maxSpeed": 120,
+					"twistingFactor": 0.32
+				},
+				{
+					"start": "XOVN",
+					"end": "🇳🇴O5594450690",
+					"length": 4,
+					"maxSpeed": 100,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "🇳🇴O5594450690",
+					"end": "🇳🇴O5594450655",
+					"length": 19,
+					"maxSpeed": 120,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "🇳🇴O5594450655",
+					"end": "🇳🇴O3951893291",
+					"length": 27,
+					"maxSpeed": 120,
+					"twistingFactor": 0.22
+				},
+				{
+					"start": "🇳🇴O3951893291",
+					"end": "XONL",
+					"length": 16,
+					"maxSpeed": 110,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "XONL",
+					"end": "XOVH",
+					"length": 19,
+					"maxSpeed": 130,
+					"twistingFactor": 0.26
+				},
+				{
+					"start": "XOVH",
+					"end": "XOGS",
+					"length": 24,
+					"maxSpeed": 105,
+					"twistingFactor": 0.44
+				},
+				{
+					"start": "XOGS",
+					"end": "XODR",
+					"length": 31,
+					"maxSpeed": 110,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "XODR",
+					"end": "XOLU",
+					"length": 27,
+					"maxSpeed": 105,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "XOLU",
+					"end": "XOBO",
+					"length": 13,
+					"maxSpeed": 100,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "XOBO",
+					"end": "🇳🇴O3122567931",
+					"length": 6,
+					"maxSpeed": 90,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O3122567931",
+					"end": "XONA",
+					"length": 10,
+					"maxSpeed": 95,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "XONA",
+					"end": "🇳🇴O2368279883",
+					"length": 40,
+					"maxSpeed": 120,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇳🇴O2368279883",
+					"end": "XOKB",
+					"length": 6,
+					"maxSpeed": 95,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "XOKB",
+					"end": "🇳🇴O5709373901",
+					"length": 6,
+					"maxSpeed": 110,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇳🇴O5709373901",
+					"end": "🇳🇴O5720557898",
+					"length": 10,
+					"maxSpeed": 110,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "🇳🇴O5720557898",
+					"end": "🇳🇴O2412119882",
+					"length": 5,
+					"maxSpeed": 110,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "🇳🇴O2412119882",
+					"end": "XOHO",
+					"length": 5,
+					"maxSpeed": 130,
+					"twistingFactor": 0.32
+				}
+			]
+		},
+		{
 			"name": "Vogelfluglinie",
 			"group": 0,
 			"electrified": false,
