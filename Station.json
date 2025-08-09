@@ -77226,38 +77226,6 @@
 			"proj": 3
 		},
 		{
-			"name": "Sävenäs",
-			"ril100": "XVSAV",
-			"group": 2,
-			"x": 736,
-			"y": -968,
-			"proj": 3
-		},
-		{
-			"name": "Partille",
-			"ril100": "XVPT",
-			"group": 2,
-			"x": 746,
-			"y": -970,
-			"proj": 3
-		},
-		{
-			"name": "Jonsered",
-			"ril100": "XVJO",
-			"group": 2,
-			"x": 755,
-			"y": -972,
-			"proj": 3
-		},
-		{
-			"name": "Aspen",
-			"ril100": "XVAP",
-			"group": 2,
-			"x": 763,
-			"y": -973,
-			"proj": 3
-		},
-		{
 			"name": "Aspedalen",
 			"ril100": "XVAD",
 			"group": 2,
@@ -77268,30 +77236,6 @@
 			"proj": 3
 		},
 		{
-			"name": "Lerum",
-			"ril100": "XVLE",
-			"group": 2,
-			"x": 767,
-			"y": -975,
-			"proj": 3
-		},
-		{
-			"name": "Stenkullen",
-			"ril100": "XVSK",
-			"group": 2,
-			"x": 773,
-			"y": -978,
-			"proj": 3
-		},
-		{
-			"name": "Floda",
-			"ril100": "XVFL",
-			"group": 2,
-			"x": 779,
-			"y": -981,
-			"proj": 3
-		},
-		{
 			"name": "Norsesund",
 			"ril100": "XVNS",
 			"group": 2,
@@ -77299,14 +77243,6 @@
 			"y": -989,
 			"platformLength": 170,
 			"platforms": 3,
-			"proj": 3
-		},
-		{
-			"name": "Västra bodarna",
-			"ril100": "🇸🇪O3158244409",
-			"group": 2,
-			"x": 793,
-			"y": -994,
 			"proj": 3
 		},
 		{
