@@ -77202,6 +77202,110 @@
 			"proj": 3
 		},
 		{
+			"name": "Nordstrand",
+			"ril100": "🇳🇴O2811385243",
+			"group": 5,
+			"x": 575,
+			"y": -1307,
+			"proj": 3
+		},
+		{
+			"name": "Ljan",
+			"ril100": "🇳🇴O2009165633",
+			"group": 5,
+			"x": 575,
+			"y": -1306,
+			"proj": 3
+		},
+		{
+			"name": "Hauketo",
+			"ril100": "🇳🇴O1339478491",
+			"group": 5,
+			"x": 577,
+			"y": -1304,
+			"proj": 3
+		},
+		{
+			"name": "Holmlia",
+			"ril100": "🇳🇴O5526332106",
+			"group": 5,
+			"x": 577,
+			"y": -1303,
+			"proj": 3
+		},
+		{
+			"name": "Rosenholm",
+			"ril100": "🇳🇴O1339478296",
+			"group": 5,
+			"x": 577,
+			"y": -1301,
+			"proj": 3
+		},
+		{
+			"name": "Kolbotn",
+			"ril100": "🇳🇴O1339424603",
+			"group": 5,
+			"x": 577,
+			"y": -1299,
+			"proj": 3
+		},
+		{
+			"name": "Solbråtan",
+			"ril100": "🇳🇴O2009165698",
+			"group": 5,
+			"x": 577,
+			"y": -1297,
+			"proj": 3
+		},
+		{
+			"name": "Myrvoll",
+			"ril100": "🇳🇴O5526332103",
+			"group": 5,
+			"x": 577,
+			"y": -1295,
+			"proj": 3
+		},
+		{
+			"name": "Greverud",
+			"ril100": "🇳🇴O5526332093",
+			"group": 5,
+			"x": 578,
+			"y": -1293,
+			"proj": 3
+		},
+		{
+			"name": "Oppegård",
+			"ril100": "🇳🇴O5720557873",
+			"group": 5,
+			"x": 579,
+			"y": -1292,
+			"proj": 3
+		},
+		{
+			"name": "Langhus",
+			"ril100": "🇳🇴O1339424167",
+			"group": 5,
+			"x": 582,
+			"y": -1289,
+			"proj": 3
+		},
+		{
+			"name": "Blixtunneln Nord",
+			"ril100": "🇳🇴BlixtunnelnNorth",
+			"group": 6,
+			"x": 578,
+			"y": -1311,
+			"proj": 3
+		},
+		{
+			"name": "Blixtunneln South",
+			"ril100": "🇳🇴BlixtunnelnSouth",
+			"group": 6,
+			"x": 583,
+			"y": -1290,
+			"proj": 3
+		},
+		{
 			"name": "Oslo S",
 			"ril100": "XOO",
 			"group": 0,

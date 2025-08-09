@@ -16368,6 +16368,131 @@
 		},
 		{
 			"electrified": true,
+			"group": 2,
+			"maxSpeed": 200,
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
+				{
+					"start": "XOO",
+					"end": "🇳🇴BlixtunnelnNorth",
+					"name": "Follobanen",
+					"length": 4,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "🇳🇴BlixtunnelnNorth",
+					"end": "🇳🇴BlixtunnelnSouth",
+					"name": "Follobanen",
+					"length": 13,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴BlixtunnelnSouth",
+					"end": "XOS",
+					"name": "Follobanen",
+					"length": 4,
+					"twistingFactor": 0.25
+				}
+			]
+		},
+		{
+			"name": "Østfoldbanen",
+			"electrified": true,
+			"group": 1,
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
+				{
+					"start": "XOO",
+					"end": "🇳🇴O2811385243",
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "🇳🇴O2811385243",
+					"end": "🇳🇴O2009165633",
+					"length": 1,
+					"maxSpeed": 95,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O2009165633",
+					"end": "🇳🇴O1339478491",
+					"length": 1,
+					"maxSpeed": 85,
+					"twistingFactor": 0.31
+				},
+				{
+					"start": "🇳🇴O1339478491",
+					"end": "🇳🇴O5526332106",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "🇳🇴O5526332106",
+					"end": "🇳🇴O1339478296",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O1339478296",
+					"end": "🇳🇴O1339424603",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O1339424603",
+					"end": "🇳🇴O2009165698",
+					"length": 1,
+					"maxSpeed": 105,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O2009165698",
+					"end": "🇳🇴O5526332103",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526332103",
+					"end": "🇳🇴O5526332093",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5526332093",
+					"end": "🇳🇴O5720557873",
+					"length": 1,
+					"maxSpeed": 125,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O5720557873",
+					"end": "🇳🇴O1339424167",
+					"length": 2,
+					"maxSpeed": 110,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇳🇴O1339424167",
+					"end": "XOS",
+					"length": 3,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01
+				}
+			]
+		},
+		{
+			"electrified": true,
 			"group": 0,
 			"objects": [
 				{
@@ -36699,18 +36824,6 @@
 					"length": 7,
 					"maxSpeed": 160,
 					"twistingFactor": 0.13,
-					"neededEquipments": [
-						"NO"
-					]
-				},
-				{
-					"start": "XOS",
-					"end": "XOO",
-					"group": 2,
-					"name": "Follobanen",
-					"length": 23,
-					"maxSpeed": 200,
-					"twistingFactor": 0.05,
 					"neededEquipments": [
 						"NO"
 					]
