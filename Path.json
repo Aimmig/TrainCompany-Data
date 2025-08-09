@@ -35485,10 +35485,45 @@
 			"objects": [
 				{
 					"start": "XOSR",
-					"end": "🇳🇴O5526332082",
-					"length": 15,
+					"end": "🇳🇴O3986698654",
+					"length": 1,
 					"maxSpeed": 100,
-					"twistingFactor": 0.26
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇳🇴O3986698654",
+					"end": "🇳🇴O5526331854",
+					"length": 2,
+					"maxSpeed": 100,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O5526331854",
+					"end": "🇳🇴O667948100",
+					"length": 2,
+					"maxSpeed": 100,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "🇳🇴O667948100",
+					"end": "🇳🇴O5526331904",
+					"length": 1,
+					"maxSpeed": 100,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "🇳🇴O5526331904",
+					"end": "🇳🇴O5058410539",
+					"length": 5,
+					"maxSpeed": 100,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "🇳🇴O5058410539",
+					"end": "🇳🇴O5526332082",
+					"length": 1,
+					"maxSpeed": 80,
+					"twistingFactor": 0.39
 				},
 				{
 					"start": "🇳🇴O5526332082",
@@ -35618,24 +35653,38 @@
 				},
 				{
 					"start": "XOSKV",
+					"end": "🇳🇴O5610209990",
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "🇳🇴O5610209990",
 					"end": "XOSM",
-					"length": 17,
+					"length": 10,
 					"maxSpeed": 160,
-					"twistingFactor": 0.2
+					"twistingFactor": 0.17
 				},
 				{
 					"start": "XOSM",
-					"end": "🇳🇴O527384485",
-					"length": 13,
+					"end": "XOAU",
+					"length": 9,
 					"maxSpeed": 160,
-					"twistingFactor": 0.39
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "XOAU",
+					"end": "🇳🇴O527384485",
+					"length": 4,
+					"maxSpeed": 85,
+					"twistingFactor": 0.16
 				},
 				{
 					"start": "🇳🇴O527384485",
 					"end": "XOMD",
 					"length": 13,
 					"maxSpeed": 110,
-					"twistingFactor": 0.19
+					"twistingFactor": 0.18
 				},
 				{
 					"start": "XOMD",
@@ -35709,10 +35758,17 @@
 				},
 				{
 					"start": "XOGS",
-					"end": "XODR",
-					"length": 31,
+					"end": "XONV",
+					"length": 16,
 					"maxSpeed": 110,
-					"twistingFactor": 0.34
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "XONV",
+					"end": "XODR",
+					"length": 15,
+					"maxSpeed": 105,
+					"twistingFactor": 0.15
 				},
 				{
 					"start": "XODR",

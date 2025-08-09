@@ -65712,9 +65712,49 @@
 			"proj": 3
 		},
 		{
+			"name": "Paradis",
+			"ril100": "🇳🇴O3986698654",
+			"group": 5,
+			"x": -62,
+			"y": -1164,
+			"proj": 3
+		},
+		{
+			"name": "Mariero",
+			"ril100": "🇳🇴O5526331854",
+			"group": 5,
+			"x": -61,
+			"y": -1160,
+			"proj": 3
+		},
+		{
+			"name": "Jåttåvågen",
+			"ril100": "🇳🇴O667948100",
+			"group": 5,
+			"x": -64,
+			"y": -1157,
+			"proj": 3
+		},
+		{
+			"name": "Gausel",
+			"ril100": "🇳🇴O5526331904",
+			"group": 5,
+			"x": -63,
+			"y": -1155,
+			"proj": 3
+		},
+		{
+			"name": "Sandnes sentrum",
+			"ril100": "🇳🇴O5058410539",
+			"group": 5,
+			"x": -63,
+			"y": -1147,
+			"proj": 3
+		},
+		{
 			"name": "Skeiane",
 			"ril100": "🇳🇴O5526332082",
-			"group": 2,
+			"group": 1,
 			"x": -64,
 			"y": -1147,
 			"proj": 3
@@ -65786,7 +65826,7 @@
 		{
 			"name": "Sirevåg",
 			"ril100": "🇳🇴O5526332097",
-			"group": 5,
+			"group": 2,
 			"x": -56,
 			"y": -1092,
 			"proj": 3
@@ -65802,7 +65842,7 @@
 		{
 			"name": "Egersund",
 			"ril100": "XOES",
-			"group": 2,
+			"group": 1,
 			"x": -32,
 			"y": -1085,
 			"proj": 3
@@ -65810,7 +65850,7 @@
 		{
 			"name": "Helleland",
 			"ril100": "🇳🇴O5594218123",
-			"group": 5,
+			"group": 6,
 			"x": -12,
 			"y": -1097,
 			"proj": 3
@@ -65864,11 +65904,27 @@
 			"proj": 3
 		},
 		{
+			"name": "Espeland",
+			"ril100": "🇳🇴O5610209990",
+			"group": 6,
+			"x": 100,
+			"y": -1068,
+			"proj": 3
+		},
+		{
 			"name": "Snartemo",
 			"ril100": "XOSM",
 			"group": 5,
 			"x": 121,
 			"y": -1065,
+			"proj": 3
+		},
+		{
+			"name": "Audnedal",
+			"ril100": "XOAU",
+			"group": 5,
+			"x": 141,
+			"y": -1063,
 			"proj": 3
 		},
 		{
@@ -65890,7 +65946,7 @@
 		{
 			"name": "Breland",
 			"ril100": "XOBL",
-			"group": 2,
+			"group": 5,
 			"x": 186,
 			"y": -1044,
 			"proj": 3
@@ -65968,6 +66024,14 @@
 			"proj": 3
 		},
 		{
+			"name": "Neslandsvatn",
+			"ril100": "XONV",
+			"group": 2,
+			"x": 369,
+			"y": -1166,
+			"proj": 3
+		},
+		{
 			"name": "Drangedal",
 			"ril100": "XODR",
 			"group": 2,
@@ -66018,7 +66082,7 @@
 		{
 			"name": "Kongsberg",
 			"ril100": "XOKB",
-			"group": 2,
+			"group": 1,
 			"x": 432,
 			"y": -1277,
 			"proj": 3
