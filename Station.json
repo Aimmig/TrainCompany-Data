@@ -53116,6 +53116,280 @@
 			"proj": 3
 		},
 		{
+			"name": "Uddevalla Central",
+			"ril100": "XVU",
+			"group": 2,
+			"x": 721,
+			"y": -1068,
+			"proj": 3
+		},
+		{
+			"name": "Öxnered",
+			"ril100": "XVOX",
+			"group": 2,
+			"x": 766,
+			"y": -1069,
+			"proj": 3
+		},
+		{
+			"name": "Vänersborg C",
+			"ril100": "XVVB",
+			"group": 2,
+			"x": 772,
+			"y": -1072,
+			"proj": 3
+		},
+		{
+			"name": "Vargön",
+			"ril100": "XVVN",
+			"group": 5,
+			"x": 781,
+			"y": -1069,
+			"proj": 3
+		},
+		{
+			"name": "Grästorp",
+			"ril100": "XVGT",
+			"group": 2,
+			"x": 818,
+			"y": -1065,
+			"proj": 3
+		},
+		{
+			"name": "Håkantorp",
+			"ril100": "🇸🇪O3145244216",
+			"group": 2,
+			"x": 847,
+			"y": -1061,
+			"proj": 3
+		},
+		{
+			"name": "Vara",
+			"ril100": "XVV",
+			"group": 2,
+			"x": 853,
+			"y": -1053,
+			"proj": 3
+		},
+		{
+			"name": "Vedum",
+			"ril100": "XVVM",
+			"group": 2,
+			"x": 859,
+			"y": -1039,
+			"proj": 3
+		},
+		{
+			"name": "Ljung",
+			"ril100": "XVLJ",
+			"group": 5,
+			"x": 867,
+			"y": -1010,
+			"proj": 3
+		},
+		{
+			"name": "Torpakra",
+			"ril100": "XVTP",
+			"group": 5,
+			"x": 864,
+			"y": -1002,
+			"proj": 3
+		},
+		{
+			"name": "Mollaryd",
+			"ril100": "XVML",
+			"group": 5,
+			"x": 863,
+			"y": -997,
+			"proj": 3
+		},
+		{
+			"name": "Borgstena",
+			"ril100": "XVBT",
+			"group": 5,
+			"x": 862,
+			"y": -993,
+			"proj": 3
+		},
+		{
+			"name": "Fristad",
+			"ril100": "XVFD",
+			"group": 2,
+			"x": 861,
+			"y": -984,
+			"proj": 3
+		},
+		{
+			"name": "Knalleland",
+			"ril100": "XVKD",
+			"group": 5,
+			"x": 853,
+			"y": -969,
+			"proj": 3
+		},
+		{
+			"name": "Borås C",
+			"ril100": "XVBS",
+			"group": 2,
+			"x": 852,
+			"y": -967,
+			"platformLength": 188,
+			"platforms": 7,
+			"proj": 3
+		},
+		{
+			"name": "Hova",
+			"ril100": "🇸🇪O25174004",
+			"group": 2,
+			"x": 1011,
+			"y": -1148,
+			"proj": 3
+		},
+		{
+			"name": "Torved",
+			"ril100": "🇸🇪O27475864",
+			"group": 5,
+			"x": 996,
+			"y": -1143,
+			"proj": 3
+		},
+		{
+			"name": "Lyrestad",
+			"ril100": "🇸🇪O25174050",
+			"group": 5,
+			"x": 991,
+			"y": -1140,
+			"proj": 3
+		},
+		{
+			"name": "Hasslerör",
+			"ril100": "🇸🇪O852518479",
+			"group": 5,
+			"x": 976,
+			"y": -1131,
+			"proj": 3
+		},
+		{
+			"name": "Mariestad",
+			"ril100": "XVMA",
+			"group": 2,
+			"x": 962,
+			"y": -1125,
+			"proj": 3
+		},
+		{
+			"name": "Lugnås",
+			"ril100": "🇸🇪O9895683276",
+			"group": 2,
+			"x": 947,
+			"y": -1114,
+			"proj": 3
+		},
+		{
+			"name": "Österäng",
+			"ril100": "🇸🇪O28341390",
+			"group": 5,
+			"x": 929,
+			"y": -1113,
+			"proj": 3
+		},
+		{
+			"name": "Forshem",
+			"ril100": "🇸🇪O1370551623",
+			"group": 2,
+			"x": 920,
+			"y": -1110,
+			"proj": 3
+		},
+		{
+			"name": "Hällekis",
+			"ril100": "XVHK",
+			"group": 5,
+			"x": 913,
+			"y": -1112,
+			"proj": 3
+		},
+		{
+			"name": "Råbäck",
+			"ril100": "🇸🇪O9895673731",
+			"group": 5,
+			"x": 905,
+			"y": -1109,
+			"proj": 3
+		},
+		{
+			"name": "Trolmen",
+			"ril100": "🇸🇪O9895668691",
+			"group": 5,
+			"x": 902,
+			"y": -1106,
+			"proj": 3
+		},
+		{
+			"name": "Blomberg",
+			"ril100": "🇸🇪O9895624791",
+			"group": 5,
+			"x": 899,
+			"y": -1098,
+			"proj": 3
+		},
+		{
+			"name": "Källby",
+			"ril100": "XVKB",
+			"group": 5,
+			"x": 896,
+			"y": -1093,
+			"proj": 3
+		},
+		{
+			"name": "Filsbäck",
+			"ril100": "🇸🇪O9895627995",
+			"group": 5,
+			"x": 889,
+			"y": -1090,
+			"proj": 3
+		},
+		{
+			"name": "Lidköping",
+			"ril100": "XVLK",
+			"group": 2,
+			"x": 879,
+			"y": -1092,
+			"proj": 3
+		},
+		{
+			"name": "Framnäs City",
+			"ril100": "XVFC",
+			"group": 5,
+			"x": 877,
+			"y": -1093,
+			"proj": 3
+		},
+		{
+			"name": "Lovene",
+			"ril100": "🇸🇪O282785348",
+			"group": 5,
+			"x": 864,
+			"y": -1082,
+			"proj": 3
+		},
+		{
+			"name": "Järpås",
+			"ril100": "🇸🇪O28343152",
+			"group": 5,
+			"x": 855,
+			"y": -1072,
+			"proj": 3
+		},
+		{
+			"name": "Stora Levene",
+			"ril100": "🇸🇪O9895693521",
+			"group": 5,
+			"x": 849,
+			"y": -1064,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Speyer Nord-West",
 			"ril100": "RSPN",

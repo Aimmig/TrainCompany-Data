@@ -63096,6 +63096,156 @@
 			]
 		},
 		{
+			"name": "Kinnekullebanan",
+			"electrified": false,
+			"neededEquipments": [
+				"SE"
+			],
+			"group": 1,
+			"objects": [
+				{
+					"start": "XVGJ",
+					"end": "🇸🇪O25174004",
+					"length": 8,
+					"maxSpeed": 90,
+					"twistingFactor": 0.31
+				},
+				{
+					"start": "🇸🇪O25174004",
+					"end": "🇸🇪O27475864",
+					"length": 8,
+					"maxSpeed": 90,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "🇸🇪O27475864",
+					"end": "🇸🇪O25174050",
+					"length": 4,
+					"maxSpeed": 90,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "🇸🇪O25174050",
+					"end": "🇸🇪O852518479",
+					"length": 9,
+					"maxSpeed": 100,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇸🇪O852518479",
+					"end": "XVMA",
+					"length": 8,
+					"maxSpeed": 100,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "XVMA",
+					"end": "🇸🇪O9895683276",
+					"length": 11,
+					"maxSpeed": 100,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "🇸🇪O9895683276",
+					"end": "🇸🇪O28341390",
+					"length": 9,
+					"maxSpeed": 100,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "🇸🇪O28341390",
+					"end": "🇸🇪O1370551623",
+					"length": 4,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O1370551623",
+					"end": "XVHK",
+					"length": 3,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVHK",
+					"end": "🇸🇪O9895673731",
+					"length": 4,
+					"maxSpeed": 100,
+					"twistingFactor": 0.11
+				},
+				{
+					"start": "🇸🇪O9895673731",
+					"end": "🇸🇪O9895668691",
+					"length": 2,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O9895668691",
+					"end": "🇸🇪O9895624791",
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O9895624791",
+					"end": "XVKB",
+					"length": 3,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVKB",
+					"end": "🇸🇪O9895627995",
+					"length": 3,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O9895627995",
+					"end": "XVLK",
+					"length": 4,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVLK",
+					"end": "XVFC",
+					"length": 0,
+					"maxSpeed": 75,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVFC",
+					"end": "🇸🇪O282785348",
+					"length": 9,
+					"maxSpeed": 100,
+					"twistingFactor": 0.03
+				},
+				{
+					"start": "🇸🇪O282785348",
+					"end": "🇸🇪O28343152",
+					"length": 8,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O28343152",
+					"end": "🇸🇪O9895693521",
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇸🇪O9895693521",
+					"end": "🇸🇪O3145244216",
+					"length": 2,
+					"maxSpeed": 100,
+					"twistingFactor": 0.12
+				}
+			]
+		},
+		{
 			"name": "Zwotental - Zwickau",
 			"electrified": false,
 			"group": 1,
@@ -65467,6 +65617,121 @@
 					"start": "LJN",
 					"end": "LW",
 					"length": 22
+				}
+			]
+		},
+		{
+			"name": "Älvsborgsbanan",
+			"neededEquipments": [
+				"SE"
+			],
+			"electrified": true,
+			"group": 1,
+			"objects": [
+				{
+					"start": "XVU",
+					"end": "XVOX",
+					"length": 22,
+					"maxSpeed": 140,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "XVOX",
+					"end": "XVVB",
+					"length": 3,
+					"maxSpeed": 70,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "XVVB",
+					"end": "XVVN",
+					"length": 4,
+					"maxSpeed": 110,
+					"twistingFactor": 0.11
+				},
+				{
+					"start": "XVVN",
+					"end": "XVGT",
+					"length": 18,
+					"maxSpeed": 110,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "XVGT",
+					"end": "🇸🇪O3145244216",
+					"length": 13,
+					"maxSpeed": 110,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇸🇪O3145244216",
+					"end": "XVV",
+					"length": 5,
+					"maxSpeed": 160,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVV",
+					"end": "XVVM",
+					"length": 10,
+					"maxSpeed": 160,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVVM",
+					"end": "XVHE",
+					"length": 10,
+					"maxSpeed": 160,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XVHE",
+					"end": "XVLJ",
+					"length": 11,
+					"maxSpeed": 110,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "XVLJ",
+					"end": "XVTP",
+					"length": 5,
+					"maxSpeed": 110,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVTP",
+					"end": "XVML",
+					"length": 3,
+					"maxSpeed": 110,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVML",
+					"end": "XVBT",
+					"length": 2,
+					"maxSpeed": 110,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVBT",
+					"end": "XVFD",
+					"length": 6,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVFD",
+					"end": "XVKD",
+					"length": 11,
+					"maxSpeed": 100,
+					"twistingFactor": 0.11
+				},
+				{
+					"start": "XVKD",
+					"end": "XVBS",
+					"length": 1,
+					"maxSpeed": 100,
+					"twistingFactor": 0.01
 				}
 			]
 		},
