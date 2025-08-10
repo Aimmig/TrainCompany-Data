@@ -71297,10 +71297,24 @@
 				},
 				{
 					"start": "XVFN",
-					"end": "🇸🇪MÖ",
-					"length": 51,
+					"end": "🇸🇪O365743788",
+					"length": 25,
 					"maxSpeed": 180,
-					"twistingFactor": 0.5
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "🇸🇪O365743788",
+					"end": "XVGN",
+					"length": 18,
+					"maxSpeed": 180,
+					"twistingFactor": 0.17
+				},
+				{
+					"start": "XVGN",
+					"end": "🇸🇪MÖ",
+					"length": 6,
+					"maxSpeed": 180,
+					"twistingFactor": 0.19
 				},
 				{
 					"start": "🇸🇪MÖ",
