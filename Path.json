@@ -69589,10 +69589,17 @@
 				},
 				{
 					"start": "XVHL",
+					"end": "XVSNN",
+					"length": 2,
+					"maxSpeed": 130,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVSNN",
 					"end": "XVFA",
-					"length": 43,
+					"length": 39,
 					"maxSpeed": 200,
-					"twistingFactor": 0.37
+					"twistingFactor": 0.26
 				},
 				{
 					"start": "XVFA",
