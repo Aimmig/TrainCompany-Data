@@ -75058,110 +75058,77 @@
 		{
 			"electrified": true,
 			"group": 0,
+			"name": "Värmlandsbanan",
+			"neededEquipments": [
+				"SE"
+			],
 			"objects": [
 				{
 					"start": "XVLX",
 					"end": "🇸🇪O146981914",
-					"name": "Värmlandsbanan",
 					"length": 35,
 					"maxSpeed": 200,
-					"twistingFactor": 0.32,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.32
 				},
 				{
 					"start": "🇸🇪O146981914",
 					"end": "🇸🇪O1781447285",
-					"name": "Värmlandsbanan",
 					"length": 26,
 					"maxSpeed": 200,
-					"twistingFactor": 0.32,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.32
 				},
 				{
 					"start": "🇸🇪O1781447285",
 					"end": "🇸🇪O356121937",
-					"name": "Värmlandsbanan",
 					"length": 40,
 					"maxSpeed": 200,
-					"twistingFactor": 0.26,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.26
 				},
 				{
 					"start": "🇸🇪O356121937",
 					"end": "🇸🇪O3002644717",
-					"name": "Värmlandsbanan",
 					"length": 19,
 					"maxSpeed": 160,
-					"twistingFactor": 0.19,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.19
 				},
 				{
 					"start": "🇸🇪O3002644717",
 					"end": "🇸🇪O251411320",
-					"name": "Värmlandsbanan",
 					"length": 16,
 					"maxSpeed": 160,
-					"twistingFactor": 0.13,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.13
 				},
 				{
 					"start": "🇸🇪O251411320",
 					"end": "🇸🇪O251364296",
-					"name": "Värmlandsbanan",
 					"length": 17,
 					"maxSpeed": 160,
-					"twistingFactor": 0.28,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.28
 				},
 				{
 					"start": "🇸🇪O251364296",
 					"end": "🇸🇪O304891750",
-					"name": "Värmlandsbanan",
 					"length": 14,
 					"maxSpeed": 140,
-					"twistingFactor": 0.17,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.17
 				},
 				{
 					"start": "🇸🇪O304891750",
 					"end": "🇸🇪O447958132",
-					"name": "Värmlandsbanan",
 					"length": 19,
 					"maxSpeed": 160,
-					"twistingFactor": 0.19,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.19
 				},
 				{
 					"start": "🇸🇪O447958132",
 					"end": "🇸🇪O251357455",
-					"name": "Värmlandsbanan",
 					"length": 14,
 					"maxSpeed": 160,
-					"twistingFactor": 0.16,
-					"neededEquipments": [
-						"SE"
-					]
+					"twistingFactor": 0.16
 				},
 				{
 					"start": "🇸🇪O251357455",
 					"end": "🇳🇴O1291093054",
-					"name": "Värmlandsbanan",
 					"length": 15,
 					"maxSpeed": 160,
 					"twistingFactor": 0.16,
@@ -75169,138 +75136,100 @@
 						"NO",
 						"SE"
 					]
-				},
+				}
+			]
+		},
+		{
+			"electrified": true,
+			"group": 0,
+			"name": "Kongsvingerbanen",
+			"neededEquipments": [
+				"NO"
+			],
+			"objects": [
 				{
 					"start": "🇳🇴O1291093054",
 					"end": "🇳🇴O3099160276",
-					"name": "Kongsvingerbanen",
 					"length": 14,
 					"maxSpeed": 130,
-					"twistingFactor": 0.11,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.11
 				},
 				{
 					"start": "🇳🇴O3099160276",
 					"end": "XOKN",
-					"name": "Kongsvingerbanen",
 					"length": 12,
 					"maxSpeed": 130,
-					"twistingFactor": 0.28,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.28
 				},
 				{
 					"start": "XOKN",
 					"end": "🇳🇴O2779927194",
-					"name": "Kongsvingerbanen",
 					"length": 13,
 					"maxSpeed": 130,
-					"twistingFactor": 0.25,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.25
 				},
 				{
 					"start": "🇳🇴O2779927194",
 					"end": "XOSE",
-					"name": "Kongsvingerbanen",
 					"length": 7,
 					"maxSpeed": 130,
-					"twistingFactor": 0.03,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.03
 				},
 				{
 					"start": "XOSE",
 					"end": "🇳🇴O5709159949",
-					"name": "Kongsvingerbanen",
 					"length": 6,
 					"maxSpeed": 130,
-					"twistingFactor": 0.28,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.28
 				},
 				{
 					"start": "🇳🇴O5709159949",
 					"end": "XOAE",
-					"name": "Kongsvingerbanen",
 					"length": 14,
 					"maxSpeed": 130,
-					"twistingFactor": 0.16,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.16
 				},
 				{
 					"start": "XOAE",
 					"end": "🇳🇴O2778334157",
-					"name": "Kongsvingerbanen",
 					"length": 9,
 					"maxSpeed": 130,
-					"twistingFactor": 0.13,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.13
 				},
 				{
 					"start": "🇳🇴O2778334157",
 					"end": "🇳🇴O2778334159",
-					"name": "Kongsvingerbanen",
 					"length": 3,
 					"maxSpeed": 125,
-					"twistingFactor": 0.01,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.01
 				},
 				{
 					"start": "🇳🇴O2778334159",
 					"end": "🇳🇴O2778334235",
-					"name": "Kongsvingerbanen",
 					"length": 3,
 					"maxSpeed": 110,
-					"twistingFactor": 0.06,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.06
 				},
 				{
 					"start": "🇳🇴O2778334235",
 					"end": "XOSSA",
-					"name": "Kongsvingerbanen",
 					"length": 4,
 					"maxSpeed": 105,
-					"twistingFactor": 0.19,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.19
 				},
 				{
 					"start": "XOSSA",
 					"end": "🇳🇴O2443139435",
-					"name": "Kongsvingerbanen",
 					"length": 8,
 					"maxSpeed": 130,
-					"twistingFactor": 0.17,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.17
 				},
 				{
 					"start": "🇳🇴O2443139435",
 					"end": "XOLS",
-					"name": "Kongsvingerbanen",
 					"length": 8,
 					"maxSpeed": 130,
-					"twistingFactor": 0.22,
-					"neededEquipments": [
-						"NO"
-					]
+					"twistingFactor": 0.22
 				}
 			]
 		}
