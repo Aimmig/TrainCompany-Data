@@ -71199,10 +71199,24 @@
 				},
 				{
 					"start": "XVAS",
-					"end": "XVFY",
-					"length": 55,
+					"end": "🇸🇪O270883345",
+					"length": 20,
 					"maxSpeed": 200,
-					"twistingFactor": 0.39
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "🇸🇪O270883345",
+					"end": "XVHE",
+					"length": 13,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVHE",
+					"end": "XVFY",
+					"length": 20,
+					"maxSpeed": 200,
+					"twistingFactor": 0.12
 				},
 				{
 					"start": "XVFY",
@@ -71220,10 +71234,31 @@
 				},
 				{
 					"start": "XVST",
-					"end": "XVLX",
-					"length": 100,
+					"end": "XVSVD",
+					"length": 15,
 					"maxSpeed": 200,
-					"twistingFactor": 0.18
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "XVSVD",
+					"end": "XVTB",
+					"length": 38,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVTB",
+					"end": "XVGJ",
+					"length": 22,
+					"maxSpeed": 200,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XVGJ",
+					"end": "XVLX",
+					"length": 23,
+					"maxSpeed": 200,
+					"twistingFactor": 0.21
 				},
 				{
 					"start": "XVLX",
