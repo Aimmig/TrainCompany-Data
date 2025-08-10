@@ -69854,17 +69854,10 @@
 				},
 				{
 					"start": "XVHL",
-					"end": "XVSNN",
-					"length": 2,
-					"maxSpeed": 130,
-					"twistingFactor": 0.01
-				},
-				{
-					"start": "XVSNN",
 					"end": "XVFA",
-					"length": 39,
+					"length": 43,
 					"maxSpeed": 200,
-					"twistingFactor": 0.26
+					"twistingFactor": 0.37
 				},
 				{
 					"start": "XVFA",
@@ -71471,24 +71464,10 @@
 				},
 				{
 					"start": "XVAS",
-					"end": "🇸🇪O270883345",
-					"length": 20,
-					"maxSpeed": 200,
-					"twistingFactor": 0.14
-				},
-				{
-					"start": "🇸🇪O270883345",
-					"end": "XVHE",
-					"length": 13,
-					"maxSpeed": 200,
-					"twistingFactor": 0.01
-				},
-				{
-					"start": "XVHE",
 					"end": "XVFY",
-					"length": 20,
+					"length": 55,
 					"maxSpeed": 200,
-					"twistingFactor": 0.12
+					"twistingFactor": 0.39
 				},
 				{
 					"start": "XVFY",
@@ -71506,31 +71485,10 @@
 				},
 				{
 					"start": "XVST",
-					"end": "XVSVD",
-					"length": 15,
-					"maxSpeed": 200,
-					"twistingFactor": 0.13
-				},
-				{
-					"start": "XVSVD",
-					"end": "XVTB",
-					"length": 38,
-					"maxSpeed": 200,
-					"twistingFactor": 0.01
-				},
-				{
-					"start": "XVTB",
-					"end": "XVGJ",
-					"length": 22,
-					"maxSpeed": 200,
-					"twistingFactor": 0.01
-				},
-				{
-					"start": "XVGJ",
 					"end": "XVLX",
-					"length": 23,
+					"length": 100,
 					"maxSpeed": 200,
-					"twistingFactor": 0.21
+					"twistingFactor": 0.18
 				},
 				{
 					"start": "XVLX",
@@ -71562,24 +71520,10 @@
 				},
 				{
 					"start": "XVFN",
-					"end": "🇸🇪O365743788",
-					"length": 25,
-					"maxSpeed": 180,
-					"twistingFactor": 0.16
-				},
-				{
-					"start": "🇸🇪O365743788",
-					"end": "XVGN",
-					"length": 18,
-					"maxSpeed": 180,
-					"twistingFactor": 0.17
-				},
-				{
-					"start": "XVGN",
 					"end": "🇸🇪MÖ",
-					"length": 6,
+					"length": 51,
 					"maxSpeed": 180,
-					"twistingFactor": 0.19
+					"twistingFactor": 0.5
 				},
 				{
 					"start": "🇸🇪MÖ",
