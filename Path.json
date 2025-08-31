@@ -82085,7 +82085,7 @@
 		{
 			"name": "Ofotbanen",
 			"electrified": true,
-			"group": 2,
+			"group": 0,
 			"objects": [
 				{
 					"start": "XVRG",
