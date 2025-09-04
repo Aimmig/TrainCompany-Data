@@ -63996,6 +63996,76 @@
 			"platforms": 2
 		},
 		{
+			"name": "Chur Altstadt",
+			"ril100": "🇨🇭CHSA",
+			"group": 5,
+			"x": 411,
+			"y": 819,
+			"platformLength": 100,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Lüen-Castiel",
+			"ril100": "🇨🇭LUCA",
+			"group": 5,
+			"x": 423,
+			"y": 822,
+			"platformLength": 100,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St. Peter-Molinis",
+			"ril100": "🇨🇭STPM",
+			"group": 5,
+			"x": 428,
+			"y": 822,
+			"platformLength": 100,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Peist",
+			"ril100": "🇨🇭PEI",
+			"group": 5,
+			"x": 431,
+			"y": 822,
+			"platformLength": 100,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Langwies",
+			"ril100": "🇨🇭LAWI",
+			"group": 5,
+			"x": 436,
+			"y": 824,
+			"platformLength": 100,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Litzirüti",
+			"ril100": "🇨🇭LITZ",
+			"group": 5,
+			"x": 435,
+			"y": 828,
+			"platformLength": 100,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Arosa",
+			"ril100": "🇨🇭AROS",
+			"group": 2,
+			"x": 432,
+			"y": 830,
+			"platformLength": 100,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
 			"name": "Jeníkov-Oldřichov",
 			"ril100": "🇨🇿5454318",
 			"group": 2,
@@ -76973,19 +77043,19 @@
 			"ril100": "XSKS",
 			"group": 2,
 			"x": 245,
-			"y": 720,
+			"y": 721,
 			"platformLength": 391,
-			"platforms": 3,
+			"platforms": 4,
 			"proj": 3
 		},
 		{
 			"name": "Lenzburg",
 			"ril100": "XSLB",
 			"group": 2,
-			"x": 220,
-			"y": 726,
+			"x": 223,
+			"y": 725,
 			"platformLength": 401,
-			"platforms": 5,
+			"platforms": 7,
 			"proj": 3
 		},
 		{
@@ -77272,10 +77342,10 @@
 			"name": "Brugg AG",
 			"ril100": "XSBRU",
 			"group": 2,
-			"x": 225,
-			"y": 712,
+			"x": 228,
+			"y": 713,
 			"platformLength": 425,
-			"platforms": 3,
+			"platforms": 5,
 			"proj": 3
 		},
 		{
@@ -78715,10 +78785,10 @@
 			"name": "Luzern",
 			"ril100": "XSLU",
 			"group": 0,
-			"x": 236,
+			"x": 241,
 			"y": 785,
 			"platformLength": 452,
-			"platforms": 15,
+			"platforms": 14,
 			"proj": 3
 		},
 		{
@@ -78728,7 +78798,7 @@
 			"x": 120,
 			"y": 802,
 			"platformLength": 539,
-			"platforms": 7,
+			"platforms": 14,
 			"proj": 3
 		},
 		{
@@ -94263,6 +94333,392 @@
 			"y": 400,
 			"platformLength": 100,
 			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Lupfig",
+			"ril100": "🇨🇭LUPF",
+			"group": 5,
+			"x": 229,
+			"y": 719,
+			"platformLength": 224,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Birr",
+			"ril100": "🇨🇭BIRR",
+			"group": 5,
+			"x": 229,
+			"y": 720,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Othmarsingen",
+			"ril100": "🇨🇭OTH",
+			"group": 2,
+			"x": 232,
+			"y": 724,
+			"platformLength": 320,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Hendschiken",
+			"ril100": "🇨🇭HDK",
+			"group": 2,
+			"x": 229,
+			"y": 730,
+			"platformLength": 236,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Dottikon-Dintikon",
+			"ril100": "🇨🇭DOT",
+			"group": 5,
+			"x": 231,
+			"y": 731,
+			"platformLength": 224,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Wohlen AG",
+			"ril100": "🇨🇭WO",
+			"group": 2,
+			"x": 236,
+			"y": 735,
+			"platformLength": 244,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Boswil-Bünzen",
+			"ril100": "🇨🇭BOS",
+			"group": 5,
+			"x": 243,
+			"y": 742,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Muri AG",
+			"ril100": "🇨🇭MI",
+			"group": 2,
+			"x": 247,
+			"y": 747,
+			"platformLength": 219,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Benzenschwil",
+			"ril100": "🇨🇭BNZ",
+			"group": 5,
+			"x": 249,
+			"y": 752,
+			"platformLength": 217,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Mühlau",
+			"ril100": "🇨🇭MUEH",
+			"group": 5,
+			"x": 253,
+			"y": 756,
+			"platformLength": 179,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Sins",
+			"ril100": "🇨🇭SINS",
+			"group": 5,
+			"x": 254,
+			"y": 762,
+			"platformLength": 214,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Oberrüti",
+			"ril100": "🇨🇭OI",
+			"group": 5,
+			"x": 255,
+			"y": 766,
+			"platformLength": 164,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Rotkreuz",
+			"ril100": "🇨🇭RK",
+			"group": 2,
+			"x": 258,
+			"y": 770,
+			"platformLength": 458,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Ebikon",
+			"ril100": "🇨🇭EBI",
+			"group": 5,
+			"x": 246,
+			"y": 780,
+			"platformLength": 236,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Buchrain",
+			"ril100": "🇨🇭BURN",
+			"group": 5,
+			"x": 248,
+			"y": 778,
+			"platformLength": 149,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Root D4",
+			"ril100": "🇨🇭LBD",
+			"group": 5,
+			"x": 250,
+			"y": 776,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Gisikon-Root",
+			"ril100": "🇨🇭GSK",
+			"group": 5,
+			"x": 253,
+			"y": 773,
+			"platformLength": 228,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Luzern Verkehrshaus",
+			"ril100": "🇨🇭LZVH",
+			"group": 5,
+			"x": 245,
+			"y": 785,
+			"platformLength": 204,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Meggen Zentrum",
+			"ril100": "🇨🇭MEGZ",
+			"group": 5,
+			"x": 250,
+			"y": 786,
+			"platformLength": 180,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Meggen",
+			"ril100": "🇨🇭MEG",
+			"group": 5,
+			"x": 252,
+			"y": 785,
+			"platformLength": 152,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Hünenberg Chämleten",
+			"ril100": "🇨🇭HUCH",
+			"group": 5,
+			"x": 261,
+			"y": 766,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Hünenberg Zythus",
+			"ril100": "🇨🇭HUZY",
+			"group": 5,
+			"x": 261,
+			"y": 765,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Cham (CH)",
+			"ril100": "🇨🇭CHAM",
+			"group": 5,
+			"x": 262,
+			"y": 764,
+			"platformLength": 230,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Cham Alpenblick",
+			"ril100": "🇨🇭CHAA",
+			"group": 5,
+			"x": 264,
+			"y": 764,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Zug Chollermüli",
+			"ril100": "🇨🇭KMUE",
+			"group": 5,
+			"x": 266,
+			"y": 764,
+			"platformLength": 151,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Zug Schutzengel",
+			"ril100": "🇨🇭ZGSE",
+			"group": 5,
+			"x": 269,
+			"y": 764,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Baar Lindenpark",
+			"ril100": "🇨🇭BAAL",
+			"group": 5,
+			"x": 270,
+			"y": 763,
+			"platformLength": 150,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Baar Neufeld",
+			"ril100": "🇨🇭BAAN",
+			"group": 5,
+			"x": 270,
+			"y": 762,
+			"platformLength": 149,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Baar",
+			"ril100": "🇨🇭BAA",
+			"group": 5,
+			"x": 271,
+			"y": 761,
+			"platformLength": 320,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Litti",
+			"ril100": "🇨🇭LITT",
+			"group": 6,
+			"x": 273,
+			"y": 759,
+			"proj": 3
+		},
+		{
+			"name": "Sihlbrugg",
+			"ril100": "🇨🇭SBG",
+			"group": 6,
+			"x": 279,
+			"y": 754,
+			"proj": 3
+		},
+		{
+			"name": "Horgen Oberdorf",
+			"ril100": "🇨🇭HGO",
+			"group": 5,
+			"x": 281,
+			"y": 750,
+			"platformLength": 317,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Oberrieden Dorf",
+			"ril100": "🇨🇭ORDD",
+			"group": 5,
+			"x": 279,
+			"y": 747,
+			"platformLength": 310,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Zug Postplatz",
+			"ril100": "🇨🇭ZGPP",
+			"group": 5,
+			"x": 270,
+			"y": 765,
+			"platformLength": 79,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Zug Casino",
+			"ril100": "🇨🇭ZGCA",
+			"group": 5,
+			"x": 270,
+			"y": 766,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Zug Fridbach",
+			"ril100": "🇨🇭ZGFR",
+			"group": 5,
+			"x": 270,
+			"y": 767,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Zug Oberwil",
+			"ril100": "🇨🇭ZGO",
+			"group": 5,
+			"x": 269,
+			"y": 769,
+			"platformLength": 80,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Walchwil Hörndli",
+			"ril100": "🇨🇭WCHO",
+			"group": 5,
+			"x": 269,
+			"y": 775,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Walchwil",
+			"ril100": "🇨🇭WCHW",
+			"group": 5,
+			"x": 270,
+			"y": 777,
+			"platformLength": 239,
+			"platforms": 2,
 			"proj": 3
 		}
 	]
