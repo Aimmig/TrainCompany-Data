@@ -500,7 +500,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Dimitrovgrad",
+			"name": "Dimitrovgrad (BG)",
 			"ril100": "🇧🇬14000",
 			"group": 2,
 			"x": 2708,
@@ -1014,7 +1014,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Gorodishche",
+			"name": "Gorodishche (UA)",
 			"ril100": "🇺🇦O3276531797",
 			"group": 2,
 			"x": 3413,
@@ -2488,7 +2488,7 @@
 		{
 			"name": "St-Joseph-le-Castellas",
 			"ril100": "🇫🇷XJC",
-			"group": 2,
+			"group": 5,
 			"x": -180,
 			"y": 1410,
 			"platformLength": 170,
@@ -6441,7 +6441,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Flint",
+			"name": "Flint (US)",
 			"ril100": "🇺🇸FLN",
 			"group": 1,
 			"x": -12862,
@@ -8894,7 +8894,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Irvine",
+			"name": "Irvine (US)",
 			"ril100": "🇺🇸IRV",
 			"group": 2,
 			"x": -18540,
@@ -9202,7 +9202,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Durham",
+			"name": "Durham (US)",
 			"ril100": "🇺🇸DNC",
 			"group": 2,
 			"x": -12635,
@@ -9970,7 +9970,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Oxford",
+			"name": "Oxford (GB)",
 			"ril100": "🇬🇧OXF",
 			"group": 1,
 			"x": -1040,
@@ -11266,6 +11266,78 @@
 			"group": 5,
 			"x": -1328,
 			"y": -690,
+			"proj": 3
+		},
+		{
+			"name": "Le Soler",
+			"ril100": "🇫🇷LSL",
+			"group": 2,
+			"x": -551,
+			"y": 1524,
+			"proj": 3
+		},
+		{
+			"name": "Saint-Féliu-d'Avall",
+			"ril100": "🇫🇷O618954554",
+			"group": 2,
+			"x": -559,
+			"y": 1524,
+			"proj": 3
+		},
+		{
+			"name": "Millas",
+			"ril100": "🇫🇷MYR",
+			"group": 2,
+			"x": -565,
+			"y": 1522,
+			"proj": 3
+		},
+		{
+			"name": "Ille-sur-Têt",
+			"ril100": "🇫🇷ILL",
+			"group": 2,
+			"x": -575,
+			"y": 1526,
+			"proj": 3
+		},
+		{
+			"name": "Vinça",
+			"ril100": "🇫🇷VCA",
+			"group": 2,
+			"x": -589,
+			"y": 1529,
+			"proj": 3
+		},
+		{
+			"name": "Marquixanes",
+			"ril100": "🇫🇷MQG",
+			"group": 2,
+			"x": -595,
+			"y": 1530,
+			"proj": 3
+		},
+		{
+			"name": "Prades—Molitg-les-Bains",
+			"ril100": "🇫🇷PDS",
+			"group": 2,
+			"x": -603,
+			"y": 1535,
+			"proj": 3
+		},
+		{
+			"name": "Ria",
+			"ril100": "🇫🇷RAJ",
+			"group": 2,
+			"x": -609,
+			"y": 1537,
+			"proj": 3
+		},
+		{
+			"name": "Villefranche Vernet-les-Bains ",
+			"ril100": "🇫🇷VVB",
+			"group": 2,
+			"x": -612,
+			"y": 1539,
 			"proj": 3
 		},
 		{
@@ -12943,7 +13015,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Alexandria",
+			"name": "Alexandria (US)",
 			"ril100": "🇺🇸ALX",
 			"group": 1,
 			"x": -12202,
@@ -12967,7 +13039,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Orange",
+			"name": "Orange (US)",
 			"ril100": "🇺🇸O206895",
 			"group": 6,
 			"x": -12389,
@@ -13275,7 +13347,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Salisbury",
+			"name": "Salisbury (US)",
 			"ril100": "🇺🇸SAL",
 			"group": 1,
 			"x": -12883,
@@ -13371,7 +13443,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Leeds",
+			"name": "Leeds (US)",
 			"ril100": "🇺🇸O32970592",
 			"group": 4,
 			"x": -13902,
@@ -15776,6 +15848,180 @@
 			"proj": 3
 		},
 		{
+			"name": "Solignac—Le Vigen",
+			"ril100": "🇫🇷SKN",
+			"group": 2,
+			"x": -744,
+			"y": 1003,
+			"platformLength": 110,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Pierre-Buffière",
+			"ril100": "🇫🇷PIB",
+			"group": 2,
+			"x": -736,
+			"y": 1013,
+			"platformLength": 112,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Magnac—Vicq",
+			"ril100": "🇫🇷MGQ",
+			"group": 2,
+			"x": -723,
+			"y": 1025,
+			"platformLength": 113,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St-Germain-les-Belles",
+			"ril100": "🇫🇷SGN",
+			"group": 5,
+			"x": -718,
+			"y": 1028,
+			"platformLength": 110,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "La Porcherie",
+			"ril100": "🇫🇷PHR",
+			"group": 5,
+			"x": -710,
+			"y": 1034,
+			"platformLength": 133,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Masseret",
+			"ril100": "🇫🇷MST",
+			"group": 2,
+			"x": -710,
+			"y": 1040,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Uzerche",
+			"ril100": "🇫🇷URE",
+			"group": 2,
+			"x": -706,
+			"y": 1056,
+			"platformLength": 470,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Vigeois",
+			"ril100": "🇫🇷VGE",
+			"group": 2,
+			"x": -715,
+			"y": 1066,
+			"platformLength": 185,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Allassac",
+			"ril100": "🇫🇷AAA",
+			"group": 2,
+			"x": -721,
+			"y": 1087,
+			"platformLength": 486,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Brive-la-Gaillarde",
+			"ril100": "XFBLG",
+			"group": 1,
+			"x": -714,
+			"y": 1105,
+			"platformLength": 484,
+			"platforms": 27,
+			"proj": 3
+		},
+		{
+			"name": "Gignac-Cressensac (Lot)",
+			"ril100": "🇫🇷O8330304123",
+			"group": 5,
+			"x": -722,
+			"y": 1128,
+			"proj": 3
+		},
+		{
+			"name": "Souillac",
+			"ril100": "XFSOU",
+			"group": 2,
+			"x": -725,
+			"y": 1147,
+			"platformLength": 440,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Gourdon",
+			"ril100": "🇫🇷GOV",
+			"group": 2,
+			"x": -737,
+			"y": 1174,
+			"proj": 3
+		},
+		{
+			"name": "Dégagnac",
+			"ril100": "🇫🇷DEG",
+			"group": 2,
+			"x": -744,
+			"y": 1189,
+			"platformLength": 70,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Cahors",
+			"ril100": "🇫🇷CAH",
+			"group": 2,
+			"x": -733,
+			"y": 1224,
+			"platformLength": 440,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Lalbenque—Fontanes",
+			"ril100": "🇫🇷LNQ",
+			"group": 2,
+			"x": -722,
+			"y": 1244,
+			"platformLength": 126,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Caussade",
+			"ril100": "🇫🇷O1694946505",
+			"group": 2,
+			"x": -721,
+			"y": 1272,
+			"proj": 3
+		},
+		{
+			"name": "Albias",
+			"ril100": "🇫🇷ALE",
+			"group": 2,
+			"x": -734,
+			"y": 1284,
+			"platformLength": 126,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
 			"name": "Varsseveld",
 			"ril100": "🇳🇱Vsv",
 			"platformLength": 170,
@@ -16156,7 +16402,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Northampton",
+			"name": "Northampton (US)",
 			"ril100": "🇺🇸NHT",
 			"group": 2,
 			"x": -11338,
@@ -16164,7 +16410,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Greenfield",
+			"name": "Greenfield (US)",
 			"ril100": "🇺🇸GFD",
 			"group": 1,
 			"x": -11317,
@@ -20151,7 +20397,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Sala",
+			"name": "Sala (SE)",
 			"ril100": "🇸🇪7400137",
 			"group": 2,
 			"x": 1306,
@@ -20858,6 +21104,326 @@
 			"group": 5,
 			"x": 1418,
 			"y": 93,
+			"proj": 3
+		},
+		{
+			"name": "Urt",
+			"ril100": "🇫🇷URT",
+			"group": 2,
+			"x": -1128,
+			"y": 1385,
+			"platformLength": 195,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Peyrehorade",
+			"ril100": "🇫🇷PRH",
+			"group": 2,
+			"x": -1101,
+			"y": 1377,
+			"platformLength": 235,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Puyoô",
+			"ril100": "🇫🇷PUO",
+			"group": 2,
+			"x": -1072,
+			"y": 1381,
+			"platformLength": 300,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Orthez",
+			"ril100": "🇫🇷ORT",
+			"group": 2,
+			"x": -1052,
+			"y": 1387,
+			"proj": 3
+		},
+		{
+			"name": "Artix",
+			"ril100": "🇫🇷ATI",
+			"group": 2,
+			"x": -1025,
+			"y": 1403,
+			"platformLength": 420,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Pau",
+			"ril100": "XFPU",
+			"group": 1,
+			"x": -997,
+			"y": 1420,
+			"platformLength": 450,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Assat",
+			"ril100": "🇫🇷ATK",
+			"group": 2,
+			"x": -987,
+			"y": 1426,
+			"proj": 3
+		},
+		{
+			"name": "Coarraze—Nay",
+			"ril100": "🇫🇷CZN",
+			"group": 2,
+			"x": -980,
+			"y": 1439,
+			"platformLength": 401,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Montaut—Bétharram",
+			"ril100": "🇫🇷MHZ",
+			"group": 2,
+			"x": -974,
+			"y": 1448,
+			"proj": 3
+		},
+		{
+			"name": "St-Pé-de-Bigorre",
+			"ril100": "🇫🇷XPE",
+			"group": 2,
+			"x": -969,
+			"y": 1452,
+			"proj": 3
+		},
+		{
+			"name": "Lourdes",
+			"ril100": "XFL",
+			"group": 1,
+			"x": -952,
+			"y": 1453,
+			"platformLength": 479,
+			"platforms": 9,
+			"proj": 3
+		},
+		{
+			"name": "Tarbes",
+			"ril100": "🇫🇷TBS",
+			"group": 1,
+			"x": -935,
+			"y": 1429,
+			"platformLength": 479,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Tournay",
+			"ril100": "🇫🇷TRY",
+			"group": 2,
+			"x": -912,
+			"y": 1438,
+			"proj": 3
+		},
+		{
+			"name": "Capvern",
+			"ril100": "🇫🇷CPN",
+			"group": 2,
+			"x": -899,
+			"y": 1452,
+			"platformLength": 230,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Lannemezan",
+			"ril100": "🇫🇷LNZ",
+			"group": 2,
+			"x": -891,
+			"y": 1450,
+			"platformLength": 435,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Montréjeau—Gourdan-Polignan",
+			"ril100": "🇫🇷MTJ",
+			"group": 2,
+			"x": -865,
+			"y": 1456,
+			"platformLength": 195,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "St-Gaudens",
+			"ril100": "🇫🇷SGD",
+			"group": 2,
+			"x": -842,
+			"y": 1452,
+			"proj": 3
+		},
+		{
+			"name": "St-Martory",
+			"ril100": "🇫🇷SYM",
+			"group": 2,
+			"x": -813,
+			"y": 1446,
+			"platformLength": 170,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Boussens",
+			"ril100": "🇫🇷BQY",
+			"group": 2,
+			"x": -807,
+			"y": 1439,
+			"platformLength": 390,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Carbonne",
+			"ril100": "XFCAB",
+			"group": 2,
+			"x": -772,
+			"y": 1419,
+			"platformLength": 321,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Muret",
+			"ril100": "🇫🇷MET",
+			"group": 2,
+			"x": -755,
+			"y": 1391,
+			"proj": 3
+		},
+		{
+			"name": "Portet—Saint-Simon",
+			"ril100": "🇫🇷PSS",
+			"group": 2,
+			"x": -746,
+			"y": 1380,
+			"platformLength": 356,
+			"platforms": 13,
+			"proj": 3
+		},
+		{
+			"name": "Loures—Barbazan",
+			"ril100": "🇫🇷LZB",
+			"group": 5,
+			"x": -860,
+			"y": 1466,
+			"proj": 3
+		},
+		{
+			"name": "Saléchan—Siradan",
+			"ril100": "🇫🇷SZS",
+			"group": 5,
+			"x": -857,
+			"y": 1476,
+			"proj": 3
+		},
+		{
+			"name": "Marignac—St-Béat",
+			"ril100": "🇫🇷MSB",
+			"group": 5,
+			"x": -855,
+			"y": 1484,
+			"platformLength": 110,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Luchon",
+			"ril100": "🇫🇷LUC",
+			"group": 2,
+			"x": -864,
+			"y": 1504,
+			"platformLength": 180,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Croix-du-Prince",
+			"ril100": "🇫🇷O2333975182",
+			"group": 5,
+			"x": -999,
+			"y": 1421,
+			"proj": 3
+		},
+		{
+			"name": "Gan",
+			"ril100": "🇫🇷GNJ",
+			"group": 2,
+			"x": -1001,
+			"y": 1430,
+			"platformLength": 170,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Buzy-en-Béarn",
+			"ril100": "🇫🇷BUZ",
+			"group": 2,
+			"x": -1011,
+			"y": 1444,
+			"platformLength": 160,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Ogeu-les-Bains",
+			"ril100": "🇫🇷OLB",
+			"group": 2,
+			"x": -1018,
+			"y": 1443,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Oloron-Ste-Marie",
+			"ril100": "🇫🇷OLN",
+			"group": 2,
+			"x": -1033,
+			"y": 1436,
+			"proj": 3
+		},
+		{
+			"name": "Bidos",
+			"ril100": "🇫🇷51791",
+			"group": 5,
+			"x": -1032,
+			"y": 1439,
+			"proj": 3
+		},
+		{
+			"name": "Lurbe—St-Christau",
+			"ril100": "🇫🇷67274",
+			"group": 2,
+			"x": -1032,
+			"y": 1449,
+			"proj": 3
+		},
+		{
+			"name": "Sarrance",
+			"ril100": "🇫🇷67276",
+			"group": 2,
+			"x": -1032,
+			"y": 1461,
+			"proj": 3
+		},
+		{
+			"name": "Bedous",
+			"ril100": "🇫🇷67277",
+			"group": 2,
+			"x": -1033,
+			"y": 1470,
 			"proj": 3
 		},
 		{
@@ -24397,11 +24963,13 @@
 			"proj": 3
 		},
 		{
-			"name": "Carstairs South Jn",
+			"name": "Carstairs",
 			"ril100": "🇬🇧CRSTRSS",
-			"group": 4,
+			"group": 2,
 			"x": -1305,
 			"y": -640,
+			"platformLength": 290,
+			"platforms": 2,
 			"proj": 3
 		},
 		{
@@ -24910,7 +25478,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Lunden",
+			"name": "Lunden (NO)",
 			"ril100": "🇳🇴LUN",
 			"group": 5,
 			"x": 117,
@@ -26714,7 +27282,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Sala",
+			"name": "Sala (SK)",
 			"ril100": "XYSA",
 			"group": 2,
 			"x": 1562,
@@ -27484,7 +28052,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Durham",
+			"name": "Durham (GB)",
 			"ril100": "🇬🇧DHM",
 			"group": 2,
 			"x": -1043,
@@ -29584,7 +30152,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Dimitrovgrad",
+			"name": "Dimitrovgrad (RU)",
 			"ril100": "🇷🇺O3991184641",
 			"group": 2,
 			"x": 5704,
@@ -33808,7 +34376,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Alexandria",
+			"name": "Alexandria (CA)",
 			"ril100": "🇨🇦O6339680042",
 			"group": 5,
 			"x": -11416,
@@ -33872,7 +34440,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Belleville",
+			"name": "Belleville (CA)",
 			"ril100": "🇨🇦BLVL",
 			"group": 2,
 			"x": -11884,
@@ -35438,7 +36006,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Northampton",
+			"name": "Northampton (GB)",
 			"ril100": "🇬🇧NMP",
 			"group": 1,
 			"x": -985,
@@ -35458,7 +36026,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Rugby",
+			"name": "Rugby (GB)",
 			"ril100": "XKRU",
 			"group": 0,
 			"x": -1029,
@@ -35634,7 +36202,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Lancaster",
+			"name": "Lancaster (GB)",
 			"ril100": "🇬🇧LAN",
 			"group": 2,
 			"x": -1215,
@@ -35951,6 +36519,172 @@
 			"y": 340,
 			"platformLength": 271,
 			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Pins-Justaret",
+			"ril100": "🇫🇷PJT",
+			"group": 2,
+			"x": -744,
+			"y": 1388,
+			"proj": 3
+		},
+		{
+			"name": "Vénerque—Le-Vernet",
+			"ril100": "🇫🇷VQV",
+			"group": 2,
+			"x": -741,
+			"y": 1396,
+			"platformLength": 150,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Auterive",
+			"ril100": "🇫🇷O9790907558",
+			"group": 2,
+			"x": -735,
+			"y": 1410,
+			"proj": 3
+		},
+		{
+			"name": "Cintegabelle",
+			"ril100": "XFCIG",
+			"group": 2,
+			"x": -728,
+			"y": 1418,
+			"proj": 3
+		},
+		{
+			"name": "Saverdun",
+			"ril100": "🇫🇷SRN",
+			"group": 2,
+			"x": -722,
+			"y": 1429,
+			"platformLength": 234,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Le Vernet d'Ariège",
+			"ril100": "🇫🇷O1502337328",
+			"group": 2,
+			"x": -716,
+			"y": 1437,
+			"proj": 3
+		},
+		{
+			"name": "Pamiers",
+			"ril100": "🇫🇷PMS",
+			"group": 2,
+			"x": -716,
+			"y": 1450,
+			"platformLength": 190,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Varilhes",
+			"ril100": "🇫🇷VIH",
+			"group": 2,
+			"x": -715,
+			"y": 1462,
+			"platformLength": 154,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "St-Jean-de-Verges",
+			"ril100": "🇫🇷JNV",
+			"group": 5,
+			"x": -718,
+			"y": 1467,
+			"platformLength": 155,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Foix",
+			"ril100": "🇫🇷FXE",
+			"group": 1,
+			"x": -718,
+			"y": 1475,
+			"platformLength": 356,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Tarascon-sur-Ariege",
+			"ril100": "XFTRC",
+			"group": 2,
+			"x": -720,
+			"y": 1495,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Les Cabannes",
+			"ril100": "🇫🇷CNB",
+			"group": 2,
+			"x": -708,
+			"y": 1506,
+			"platformLength": 150,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Luzenac-Garanou",
+			"ril100": "XFLUG",
+			"group": 2,
+			"x": -699,
+			"y": 1510,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Ax-les-Thermes",
+			"ril100": "🇫🇷AXN",
+			"group": 1,
+			"x": -688,
+			"y": 1516,
+			"platformLength": 150,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Mérens-les-Vals",
+			"ril100": "🇫🇷MLX",
+			"group": 2,
+			"x": -688,
+			"y": 1527,
+			"platformLength": 153,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Andorre - L'Hospitalet",
+			"ril100": "🇫🇷O2261676064",
+			"group": 2,
+			"x": -693,
+			"y": 1539,
+			"proj": 3
+		},
+		{
+			"name": "Porté-Puymorens",
+			"ril100": "🇫🇷PPM",
+			"group": 2,
+			"x": -690,
+			"y": 1548,
+			"proj": 3
+		},
+		{
+			"name": "Latour-de-Carol – Enveitg",
+			"ril100": "🇫🇷LTL",
+			"group": 2,
+			"x": -679,
+			"y": 1561,
 			"proj": 3
 		},
 		{
@@ -37472,7 +38206,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Salisbury",
+			"name": "Salisbury (GB)",
 			"ril100": "🇬🇧SAL",
 			"group": 1,
 			"x": -1120,
@@ -37570,6 +38304,82 @@
 			"y": -88,
 			"platformLength": 259,
 			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Villefranque",
+			"ril100": "🇫🇷O926804998",
+			"group": 2,
+			"x": -1151,
+			"y": 1396,
+			"proj": 3
+		},
+		{
+			"name": "Ustaritz",
+			"ril100": "🇫🇷USZ",
+			"group": 5,
+			"x": -1150,
+			"y": 1401,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Halsou-Larressore",
+			"ril100": "🇫🇷HLS",
+			"group": 5,
+			"x": -1147,
+			"y": 1405,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Cambo-les-Bains",
+			"ril100": "🇫🇷CPQ",
+			"group": 2,
+			"x": -1143,
+			"y": 1407,
+			"platformLength": 140,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Itxassou",
+			"ril100": "🇫🇷ITX",
+			"group": 5,
+			"x": -1143,
+			"y": 1415,
+			"platformLength": 75,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bidarray—Pont-Noblia",
+			"ril100": "🇫🇷PBJ",
+			"group": 2,
+			"x": -1136,
+			"y": 1424,
+			"platformLength": 110,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Ossès—St-Martin-d'Arrossa",
+			"ril100": "🇫🇷OSS",
+			"group": 5,
+			"x": -1131,
+			"y": 1430,
+			"proj": 3
+		},
+		{
+			"name": "St-Jean-Pied-de-Port",
+			"ril100": "🇫🇷SJP",
+			"group": 2,
+			"x": -1122,
+			"y": 1441,
+			"platformLength": 145,
+			"platforms": 1,
 			"proj": 3
 		},
 		{
@@ -39387,7 +40197,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Gorodishche",
+			"name": "Gorodishche (BY)",
 			"ril100": "🇧🇾O288126829",
 			"group": 2,
 			"x": 2836,
@@ -40301,7 +41111,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Truro",
+			"name": "Truro (CA)",
 			"ril100": "🇨🇦O6366563032",
 			"group": 2,
 			"x": -9817,
@@ -40836,7 +41646,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Rugby",
+			"name": "Rugby (US)",
 			"ril100": "🇺🇸O6997575336",
 			"group": 2,
 			"x": -14687,
@@ -42119,7 +42929,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Lancaster",
+			"name": "Lancaster (US)",
 			"ril100": "🇺🇸LNC",
 			"group": 1,
 			"x": -12015,
@@ -45386,7 +46196,7 @@
 		},
 		{
 			"group": 2,
-			"name": "Lunden",
+			"name": "Lunden (Holstein)",
 			"ril100": "ALU",
 			"x": 346,
 			"y": -417,
@@ -45852,22 +46662,6 @@
 			"group": 5,
 			"x": 1711,
 			"y": 160,
-			"proj": 3
-		},
-		{
-			"name": "Częstochowa",
-			"ril100": "🇵🇱O3455672306",
-			"group": 2,
-			"x": 1713,
-			"y": 158,
-			"proj": 3
-		},
-		{
-			"name": "Częstochowa Aniołów",
-			"ril100": "🇵🇱O10269302059",
-			"group": 5,
-			"x": 1717,
-			"y": 154,
 			"proj": 3
 		},
 		{
@@ -48234,7 +49028,7 @@
 		},
 		{
 			"group": 2,
-			"name": "Steinen",
+			"name": "Steinen (Baden)",
 			"ril100": "RSTN",
 			"x": 161,
 			"y": 685,
@@ -50867,7 +51661,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Truro",
+			"name": "Truro (GB)",
 			"ril100": "🇬🇧35400",
 			"group": 1,
 			"x": -1573,
@@ -57487,7 +58281,7 @@
 		{
 			"name": "Thiviers",
 			"ril100": "🇫🇷TIV",
-			"group": 5,
+			"group": 2,
 			"x": -798,
 			"y": 1060,
 			"platformLength": 180,
@@ -57617,7 +58411,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Åneby",
+			"name": "Åneby (NO)",
 			"ril100": "🇳🇴O5720557897",
 			"group": 5,
 			"x": 585,
@@ -58063,7 +58857,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Leeds",
+			"name": "Leeds (GB)",
 			"ril100": "🇬🇧LDS",
 			"group": 0,
 			"x": -1053,
@@ -58838,7 +59632,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Flint",
+			"name": "Flint (GB)",
 			"ril100": "🇬🇧FLN",
 			"group": 2,
 			"x": -1269,
@@ -59716,6 +60510,107 @@
 			"proj": 3
 		},
 		{
+			"name": "Toulouse-Saint-Cyprien-Arènes",
+			"ril100": "🇫🇷O1172856149",
+			"group": 5,
+			"x": -741,
+			"y": 1369,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Saint-Martin du Touch",
+			"ril100": "🇫🇷SMT",
+			"group": 5,
+			"x": -747,
+			"y": 1368,
+			"proj": 3
+		},
+		{
+			"name": "Colomiers",
+			"ril100": "🇫🇷COL",
+			"group": 5,
+			"x": -753,
+			"y": 1367,
+			"proj": 3
+		},
+		{
+			"name": "Colomiers Lycée International",
+			"ril100": "🇫🇷LYF",
+			"group": 5,
+			"x": -756,
+			"y": 1365,
+			"platformLength": 120,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Pibrac",
+			"ril100": "🇫🇷PBR",
+			"group": 2,
+			"x": -759,
+			"y": 1364,
+			"platformLength": 118,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Brax—Leguevin",
+			"ril100": "🇫🇷BXL",
+			"group": 2,
+			"x": -767,
+			"y": 1365,
+			"platformLength": 125,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Mérenvielle",
+			"ril100": "🇫🇷MWE",
+			"group": 2,
+			"x": -779,
+			"y": 1362,
+			"proj": 3
+		},
+		{
+			"name": "L'Isle-Jourdain",
+			"ril100": "🇫🇷LIJ",
+			"group": 2,
+			"x": -787,
+			"y": 1365,
+			"platformLength": 150,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Gimont—Cahuzac",
+			"ril100": "🇫🇷GAH",
+			"group": 2,
+			"x": -819,
+			"y": 1362,
+			"platformLength": 114,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Aubiet",
+			"ril100": "🇫🇷AIT",
+			"group": 2,
+			"x": -830,
+			"y": 1359,
+			"proj": 3
+		},
+		{
+			"name": "Auch",
+			"ril100": "🇫🇷AUH",
+			"group": 2,
+			"x": -857,
+			"y": 1360,
+			"platformLength": 113,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Svitavy",
 			"ril100": "XTSI",
 			"group": 2,
@@ -59798,7 +60693,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Kolin",
+			"name": "Kolin (CZ)",
 			"ril100": "XTKI",
 			"group": 1,
 			"x": 1187,
@@ -67047,7 +67942,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Orange",
+			"name": "Orange (FR)",
 			"ril100": "XFOR",
 			"group": 1,
 			"x": -255,
@@ -70301,17 +71196,9 @@
 			"proj": 3
 		},
 		{
-			"name": "Częstochowa Aniołów",
-			"ril100": "🇵🇱O3233345002",
-			"group": 5,
-			"x": 1716,
-			"y": 153,
-			"proj": 3
-		},
-		{
 			"name": "Częstochowa",
 			"ril100": "🇵🇱O3713836050",
-			"group": 2,
+			"group": 1,
 			"x": 1713,
 			"y": 158,
 			"proj": 3
@@ -73686,7 +74573,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Salem",
+			"name": "Salem (Baden)",
 			"ril100": "RSLM",
 			"group": 2,
 			"x": 376,
@@ -74293,7 +75180,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Belleville",
+			"name": "Belleville (FR)",
 			"ril100": "XFBV",
 			"group": 2,
 			"x": -259,
@@ -78960,6 +79847,46 @@
 			"proj": 3
 		},
 		{
+			"name": "Couffoulens—Leuc",
+			"ril100": "🇫🇷CFW",
+			"group": 2,
+			"x": -616,
+			"y": 1441,
+			"proj": 3
+		},
+		{
+			"name": "Verzeille",
+			"ril100": "🇫🇷VRZ",
+			"group": 2,
+			"x": -616,
+			"y": 1447,
+			"proj": 3
+		},
+		{
+			"name": "Pomas",
+			"ril100": "🇫🇷PMA",
+			"group": 2,
+			"x": -620,
+			"y": 1452,
+			"proj": 3
+		},
+		{
+			"name": "Limoux Flassian",
+			"ril100": "🇫🇷LMF",
+			"group": 5,
+			"x": -631,
+			"y": 1458,
+			"proj": 3
+		},
+		{
+			"name": "Limoux",
+			"ril100": "🇫🇷LMX",
+			"group": 2,
+			"x": -630,
+			"y": 1460,
+			"proj": 3
+		},
+		{
 			"name": "Mendrisio",
 			"ril100": "XSME",
 			"group": 2,
@@ -79592,7 +80519,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Oxford",
+			"name": "Oxford (US)",
 			"ril100": "🇺🇸O169362",
 			"group": 4,
 			"x": -15375,
@@ -82264,7 +83191,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Greenfield",
+			"name": "Greenfield (GB)",
 			"ril100": "🇬🇧GNF",
 			"group": 2,
 			"x": -1118,
@@ -82618,7 +83545,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Kolin",
+			"name": "Kolin (PL)",
 			"ril100": "🇵🇱O1278165710",
 			"group": 5,
 			"x": 1158,
@@ -83138,7 +84065,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Aneby",
+			"name": "Aneby (SE)",
 			"ril100": "XVAY",
 			"group": 5,
 			"x": 1091,
@@ -86792,7 +87719,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Irvine",
+			"name": "Irvine (GB)",
 			"ril100": "🇬🇧IRV",
 			"group": 1,
 			"x": -1438,
@@ -89161,6 +90088,54 @@
 			"y": -91,
 			"platforms": 4,
 			"platformLength": 325,
+			"proj": 3
+		},
+		{
+			"name": "Le Teich",
+			"ril100": "🇫🇷TEH",
+			"group": 5,
+			"x": -1078,
+			"y": 1193,
+			"platformLength": 219,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Gujan-Mestras",
+			"ril100": "🇫🇷GUJ",
+			"group": 5,
+			"x": -1084,
+			"y": 1192,
+			"proj": 3
+		},
+		{
+			"name": "La Hume",
+			"ril100": "🇫🇷HUE",
+			"group": 5,
+			"x": -1091,
+			"y": 1192,
+			"platformLength": 219,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "La Teste",
+			"ril100": "🇫🇷TTE",
+			"group": 5,
+			"x": -1095,
+			"y": 1192,
+			"platformLength": 343,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Arcachon",
+			"ril100": "🇫🇷ARC",
+			"group": 2,
+			"x": -1098,
+			"y": 1188,
+			"platformLength": 395,
+			"platforms": 2,
 			"proj": 3
 		},
 		{
@@ -93422,7 +94397,7 @@
 			"proj": 3
 		},
 		{
-			"name": "Steinen",
+			"name": "Steinen (CH)",
 			"ril100": "🇨🇭STN",
 			"group": 5,
 			"x": 283,
