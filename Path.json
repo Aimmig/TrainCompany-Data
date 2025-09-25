@@ -7583,7 +7583,7 @@
 			"group": 1,
 			"objects": [
 				{
-					"start": "XZGR",
+					"start": "XZGS",
 					"end": "🇸🇮O2443074793",
 					"length": 3,
 					"maxSpeed": 70,
@@ -10964,13 +10964,13 @@
 				},
 				{
 					"start": "🇸🇮O1249794844",
-					"end": "XZGR",
+					"end": "XZGS",
 					"length": 3,
 					"maxSpeed": 70,
 					"twistingFactor": 0.11
 				},
 				{
-					"start": "XZGR",
+					"start": "XZGS",
 					"end": "🇸🇮O1666515768",
 					"length": 2,
 					"maxSpeed": 80,

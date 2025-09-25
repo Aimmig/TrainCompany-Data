@@ -8126,10 +8126,10 @@
 					"stations": [ "XZL", "XZPV", "XZDV", "XZKO" ]
 				},
 				{
-					"stations": [ "XZL", "XZZM", "XZCE", "XZGR", "XZPG", "XZM" ]
+					"stations": [ "XZL", "XZZM", "XZCE", "XZGB", "XZPG", "XZM" ]
 				},
 				{
-					"stations": [ "XZD", "XZSN", "XZZM", "XZCE", "XZGR", "XZPG", "XZM" ]
+					"stations": [ "XZD", "XZSN", "XZZM", "XZCE", "XZGB", "XZPG", "XZM" ]
 				},
 				{
 					"stations": [ "XZPV", "XZIB" ]
@@ -8150,10 +8150,10 @@
 					"stations": [ "XZCE", "XZVE" ]
 				},
 				{
-					"stations": [ "XZL", "XZGR", "XZKOV" ]
+					"stations": [ "XZL", "XZGS", "XZKOV" ]
 				},
 				{
-					"stations": [ "XZL", "XZGR", "XZTR", "XZMK" ]
+					"stations": [ "XZL", "XZGS", "XZTR", "XZMK" ]
 				},
 				{
 					"stations": [ "XZNM", "XZRO" ]
