@@ -8094,7 +8094,7 @@
 				"Bringe die Fahrgäste und ihre Fahrzeuge sicher und pünktlich an ihr Ziel.",
 				"Dieser Auto-Shuttle ist der schnellste Weg durch die julischen Alpen."
 			],
-			"stations": [ "🇸🇮O1864393414", "🇸🇮O811465751", "🇸🇮O829057113", "🇸🇮O471562298" ],
+			"stations": [ "XZNG", "🇸🇮O811465751", "🇸🇮O829057113", "🇸🇮O471562298" ],
 			"neededCapacity": [
 				{ "name": "cars", "value": 25 },
 				{ "name": "passengers", "value": 100 }
@@ -8120,46 +8120,46 @@
 					"stations": [ "XZL", "XZJ" ]
 				},
 				{
-					"stations": [ "XZL", "🇸🇮O4862148129" ]
+					"stations": [ "XZL", "XZKG" ]
 				},
 				{
 					"stations": [ "XZL", "XZPV", "XZDV", "XZKO" ]
 				},
 				{
-					"stations": [ "XZL", "XZZM", "🇸🇮43100", "🇸🇮O7243268330", "🇸🇮43300", "XZM" ]
+					"stations": [ "XZL", "XZZM", "XZCE", "XZGR", "XZPG", "XZM" ]
 				},
 				{
-					"stations": [ "XZD", "XZSN", "XZZM", "🇸🇮43100", "🇸🇮O7243268330", "🇸🇮43300", "XZM" ]
+					"stations": [ "XZD", "XZSN", "XZZM", "XZCE", "XZGR", "XZPG", "XZM" ]
 				},
 				{
 					"stations": [ "XZPV", "XZIB" ]
 				},
 				{
-					"stations": [ "🇸🇮O7351254917", "XZO", "🇸🇮43300" ]
+					"stations": [ "XZHO", "XZO", "XZPG" ]
 				},
 				{
-					"stations": [ "🇸🇮43704", "XZO", "🇸🇮43300", "XZM" ]
+					"stations": [ "XZMUS", "XZO", "XZPG", "XZM" ]
 				},
 				{
-					"stations": [ "🇸🇮O1864393414", "XZJ" ]
+					"stations": [ "XZNG", "XZJ" ]
 				},
 				{
-					"stations": [ "XZS", "🇸🇮O1864393414" ]
+					"stations": [ "XZS", "XZNG" ]
 				},
 				{
-					"stations": [ "🇸🇮43100", "🇸🇮O1867183527" ]
+					"stations": [ "XZCE", "XZVE" ]
 				},
 				{
-					"stations": [ "XZL", "🇸🇮O5615333224", "🇸🇮O2373004562" ]
+					"stations": [ "XZL", "XZGR", "XZKOV" ]
 				},
 				{
-					"stations": [ "XZL", "🇸🇮O5615333224", "🇸🇮O11175232974", "🇸🇮42502" ]
+					"stations": [ "XZL", "XZGR", "XZTR", "XZMK" ]
 				},
 				{
-					"stations": [ "XZNM", "🇸🇮O1867349741" ]
+					"stations": [ "XZNM", "XZRO" ]
 				},
 				{
-					"stations": [ "XZSN", "🇸🇮O11175232974" ]
+					"stations": [ "XZSN", "XZTR" ]
 				}
 			],
 			"stopsEverywhere": true,
