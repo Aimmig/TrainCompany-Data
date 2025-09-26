@@ -4227,6 +4227,18 @@
 					]
 				},
 				{
+					"start": "🇺🇦O1955870024",
+					"end": "🇺🇦O2291029957",
+					"electrified": true,
+					"length": 6,
+					"maxSpeed": 160,
+					"twistingFactor": 0.01,
+					"neededEquipments": [
+						"UA",
+						"1520mm"
+					]
+				},
+				{
 					"start": "🇺🇦O2291029957",
 					"end": "🇺🇦O1271064206",
 					"electrified": true,
@@ -12354,58 +12366,6 @@
 					"length": 1,
 					"maxSpeed": 80,
 					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O3394211569",
-					"end": "🇺🇦O3345061593",
-					"name": "Полтава-Південна - Люботин-Західний",
-					"electrified": true,
-					"length": 1,
-					"maxSpeed": 80,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O3345061593",
-					"end": "🇺🇦O2669865622",
-					"name": "Полтава-Південна - Люботин-Західний",
-					"electrified": true,
-					"length": 4,
-					"maxSpeed": 110,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O2669865622",
-					"end": "🇺🇦O1955870024",
-					"name": "Харкiвсько-Одеський хiд",
-					"electrified": true,
-					"length": 34,
-					"maxSpeed": 160,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O1955870024",
-					"end": "🇺🇦O2291029957",
-					"electrified": true,
-					"length": 6,
-					"maxSpeed": 160,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O2291029957",
-					"end": "🇺🇦O1736462232",
-					"name": "Харкiвсько-Одеський хiд",
-					"electrified": true,
-					"length": 34,
-					"maxSpeed": 160,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O3978166210",
-					"end": "🇺🇦O8568886621",
-					"electrified": true,
-					"length": 23,
-					"maxSpeed": 140,
-					"twistingFactor": 0.17
 				}
 			]
 		},
