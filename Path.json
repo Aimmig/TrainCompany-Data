@@ -7226,15 +7226,7 @@
 			],
 			"objects": [
 				{
-					"start": "🇺🇦O8568886621",
-					"end": "🇺🇦O1949803029",
-					"electrified": true,
-					"length": 17,
-					"maxSpeed": 100,
-					"twistingFactor": 0
-				},
-				{
-					"start": "🇺🇦O1949803029",
+					"start": "🇺🇦O8568879584",
 					"end": "🇺🇦O1935640834",
 					"name": "Ворожба-Люботин",
 					"electrified": true,
