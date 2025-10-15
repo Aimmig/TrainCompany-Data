@@ -12353,6 +12353,14 @@
 					"length": 1,
 					"maxSpeed": 80,
 					"twistingFactor": 0
+				},
+				{
+					"start": "🇺🇦O3394211569",
+					"end": "🇺🇦O3345061593",
+					"electrified": true,
+					"length": 2,
+					"maxSpeed": 80,
+					"twistingFactor": 0.15
 				}
 			]
 		},
