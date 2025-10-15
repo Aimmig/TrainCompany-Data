@@ -4233,7 +4233,7 @@
 				"Fahre auf deutscher und tschechischer Seite durch Vogtland und Erzgebirge von %s nach %s.",
 				"Halten Sie ihre Personaldokumente bitte griffbereit.",
 				"Bitte beachten sie die Zollbestimmungen.",
-				"Fahren sie gemütlich mit der Bahn durch die Kurorte in Vorgtland und Erzgebirge."
+				"Fahren sie gemütlich mit der Bahn durch die Kurorte in Vogtland und Erzgebirge."
 			],
 			"objects": [
 				{
@@ -8247,10 +8247,10 @@
 			],
 			"objects": [
 				{
-					"stations": [ "XZL", "XZD" ]
+					"stations": [ "XZL", "XZZM", "XZD" ]
 				},
 				{
-					"stations": [ "XZL", "🇮🇹03313", "XIT" ]
+					"stations": [ "XZL", "XZPV", "XZDV", "XZS", "🇮🇹03313", "XIT" ]
 				},
 				{
 					"stations": [ "XZL", "XZJ" ]
@@ -8981,7 +8981,7 @@
 					"stations": [ "XFFE", "🇫🇷BEM", "🇫🇷RDF", "🇫🇷AMS" ]
 				},
 				{
-					"stations": [ "XFLIE", "🇫🇷DOI", "🇫🇷RUX", "XFAS", "🇫🇷AMS", "XFCR", "XFSVF", "XFPO" ]
+					"stations": [ "XFLIE", "🇫🇷LIK", "🇫🇷DOI", "🇫🇷RUX", "XFAS", "🇫🇷AMS", "XFCR", "XFSVF", "XFPO" ]
 				},
 				{
 					"stations": [ "XFPO", "🇫🇷VCR", "🇫🇷CHH", "XFCOB", "XFLM" ]
@@ -11037,7 +11037,7 @@
 				"Die kurvenreiche Strecke von %s nach %s ist ideal für ein NT-Fahrzeug.",
 				"Bring die Urlauber ohne zu kotzen direkt ans Mittelmeer."
 			],
-			"stations": [ "XRZ", "XRS" ],
+			"stations": [ "XRZ", "XROT", "XRS" ],
 			"stopsEverywhere": true,
 			"neededCapacity": [
 				{ "name": "passengers" }
@@ -13890,7 +13890,17 @@
 				"Fahre auf der RB63 von %s nach %s.",
 				"Bring deine Fahrgäste pünktlich auf der Linie RB63 nach %2$s!"
 			],
-			"stations": [ "TUC", "TME", "TRE", "TT" ],
+			"objects": [
+				{
+					"stations": [ "TUC", "TME", "TRE", "TT", "TENT", "THE" ]
+				},
+				{
+					"stations": [ "TT", "TENT" ],
+					"descriptions": [
+						"Fahre einen Kurzläufer der RB63 auf der Ammertalbahn nach %2$s."
+					]
+				}
+			],
 			"stopsEverywhere": true,
 			"neededCapacity": [
 				{ "name": "passengers" }
