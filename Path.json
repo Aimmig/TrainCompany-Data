@@ -4336,24 +4336,11 @@
 				},
 				{
 					"start": "🇺🇦O8568886621",
-					"end": "🇺🇦O255730927",
+					"end": "🇺🇦O394980121",
 					"electrified": true,
-					"length": 4,
+					"length": 6,
 					"maxSpeed": 100,
 					"twistingFactor": 0.22,
-					"neededEquipments": [
-						"UA",
-						"1520mm"
-					]
-				},
-				{
-					"start": "🇺🇦O255730927",
-					"end": "🇺🇦O394980121",
-					"name": "2 колія",
-					"electrified": true,
-					"length": 2,
-					"maxSpeed": 100,
-					"twistingFactor": 0.16,
 					"neededEquipments": [
 						"UA",
 						"1520mm"
@@ -62172,7 +62159,7 @@
 			],
 			"objects": [
 				{
-					"start": "🇺🇦O255730927",
+					"start": "🇺🇦O394980121",
 					"end": "🇺🇦O395003980",
 					"name": "Харків-Балаш. - Нова Баварія",
 					"length": 5,
