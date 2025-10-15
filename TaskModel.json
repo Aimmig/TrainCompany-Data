@@ -1837,6 +1837,22 @@
 			"pathSuggestion": [ "🇳🇴FL", "🇳🇴LUN", "🇳🇴HAR", "🇳🇴DAHA", "🇳🇴BEK", "🇳🇴BLOM", "🇳🇴KD", "🇳🇴KF", "🇳🇴REHA", "🇳🇴VAT", "XOMY" ]
 		},
 		{
+			"name": "IC+ von %s nach %s",
+			"descriptions": [
+				"Bringe den Intercity von %s nach %s.",
+				"Bring die Fahrgäste im IC pünktlich nach %2$s.",
+				"Fahre den IC störungsfrei nach %2$s.",
+				"Bring den IC+ von %s nach %s."
+			],
+			"stations": [ "🇺🇦O2644051429", "🇺🇦2200007", "🇺🇦O1888732623", "ZURM", "🇺🇦O2420805814", "🇺🇦O12440860427", "🇺🇦O394980121" ],
+			"neededCapacity": [
+				{ "name": "passengers" }
+			],
+			"group": 1,
+			"service": 1,
+			"pathSuggestion": [ "🇺🇦O2644051429", "🇺🇦2200007", "🇺🇦O1888732623", "ZURM", "🇺🇦O2420805814", "🇺🇦O12440860427", "🇺🇦O3345061593", "🇺🇦O1955870024", "🇺🇦O2291029957", "🇺🇦O1736462232", "🇺🇦O3978166210", "🇺🇦O8568879584", "🇺🇦O8568886621", "🇺🇦O394980121" ]
+		},
+		{
 			"name": "Brightline von %s nach %s",
 			"descriptions": [
 				"Fahre für Brightline durch Florida von %s nach %s.",
