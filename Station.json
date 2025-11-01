@@ -95536,6 +95536,56 @@
 			"proj": 3
 		},
 		{
+			"name": "Euskirchen-Stotzheim",
+			"ril100": "KSTZ",
+			"group": 5,
+			"x": 43,
+			"y": 187,
+			"platformLength": 124,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Euskirchen-Kreuzweingarten",
+			"ril100": "KKRW",
+			"group": 5,
+			"x": 41,
+			"y": 190,
+			"platformLength": 133,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bad Münstereifel-Arloff",
+			"ril100": "KARL",
+			"group": 5,
+			"x": 40,
+			"y": 193,
+			"platformLength": 131,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bad Münstereifel-Iversheim",
+			"ril100": "KIV",
+			"group": 5,
+			"x": 38,
+			"y": 195,
+			"platformLength": 149,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bad Münstereifel",
+			"ril100": "KMUE",
+			"group": 2,
+			"x": 36,
+			"y": 197,
+			"platformLength": 150,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Pasajul Coșoveni",
 			"ril100": "🇷🇴5310706",
 			"group": 5,

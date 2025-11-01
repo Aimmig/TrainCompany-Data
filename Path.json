@@ -32265,6 +32265,47 @@
 			]
 		},
 		{
+			"electrified": false,
+			"maxSpeed": 60,
+			"group": 1,
+			"name": "Erfttalbahn",
+			"neededEquipments": [
+				"DE"
+			],
+			"objects": [
+				{
+					"start": "KEU",
+					"end": "KSTZ",
+					"length": 4,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "KSTZ",
+					"end": "KKRW",
+					"length": 2,
+					"twistingFactor": 0.07
+				},
+				{
+					"start": "KKRW",
+					"end": "KARL",
+					"length": 2,
+					"twistingFactor": 0.06
+				},
+				{
+					"start": "KARL",
+					"end": "KIV",
+					"length": 2,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "KIV",
+					"end": "KMUE",
+					"length": 2,
+					"twistingFactor": 0.05
+				}
+			]
+		},
+		{
 			"electrified": true,
 			"name": "Contournement ferroviaire de Nîmes et de Montpellier",
 			"twistingFactor": 0.1,

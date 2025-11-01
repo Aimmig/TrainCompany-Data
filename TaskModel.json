@@ -4710,7 +4710,7 @@
 			"descriptions": [
 				"Bring die Fahrgäste pünktlich und sicher durch die malerischen Felder der Voreifel."
 			],
-			"stations": [ "KB", "KEU" ],
+			"stations": [ "KB", "KEU", "KMUE" ],
 			"stopsEverywhere": true,
 			"neededCapacity": [
 				{ "name": "passengers" }
