@@ -2692,6 +2692,31 @@
 		},
 		{
 			"group": 1,
+			"name": "Ahrtalbahn von %s nach %s",
+			"service": 2,
+			"descriptions": [
+				"Verbinde das Ahrtal mit dem Rhein - neuerdings mit Oberleitung!",
+				"Bringe die Touristen pünktlich zum Ziel.",
+				"Nach vielen Verzögerung ist der Wiederaufbau der Strecke endlich abgeschlossen. Gute Fahrt!"
+			],
+			"objects": [
+				{
+					"stations": [ "KBRU", "KRE", "KB" ]
+				},
+				{
+					"stations": [ "KBRU", "KRE", "KAND", "KKO", "KBOP" ]
+				},
+				{
+					"stations": [ "KBRU", "KRE" ]
+				}
+			],
+			"stopsEverywhere": true,
+			"neededCapacity": [
+				{ "name": "passengers" }
+			]
+		},
+		{
+			"group": 1,
 			"name": "BRB Oberland von %s nach %s",
 			"service": 2,
 			"descriptions": [
