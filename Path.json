@@ -51939,6 +51939,89 @@
 			]
 		},
 		{
+			"name": "Ahrtalbahn",
+			"neededEquipments": [
+				"DE"
+			],
+			"group": 1,
+			"electrified": true,
+			"maxSpeed": 80,
+			"objects": [
+				{
+					"start": "KBRU",
+					"end": "KKRZ",
+					"length": 2,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "KKRZ",
+					"end": "KALT",
+					"length": 2,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "KALT",
+					"end": "KMAY",
+					"length": 3,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "KMAY",
+					"end": "KREC",
+					"length": 1,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "KREC",
+					"end": "KDEA",
+					"length": 2,
+					"twistingFactor": 0.12
+				},
+				{
+					"start": "KDEA",
+					"end": "KWAP",
+					"length": 3,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "KWAP",
+					"end": "KAHM",
+					"length": 2,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "KAHM",
+					"end": "KAH",
+					"length": 1,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "KAH",
+					"end": "KNEB",
+					"length": 3,
+					"twistingFactor": 0.05
+				},
+				{
+					"start": "KNEB",
+					"end": "🇩🇪O12433020232",
+					"length": 3,
+					"twistingFactor": 0.05
+				},
+				{
+					"start": "🇩🇪O12433020232",
+					"end": "KBOD",
+					"length": 3,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "KBOD",
+					"end": "KRE",
+					"length": 5,
+					"twistingFactor": 0.4
+				}
+			]
+		},
+		{
 			"electrified": false,
 			"group": 1,
 			"maxSpeed": 80,
