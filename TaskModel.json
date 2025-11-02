@@ -4502,6 +4502,29 @@
 		},
 		{
 			"group": 1,
+			"name": "HLB von %s nach %s",
+			"service": 2,
+			"descriptions": [
+				"Fahre für HLB durch den Westerwald"
+			],
+			"objects": [
+				{
+					"stations": [ "FL", "FST", "FGIR", "FMT", "KSIH" ]
+				},
+				{
+					"stations": [ "FL", "FST", "KAK", "EBZ" ]
+				},
+				{
+					"stations": [ "EBZ", "EHF", "FHG", "FDIL" ]
+				}
+			],
+			"stopsEverywhere": true,
+			"neededCapacity": [
+				{ "name": "passengers" }
+			]
+		},
+		{
+			"group": 1,
 			"name": "S8 von %s nach %s",
 			"service": 3,
 			"descriptions": [
