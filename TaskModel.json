@@ -4516,6 +4516,9 @@
 				},
 				{
 					"stations": [ "EBZ", "EHF", "FHG", "FDIL" ]
+				},
+				{
+					"stations": [ "EBZ", "ESIE", "EKT", "EEK", "EBLB" ]
 				}
 			],
 			"stopsEverywhere": true,
