@@ -5875,6 +5875,128 @@
 			]
 		},
 		{
+			"name": "Obere Lahntalbahn",
+			"electrified": false,
+			"group": 0,
+			"neededEquipments": [
+				"DE"
+			],
+			"objects": [
+				{
+					"start": "EEK",
+					"end": "ESCA",
+					"length": 3,
+					"maxSpeed": 50,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "ESCA",
+					"end": "ELEI",
+					"length": 2,
+					"maxSpeed": 50,
+					"twistingFactor": 0.4
+				},
+				{
+					"start": "ELEI",
+					"end": "EOBW",
+					"length": 5,
+					"maxSpeed": 70,
+					"twistingFactor": 0.34
+				},
+				{
+					"start": "EOBW",
+					"end": "EFEU",
+					"length": 3,
+					"maxSpeed": 70,
+					"twistingFactor": 0.32
+				},
+				{
+					"start": "EFEU",
+					"end": "ELSP",
+					"length": 9,
+					"maxSpeed": 70,
+					"twistingFactor": 0.4
+				},
+				{
+					"start": "ELSP",
+					"end": "ENL",
+					"length": 2,
+					"maxSpeed": 70,
+					"twistingFactor": 0.37
+				},
+				{
+					"start": "ENL",
+					"end": "🇩🇪05330",
+					"length": 2,
+					"maxSpeed": 60,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "🇩🇪05330",
+					"end": "🇩🇪O4789351048",
+					"length": 3,
+					"maxSpeed": 80,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "🇩🇪O4789351048",
+					"end": "FBIK",
+					"length": 1,
+					"maxSpeed": 60,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FBIK",
+					"end": "FWUE",
+					"length": 4,
+					"maxSpeed": 80,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "FWUE",
+					"end": "FFRD",
+					"length": 1,
+					"maxSpeed": 60,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FFRD",
+					"end": "FBNU",
+					"length": 3,
+					"maxSpeed": 80,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "FBNU",
+					"end": "FCLD",
+					"length": 5,
+					"maxSpeed": 70,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FCLD",
+					"end": "FSZH",
+					"length": 2,
+					"maxSpeed": 70,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "FSZH",
+					"end": "FLSR",
+					"length": 3,
+					"maxSpeed": 60,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FLSR",
+					"end": "FCOE",
+					"length": 4,
+					"maxSpeed": 80,
+					"twistingFactor": 0.37
+				}
+			]
+		},
+		{
 			"group": 1,
 			"name": "Lahntalbahn",
 			"twistingFactor": 0.5,
@@ -7521,8 +7643,14 @@
 				},
 				{
 					"start": "FMBG",
+					"end": "FCOE",
+					"length": 4,
+					"maxSpeed": 140
+				},
+				{
+					"start": "FCOE",
 					"end": "FAZ",
-					"length": 10,
+					"length": 6,
 					"maxSpeed": 140
 				},
 				{
@@ -61319,6 +61447,95 @@
 					"length": 30,
 					"maxSpeed": 110,
 					"twistingFactor": 0.62
+				}
+			]
+		},
+		{
+			"electrified": false,
+			"name": "Rothaarbahn",
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 50,
+			"group": 1,
+			"objects": [
+				{
+					"start": "EKT",
+					"end": "🇩🇪O295969841",
+					"length": 1,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "🇩🇪O295969841",
+					"end": "EDAB",
+					"length": 3,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "EDAB",
+					"end": "ESKA",
+					"length": 2,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "ESKA",
+					"end": "EHIB",
+					"length": 1,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "EHIB",
+					"end": "EVRO",
+					"length": 1,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "EVRO",
+					"end": "EVRD",
+					"length": 6,
+					"twistingFactor": 0.49
+				},
+				{
+					"start": "EVRD",
+					"end": "ELUZ",
+					"length": 3,
+					"twistingFactor": 0.39
+				},
+				{
+					"start": "ELUZ",
+					"end": "EEK",
+					"length": 6,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "EEK",
+					"end": "EBKB",
+					"length": 3,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "EBKB",
+					"end": "EAWN",
+					"length": 5,
+					"twistingFactor": 0.36
+				},
+				{
+					"start": "EAWN",
+					"end": "🇩🇪O4785246350",
+					"length": 5,
+					"twistingFactor": 0.26
+				},
+				{
+					"start": "🇩🇪O4785246350",
+					"end": "ERMA",
+					"length": 1,
+					"twistingFactor": 0.07
+				},
+				{
+					"start": "ERMA",
+					"end": "EBLB",
+					"length": 3,
+					"twistingFactor": 0.39
 				}
 			]
 		},

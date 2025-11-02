@@ -51969,6 +51969,160 @@
 			"proj": 3
 		},
 		{
+			"name": "Schameder",
+			"ril100": "ESCA",
+			"group": 5,
+			"x": 245,
+			"y": 127,
+			"platformLength": 98,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Leimstruth",
+			"ril100": "ELEI",
+			"group": 5,
+			"x": 248,
+			"y": 128,
+			"platformLength": 104,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Oberndorf (Kr Wittgenstein)",
+			"ril100": "EOBW",
+			"group": 5,
+			"x": 246,
+			"y": 134,
+			"platformLength": 109,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Feudingen",
+			"ril100": "EFEU",
+			"group": 2,
+			"x": 250,
+			"y": 136,
+			"proj": 3
+		},
+		{
+			"name": "Bad Laasphe",
+			"ril100": "ELSP",
+			"group": 2,
+			"x": 262,
+			"y": 138,
+			"proj": 3
+		},
+		{
+			"name": "Bad Laasphe-Niederlaasphe",
+			"ril100": "ENL",
+			"group": 5,
+			"x": 265,
+			"y": 139,
+			"platformLength": 97,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Wallau (Lahn)",
+			"ril100": "🇩🇪05330",
+			"group": 2,
+			"x": 269,
+			"y": 139,
+			"platformLength": 104,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Biedenkopf Campus",
+			"ril100": "🇩🇪O4789351048",
+			"group": 5,
+			"x": 276,
+			"y": 140,
+			"platformLength": 112,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Biedenkopf",
+			"ril100": "FBIK",
+			"group": 2,
+			"x": 277,
+			"y": 141,
+			"platformLength": 113,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Wilhelmshütte (Lahn)",
+			"ril100": "FWUE",
+			"group": 5,
+			"x": 280,
+			"y": 148,
+			"platformLength": 110,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Friedensdorf (Lahn)",
+			"ril100": "FFRD",
+			"group": 2,
+			"x": 281,
+			"y": 150,
+			"platformLength": 104,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Buchenau (Lahn)",
+			"ril100": "FBNU",
+			"group": 5,
+			"x": 287,
+			"y": 148,
+			"proj": 3
+		},
+		{
+			"name": "Caldern",
+			"ril100": "FCLD",
+			"group": 5,
+			"x": 296,
+			"y": 151,
+			"platformLength": 108,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Sterzhausen",
+			"ril100": "FSZH",
+			"group": 5,
+			"x": 301,
+			"y": 149,
+			"platformLength": 116,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Lahntal-Sarnau",
+			"ril100": "FLSR",
+			"group": 5,
+			"x": 308,
+			"y": 148,
+			"platformLength": 102,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Cölbe",
+			"ril100": "FCOE",
+			"group": 2,
+			"x": 312,
+			"y": 151,
+			"platformLength": 218,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
 			"group": 0,
 			"name": "Berlin Hbf",
 			"ril100": "BL",
@@ -72327,6 +72481,136 @@
 			"y": 577,
 			"platformLength": 210,
 			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Ferndorf",
+			"ril100": "🇩🇪O295969841",
+			"group": 5,
+			"x": 207,
+			"y": 133,
+			"platformLength": 69,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Dahlbruch",
+			"ril100": "EDAB",
+			"group": 5,
+			"x": 213,
+			"y": 131,
+			"platformLength": 73,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Stift Keppel Allenbach",
+			"ril100": "ESKA",
+			"group": 5,
+			"x": 218,
+			"y": 130,
+			"platformLength": 67,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Hilchenbach",
+			"ril100": "EHIB",
+			"group": 5,
+			"x": 220,
+			"y": 128,
+			"platformLength": 109,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Vormwald Dorf",
+			"ril100": "EVRO",
+			"group": 5,
+			"x": 223,
+			"y": 128,
+			"platformLength": 61,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vormwald",
+			"ril100": "EVRD",
+			"group": 5,
+			"x": 225,
+			"y": 129,
+			"platformLength": 127,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Lützel",
+			"ril100": "ELUZ",
+			"group": 5,
+			"x": 229,
+			"y": 132,
+			"platformLength": 113,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Erndtebrück",
+			"ril100": "EEK",
+			"group": 2,
+			"x": 240,
+			"y": 128,
+			"platformLength": 166,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Birkelbach",
+			"ril100": "EBKB",
+			"group": 5,
+			"x": 240,
+			"y": 123,
+			"platformLength": 115,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Aue-Wingeshausen",
+			"ril100": "EAWN",
+			"group": 5,
+			"x": 245,
+			"y": 118,
+			"platformLength": 61,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Berghausen bei Wittgenstein",
+			"ril100": "🇩🇪O4785246350",
+			"group": 5,
+			"x": 253,
+			"y": 121,
+			"platformLength": 79,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Raumland-Markhausen",
+			"ril100": "ERMA",
+			"group": 5,
+			"x": 256,
+			"y": 121,
+			"platformLength": 104,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bad Berleburg",
+			"ril100": "EBLB",
+			"group": 2,
+			"x": 259,
+			"y": 118,
+			"platformLength": 105,
+			"platforms": 1,
 			"proj": 3
 		},
 		{
