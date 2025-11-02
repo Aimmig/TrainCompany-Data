@@ -1894,6 +1894,16 @@
 			"proj": 3
 		},
 		{
+			"name": "Novoselivka",
+			"ril100": "🇺🇦O255730927",
+			"group": 2,
+			"x": 4050,
+			"y": 297,
+			"platformLength": 221,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
 			"name": "Kharkiv-Pasazhyrskyi",
 			"ril100": "🇺🇦O394980121",
 			"group": 0,
