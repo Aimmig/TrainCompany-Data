@@ -16507,6 +16507,76 @@
 			"proj": 3
 		},
 		{
+			"name": "Siershahn",
+			"ril100": "KSIH",
+			"group": 2,
+			"x": 174,
+			"y": 210,
+			"platformLength": 120,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Wirges",
+			"ril100": "KWIR",
+			"group": 5,
+			"x": 175,
+			"y": 212,
+			"platformLength": 75,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Dernbach/Ww",
+			"ril100": "🇩🇪O296309721",
+			"group": 5,
+			"x": 175,
+			"y": 214,
+			"platformLength": 71,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Goldhausen",
+			"ril100": "FGDH",
+			"group": 5,
+			"x": 187,
+			"y": 215,
+			"platformLength": 111,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Girod",
+			"ril100": "FGIR",
+			"group": 5,
+			"x": 191,
+			"y": 217,
+			"platformLength": 60,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Dreikirchen",
+			"ril100": "FOHS",
+			"group": 5,
+			"x": 199,
+			"y": 217,
+			"platformLength": 92,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Niedererbach",
+			"ril100": "FNIB",
+			"group": 5,
+			"x": 201,
+			"y": 222,
+			"platformLength": 87,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Zutphen",
 			"ril100": "🇳🇱Zp",
 			"platforms": 3,

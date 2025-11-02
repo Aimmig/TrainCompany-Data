@@ -51350,6 +51350,71 @@
 			]
 		},
 		{
+			"electrified": false,
+			"neededEquipments": [
+				"DE"
+			],
+			"group": 1,
+			"objects": [
+				{
+					"start": "KSIH",
+					"end": "KWIR",
+					"length": 2,
+					"maxSpeed": 60,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "KWIR",
+					"end": "🇩🇪O296309721",
+					"length": 1,
+					"maxSpeed": 60,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇩🇪O296309721",
+					"end": "FMT",
+					"length": 3,
+					"maxSpeed": 60,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "FMT",
+					"end": "FGDH",
+					"length": 4,
+					"maxSpeed": 50,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "FGDH",
+					"end": "FGIR",
+					"length": 2,
+					"maxSpeed": 50,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FGIR",
+					"end": "FOHS",
+					"length": 4,
+					"maxSpeed": 50,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "FOHS",
+					"end": "FNIB",
+					"length": 4,
+					"maxSpeed": 50,
+					"twistingFactor": 0.4
+				},
+				{
+					"start": "FNIB",
+					"end": "FST",
+					"length": 5,
+					"maxSpeed": 300,
+					"twistingFactor": 0.08
+				}
+			]
+		},
+		{
 			"name": "Dalabanan",
 			"electrified": true,
 			"group": 1,
