@@ -66075,6 +66075,256 @@
 			"proj": 3
 		},
 		{
+			"name": "Staffel",
+			"ril100": "FST",
+			"group": 2,
+			"x": 210,
+			"y": 220,
+			"platformLength": 95,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Elz",
+			"ril100": "🇩🇪O5154586368",
+			"group": 5,
+			"x": 208,
+			"y": 220,
+			"platformLength": 75,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Niederhadamar",
+			"ril100": "FNHD",
+			"group": 5,
+			"x": 207,
+			"y": 218,
+			"platformLength": 91,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Hadamar",
+			"ril100": "FHAD",
+			"group": 5,
+			"x": 207,
+			"y": 216,
+			"platformLength": 142,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Niederzeuzheim",
+			"ril100": "FNIZ",
+			"group": 5,
+			"x": 210,
+			"y": 212,
+			"platformLength": 91,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Frickhofen",
+			"ril100": "FFRN",
+			"group": 5,
+			"x": 209,
+			"y": 208,
+			"platformLength": 166,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Wilsenroth",
+			"ril100": "FWTH",
+			"group": 5,
+			"x": 209,
+			"y": 204,
+			"platformLength": 144,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Berzhahn",
+			"ril100": "FBEZ",
+			"group": 5,
+			"x": 206,
+			"y": 202,
+			"platformLength": 64,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Willmenrod",
+			"ril100": "FWLM",
+			"group": 5,
+			"x": 203,
+			"y": 203,
+			"platformLength": 95,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Westerburg",
+			"ril100": "FWBG",
+			"group": 2,
+			"x": 200,
+			"y": 199,
+			"platformLength": 152,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Langenhahn",
+			"ril100": "FLAH",
+			"group": 5,
+			"x": 193,
+			"y": 195,
+			"platformLength": 132,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Rotenhain",
+			"ril100": "FRTN",
+			"group": 5,
+			"x": 190,
+			"y": 192,
+			"platformLength": 120,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Enspel",
+			"ril100": "FENS",
+			"group": 5,
+			"x": 189,
+			"y": 190,
+			"platformLength": 140,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Bündingen (Westerw)",
+			"ril100": "🇩🇪O298647213",
+			"group": 5,
+			"x": 191,
+			"y": 187,
+			"platformLength": 128,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Nistertal-Bad Marienberg",
+			"ril100": "FERW",
+			"group": 2,
+			"x": 191,
+			"y": 187,
+			"platformLength": 116,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Unnau-Korb",
+			"ril100": "FUKO",
+			"group": 5,
+			"x": 190,
+			"y": 184,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Hachenburg",
+			"ril100": "KHAC",
+			"group": 2,
+			"x": 181,
+			"y": 182,
+			"platformLength": 145,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Hattert",
+			"ril100": "KHAT",
+			"group": 5,
+			"x": 174,
+			"y": 180,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Ingelbach",
+			"ril100": "KING",
+			"group": 5,
+			"x": 168,
+			"y": 178,
+			"platformLength": 70,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Altenkirchen (Westerwald)",
+			"ril100": "KAK",
+			"group": 2,
+			"x": 156,
+			"y": 178,
+			"platformLength": 110,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Obererbach",
+			"ril100": "KOE",
+			"group": 5,
+			"x": 159,
+			"y": 173,
+			"platformLength": 131,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Kloster Marienthal",
+			"ril100": "🇩🇪19622",
+			"group": 5,
+			"x": 160,
+			"y": 170,
+			"platformLength": 71,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Breitscheidt(Altenkirchen, Ww)",
+			"ril100": "🇩🇪O265854542",
+			"group": 5,
+			"x": 159,
+			"y": 168,
+			"platformLength": 130,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Hohegrete",
+			"ril100": "🇩🇪19623",
+			"group": 5,
+			"x": 157,
+			"y": 165,
+			"platformLength": 62,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Geilhausen",
+			"ril100": "KGEH",
+			"group": 5,
+			"x": 156,
+			"y": 164,
+			"platformLength": 52,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Belgershain",
 			"ril100": "LBGH",
