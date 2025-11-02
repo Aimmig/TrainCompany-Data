@@ -15,11 +15,11 @@
 			"objects": [
 				{
 					"stations": [ "MH", "MA", "TU", "TS", "RM", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AHAR", "AH", "AN", "AK" ],
-					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
+					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "FMT", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
 				},
 				{
 					"stations": [ "MH", "MIH", "NN", "NWH", "NAH", "FF", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO" ],
-					"pathSuggestion": [ "MH", "MDA", "MIH", "NN", "NF", "NRTD", "NWH", "NRB", "NLO", "NAH", "FH", "FF", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO" ]
+					"pathSuggestion": [ "MH", "MDA", "MIH", "NN", "NF", "NRTD", "NWH", "NRB", "NLO", "NAH", "FH", "FF", "FFLF", "FMT", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO" ]
 				},
 				{
 					"stations": [ "AA", "AH", "BSPD", "BL", "LW", "LL", "UE P", "NBA", "NER", "NN", "MH" ],
@@ -63,7 +63,7 @@
 			"objects": [
 				{
 					"stations": [ "KD", "KK", "FFLF", "NN", "MH" ],
-					"pathSuggestion": [ "KD", "KK", "KT", "KSIB", "FFLF", "FF", "FH", "NAH", "NLO", "NRB", "NWH", "NRTD", "NF", "NN", "MIH", "MDA", "MH" ]
+					"pathSuggestion": [ "KD", "KK", "KT", "KSIB", "FMT", "FFLF", "FF", "FH", "NAH", "NLO", "NRB", "NWH", "NRTD", "NF", "NN", "MIH", "MDA", "MH" ]
 				},
 				{
 					"stations": [ "AH", "HH", "FF" ],
@@ -301,7 +301,7 @@
 				"Bringe den ICE International von %s nach %s."
 			],
 			"stations": [ "XNAC", "XNU", "XNAH", "EOB", "EDG", "KD", "KK", "FFLF", "FF" ],
-			"pathSuggestion": [ "XNAC", "XNU", "XNAH", "🇳🇱Zv", "EOB", "EDG", "KD", "KK", "KT", "KSIB", "FFLF", "FF" ],
+			"pathSuggestion": [ "XNAC", "XNU", "XNAH", "🇳🇱Zv", "EOB", "EDG", "KD", "KK", "KT", "KSIB", "FMT", "FFLF", "FF" ],
 			"neededCapacity": [
 				{ "name": "passengers" },
 				{ "name": "bistroseats" }
@@ -6577,7 +6577,7 @@
 				},
 				{
 					"stations": [ "FFLF", "KDFF" ],
-					"pathSuggestion": [ "FFLF", "KSIB", "KT", "KK", "KD", "KDFF" ]
+					"pathSuggestion": [ "FFLF", "FMT", "KSIB", "KT", "KK", "KD", "KDFF" ]
 				},
 				{
 					"stations": [ "TFFL", "FFLF" ],
