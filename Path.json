@@ -5926,20 +5926,20 @@
 				},
 				{
 					"start": "ENL",
-					"end": "🇩🇪05330",
+					"end": "FWA",
 					"length": 2,
 					"maxSpeed": 60,
 					"twistingFactor": 0.28
 				},
 				{
-					"start": "🇩🇪05330",
-					"end": "🇩🇪O4789351048",
+					"start": "FWA",
+					"end": "FBIZ",
 					"length": 3,
 					"maxSpeed": 80,
 					"twistingFactor": 0.21
 				},
 				{
-					"start": "🇩🇪O4789351048",
+					"start": "FBIZ",
 					"end": "FBIK",
 					"length": 1,
 					"maxSpeed": 60,
@@ -13140,13 +13140,13 @@
 				},
 				{
 					"start": "FST",
-					"end": "🇩🇪O5154586368",
+					"end": "FELZ",
 					"length": 1,
 					"maxSpeed": 80,
 					"twistingFactor": 0.01
 				},
 				{
-					"start": "🇩🇪O5154586368",
+					"start": "FELZ",
 					"end": "FNHD",
 					"length": 1,
 					"maxSpeed": 80,
@@ -13231,13 +13231,13 @@
 				},
 				{
 					"start": "FERW",
-					"end": "🇩🇪O298647213",
+					"end": "FBDW",
 					"length": 1,
 					"maxSpeed": 80,
 					"twistingFactor": 0.5
 				},
 				{
-					"start": "🇩🇪O298647213",
+					"start": "FBDW",
 					"end": "FUKO",
 					"length": 2,
 					"maxSpeed": 60,
@@ -13280,27 +13280,27 @@
 				},
 				{
 					"start": "KOE",
-					"end": "🇩🇪19622",
+					"end": "KKLM",
 					"length": 2,
 					"maxSpeed": 90,
 					"twistingFactor": 0.14
 				},
 				{
-					"start": "🇩🇪19622",
-					"end": "🇩🇪O265854542",
+					"start": "KKLM",
+					"end": "KBRS",
 					"length": 1,
 					"maxSpeed": 90,
 					"twistingFactor": 0.01
 				},
 				{
-					"start": "🇩🇪O265854542",
-					"end": "🇩🇪19623",
+					"start": "KBRS",
+					"end": "KHOG",
 					"length": 2,
 					"maxSpeed": 80,
 					"twistingFactor": 0.24
 				},
 				{
-					"start": "🇩🇪19623",
+					"start": "KHOG",
 					"end": "KGEH",
 					"length": 1,
 					"maxSpeed": 80,
@@ -52501,13 +52501,13 @@
 				},
 				{
 					"start": "KWIR",
-					"end": "🇩🇪O296309721",
+					"end": "KDEB",
 					"length": 1,
 					"maxSpeed": 60,
 					"twistingFactor": 0.01
 				},
 				{
-					"start": "🇩🇪O296309721",
+					"start": "KDEB",
 					"end": "FMT",
 					"length": 3,
 					"maxSpeed": 60,
@@ -53437,12 +53437,12 @@
 				},
 				{
 					"start": "KNEB",
-					"end": "🇩🇪O12433020232",
+					"end": "KHEH",
 					"length": 3,
 					"twistingFactor": 0.05
 				},
 				{
-					"start": "🇩🇪O12433020232",
+					"start": "KHEH",
 					"end": "KBOD",
 					"length": 3,
 					"twistingFactor": 0.1
@@ -62545,12 +62545,12 @@
 			"objects": [
 				{
 					"start": "EKT",
-					"end": "🇩🇪O295969841",
+					"end": "EFER",
 					"length": 1,
 					"twistingFactor": 0.39
 				},
 				{
-					"start": "🇩🇪O295969841",
+					"start": "EFER",
 					"end": "EDAB",
 					"length": 3,
 					"twistingFactor": 0.24
@@ -62605,12 +62605,12 @@
 				},
 				{
 					"start": "EAWN",
-					"end": "🇩🇪O4785246350",
+					"end": "EBGA",
 					"length": 5,
 					"twistingFactor": 0.26
 				},
 				{
-					"start": "🇩🇪O4785246350",
+					"start": "EBGA",
 					"end": "ERMA",
 					"length": 1,
 					"twistingFactor": 0.07
@@ -89958,12 +89958,12 @@
 				},
 				{
 					"start": "ESAS",
-					"end": "🇩🇪88431",
+					"end": "EKSO",
 					"length": 1,
 					"twistingFactor": 0.18
 				},
 				{
-					"start": "🇩🇪88431",
+					"start": "EKSO",
 					"end": "EHF",
 					"length": 1,
 					"twistingFactor": 0.01
@@ -89982,12 +89982,12 @@
 				},
 				{
 					"start": "EASE",
-					"end": "🇩🇪O463526463",
+					"end": "ENK",
 					"length": 1,
 					"twistingFactor": 0.01
 				},
 				{
-					"start": "🇩🇪O463526463",
+					"start": "ENK",
 					"end": "EWAL",
 					"length": 4,
 					"twistingFactor": 0.19
@@ -90006,24 +90006,24 @@
 				},
 				{
 					"start": "EWGD",
-					"end": "🇩🇪O519206940",
+					"end": "EHOZ",
 					"length": 3,
 					"twistingFactor": 0.39
 				},
 				{
-					"start": "🇩🇪O519206940",
+					"start": "EHOZ",
 					"end": "ENID",
 					"length": 2,
 					"twistingFactor": 0.24
 				},
 				{
 					"start": "ENID",
-					"end": "🇩🇪O277305292",
+					"end": "FADD",
 					"length": 4,
 					"twistingFactor": 0.22
 				},
 				{
-					"start": "🇩🇪O277305292",
+					"start": "FADD",
 					"end": "FHGO",
 					"length": 1,
 					"twistingFactor": 0.11
