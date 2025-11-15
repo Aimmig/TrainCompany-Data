@@ -52545,7 +52545,7 @@
 					"start": "FNIB",
 					"end": "FST",
 					"length": 5,
-					"maxSpeed": 300,
+					"maxSpeed": 50,
 					"twistingFactor": 0.08
 				}
 			]
