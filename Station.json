@@ -1138,7 +1138,7 @@
 			"ril100": "🇺🇦O395003980",
 			"group": 2,
 			"x": 4056,
-			"y": 303,
+			"y": 305,
 			"proj": 3
 		},
 		{
@@ -1930,7 +1930,7 @@
 			"ril100": "🇺🇦O3978166210",
 			"group": 2,
 			"x": 4002,
-			"y": 300,
+			"y": 302,
 			"platformLength": 209,
 			"platforms": 1,
 			"proj": 3
@@ -1949,7 +1949,7 @@
 			"name": "Vodianoe",
 			"ril100": "🇺🇦O553022285",
 			"group": 2,
-			"x": 4017,
+			"x": 4019,
 			"y": 302,
 			"platforms": 2,
 			"platformLength": 232,
@@ -1959,7 +1959,7 @@
 			"name": "Nova Bavariia",
 			"ril100": "🇺🇦O8568886621",
 			"group": 2,
-			"x": 4044,
+			"x": 4040,
 			"y": 300,
 			"platforms": 2,
 			"platformLength": 232,
@@ -1969,8 +1969,8 @@
 			"name": "Novoselivka",
 			"ril100": "🇺🇦O255730927",
 			"group": 2,
-			"x": 4050,
-			"y": 297,
+			"x": 4052,
+			"y": 300,
 			"platformLength": 221,
 			"platforms": 5,
 			"proj": 3
@@ -96506,7 +96506,7 @@
 		},
 		{
 			"group": 2,
-			"name": "Brötzinge Mitte",
+			"name": "Brötzingen Mitte",
 			"ril100": "TPB",
 			"x": 275,
 			"y": 475,
@@ -105745,6 +105745,116 @@
 			"proj": 3,
 			"platforms": 5,
 			"platformLength": 350
+		},
+		{
+			"group": 5,
+			"name": "Pforzheim-Weißenstein",
+			"ril100": "TPW",
+			"x": 279,
+			"y": 479,
+			"platformLength": 81,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Unterreichenbach",
+			"ril100": "TURB",
+			"x": 287,
+			"y": 488,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Monbach-Neuhausen",
+			"ril100": "TMON",
+			"x": 290,
+			"y": 494,
+			"platformLength": 95,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Bad Liebenzell",
+			"ril100": "TBLI",
+			"x": 292,
+			"y": 500,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Hirsau",
+			"ril100": "THI",
+			"x": 294,
+			"y": 507,
+			"platformLength": 81,
+			"proj": 3
+		},
+		{
+			"group": 2,
+			"name": "Calw",
+			"ril100": "TCW",
+			"x": 295,
+			"y": 510,
+			"platformLength": 80,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Bad Teinach-Neubulach",
+			"ril100": "TBT",
+			"x": 294,
+			"y": 516,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Wildberg (Württ)",
+			"ril100": "TWIB",
+			"x": 296,
+			"y": 522,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Nagold",
+			"ril100": "TNA",
+			"x": 295,
+			"y": 529,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 2,
+			"name": "Nagold Stadtmitte",
+			"ril100": "TNA M",
+			"x": 295,
+			"y": 530,
+			"platformLength": 80,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Nagold-Steinberg",
+			"ril100": "TNAS",
+			"x": 296,
+			"y": 532,
+			"platformLength": 80,
+			"proj": 3
+		},
+		{
+			"group": 5,
+			"name": "Nagold-Iselshausen",
+			"ril100": "TNAI",
+			"x": 295,
+			"y": 534,
+			"platformLength": 80,
+			"proj": 3
 		}
 	]
 }

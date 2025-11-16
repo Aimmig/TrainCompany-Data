@@ -1878,7 +1878,7 @@
 			],
 			"group": 1,
 			"service": 1,
-			"pathSuggestion": [ "🇺🇦O2644051429", "🇺🇦2200007", "🇺🇦O1888732623", "ZURM", "🇺🇦O2420805814", "🇺🇦O12440860427", "🇺🇦O3345061593", "🇺🇦O1955870024", "🇺🇦O2291029957", "🇺🇦O1736462232", "🇺🇦O3978166210", "🇺🇦O8568879584", "🇺🇦O8568886621", "🇺🇦O394980121" ]
+			"pathSuggestion": [ "🇺🇦O2644051429", "🇺🇦2200007", "🇺🇦O1888732623", "ZURM", "🇺🇦O2420805814", "🇺🇦O12440860427", "🇺🇦O3345061593", "🇺🇦O1955870024", "🇺🇦O2291029957", "🇺🇦O1736462232", "🇺🇦O3978166210", "🇺🇦O8568879584", "🇺🇦O8568886621", "🇺🇦O255730927", "🇺🇦O394980121" ]
 		},
 		{
 			"name": "Brightline von %s nach %s",
@@ -14450,6 +14450,34 @@
 				{
 					"stations": [ "XYK", "XYKY", "XYMC", "XYSN", "XYPT", "XYLIM", "XYRU", "XYVU", "XYZ", "XYPU", "XYTRE", "XYTRN", "XYB" ],
 					"pathSuggestion": [ "XYK", "XYKY", "XYMC", "XYSN", "XYPT", "XYLIM", "XYRU", "XYVU", "XYZ", "XYPU", "XYTRE", "XYTRN", "XYB" ]
+				}
+			],
+			"neededCapacity": [
+				{ "name": "passengers" }
+			]
+		},
+		{
+			"group": 1,
+			"name": "RB74 von %s nach %s",
+			"service": 2,
+			"descriptions": [
+				"Fahre eine Regionalbahn der Linie 74 von %s nach %s.",
+				"Bring deine Fahrgäste pünktlich auf der Nagoldtalbahn nach %2$s!",
+				"Fahre einen Zug der Linie RB74 von %s nach %s. Halte dabei an jeder Station."
+			],
+			"objects": [
+				{
+					"stations": [ "TPH", "TPB", "THF", "TET", "THB", "TT" ],
+					"stopsEverywhere": true
+				},
+				{
+					"stations": [ "TPH", "TPB", "TNA M" ],
+					"descriptions": [
+						"Fahre einen verkürzten Verstärkerzug der Linie RB74 nach %2$s.",
+						"Bring deine Fahrgäste pünktlich auf der Nagoldtalbahn nach %2$s!",
+						"Fahre einen Zug der Linie RB74 von %s nach %s. Halte dabei an jeder Station."
+					],
+					"stopsEverywhere": true
 				}
 			],
 			"neededCapacity": [
