@@ -1138,7 +1138,7 @@
 			"ril100": "🇺🇦O395003980",
 			"group": 2,
 			"x": 4056,
-			"y": 303,
+			"y": 305,
 			"proj": 3
 		},
 		{
@@ -1930,7 +1930,7 @@
 			"ril100": "🇺🇦O3978166210",
 			"group": 2,
 			"x": 4002,
-			"y": 300,
+			"y": 302,
 			"platformLength": 209,
 			"platforms": 1,
 			"proj": 3
@@ -1949,7 +1949,7 @@
 			"name": "Vodianoe",
 			"ril100": "🇺🇦O553022285",
 			"group": 2,
-			"x": 4017,
+			"x": 4019,
 			"y": 302,
 			"platforms": 2,
 			"platformLength": 232,
@@ -1959,7 +1959,7 @@
 			"name": "Nova Bavariia",
 			"ril100": "🇺🇦O8568886621",
 			"group": 2,
-			"x": 4044,
+			"x": 4040,
 			"y": 300,
 			"platforms": 2,
 			"platformLength": 232,
@@ -1969,8 +1969,8 @@
 			"name": "Novoselivka",
 			"ril100": "🇺🇦O255730927",
 			"group": 2,
-			"x": 4050,
-			"y": 297,
+			"x": 4052,
+			"y": 300,
 			"platformLength": 221,
 			"platforms": 5,
 			"proj": 3

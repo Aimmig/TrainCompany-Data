@@ -12443,7 +12443,7 @@
 				{
 					"start": "🇺🇦O1232861103",
 					"end": "🇺🇦O3394056767",
-					"electrified": false,
+					"electrified": true,
 					"length": 8,
 					"maxSpeed": 160,
 					"twistingFactor": 0
@@ -12574,7 +12574,7 @@
 				{
 					"start": "🇺🇦O12694929046",
 					"end": "🇺🇦O12440860427",
-					"electrified": false,
+					"electrified": true,
 					"length": 4,
 					"maxSpeed": 120,
 					"twistingFactor": 0
