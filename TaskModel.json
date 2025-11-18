@@ -8097,7 +8097,7 @@
 						"Fahre den TEE Bavaria von %s bis %s"
 					],
 					"stations": [ "MH", "MKP", "MLIR", "XAB", "XSSM", "XSSG", "XSWT", "XSZH" ],
-					"pathSuggestion": [ "MH", "MGE", "MKFG", "MBU", "MBIH", "MKP", "MIMS", "MHGZ", "MLIR", "XAB", "XSSM", "XSRS", "XSSG", "XSWT", "XSZO", "XSZH" ]
+					"pathSuggestion": [ "MH", "MP", "MGE", "MKFG", "MBU", "MBIH", "MKP", "MIMS", "MHGZ", "MLIR", "XAB", "XSSM", "XSRS", "XSSG", "XSWT", "XSZO", "XSZH" ]
 				},
 				{
 					"descriptions": [
@@ -12992,7 +12992,7 @@
 				"Du wurdest zur Eisenbahner*in des Jahres gewählt und erhältst eine Sonderahrt nach Wunsch. Du entschließt dich, deine Kolleg*innen aus Ausbildungszeiten zu besuchen und auf einen Pott Kaffee zu halten."
 			],
 			"stations": [ "BKW", "DH", "LL", "UNM", "US", "NPA", "MKP", "RK", "FD", "SSH", "STR", "EDG", "HLEE", "HB", "AH", "WK", "WSR", "BL" ],
-			"pathSuggestion": [ "BKW", "BFP", "BCS", "BSP", "DG", "DL", "DBW", "DAF", "DH", "DCW", "DPR", "DR", "LBOR", "LL", "UNM", "UGH", "UGW", "US", "NHM", "NED", "NBA", "NFO", "NF", "NN", "NRH", "NOT", "NPL", "NPA", "MNR", "MMF", "MWSB", "MRO", "MHO", "MH", "MGE", "MKFG", "MBU", "MBIH", "MKP", "MIMS", "MHGZ", "MLIR", "TF", "RRZ", "RSI", "RENG", "RIM", "RDO", "RF", "RO", "RAP", "RRA", "RK", "RBR", "RH", "RMF", "FD", "FDG", "FBL", "FWOR", "RFT", "RFHM", "RN", "RLA", "SHW", "SPSN", "SRO", "SSH", "SDL", "SKZ", "STR", "KEU", "KKAS", "KK", "KGRB", "KM", "KV", "EDG", "EOB", "EG", "EMST", "HR", "HLEE", "HOLD", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AHI", "AHM", "AJ", "AF", "AK", "AL", "WK", "WB", "WSN", "WR", "WSR", "WZS", "WP", "WA", "WE", "BL" ],
+			"pathSuggestion": [ "BKW", "BFP", "BCS", "BSP", "DG", "DL", "DBW", "DAF", "DH", "DCW", "DPR", "DR", "LBOR", "LL", "UNM", "UGH", "UGW", "US", "NHM", "NED", "NBA", "NFO", "NF", "NN", "NRH", "NOT", "NPL", "NPA", "MNR", "MMF", "MWSB", "MRO", "MHO", "MH", "MP", "MGE", "MKFG", "MBU", "MBIH", "MKP", "MIMS", "MHGZ", "MLIR", "TF", "RRZ", "RSI", "RENG", "RIM", "RDO", "RF", "RO", "RAP", "RRA", "RK", "RBR", "RH", "RMF", "FD", "FDG", "FBL", "FWOR", "RFT", "RFHM", "RN", "RLA", "SHW", "SPSN", "SRO", "SSH", "SDL", "SKZ", "STR", "KEU", "KKAS", "KK", "KGRB", "KM", "KV", "EDG", "EOB", "EG", "EMST", "HR", "HLEE", "HOLD", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AHI", "AHM", "AJ", "AF", "AK", "AL", "WK", "WB", "WSN", "WR", "WSR", "WZS", "WP", "WA", "WE", "BL" ],
 			"neededCapacity": [
 				{ "name": "passengers" },
 				{ "name": "bistroseats", "value": 48 },
