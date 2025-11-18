@@ -11973,7 +11973,7 @@
 					"start": "MAHL",
 					"end": "MSGU",
 					"length": 1,
-					"twistingFactor": 0.62
+					"twistingFactor": 0.42
 				}
 			]
 		},
@@ -38721,7 +38721,7 @@
 					"start": "MTSK",
 					"end": "MTS",
 					"length": 1,
-					"twistingFactor": 0.8
+					"twistingFactor": 0.4
 				}
 			]
 		},
