@@ -2316,7 +2316,7 @@
 						"Bringe den VSOE mit bestem Ambiente von %s nach %s."
 					],
 					"stations": [ "XFPO", "XMBK", "XUSN", "XUBN", "XQIS" ],
-					"pathSuggestion": [ "XFPO", "XFVAR", "XFCM", "XFLE", "XFTU", "XFFD", "XFRD", "XFMH", "XFVH", "XFHG", "RWND", "RWRT", "RK", "TPH", "TM", "TV", "TBM", "TLU", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE", "XAL", "XAWW", "XMBK", "XUA", "XUSN", "XUBN", "XUV", "🇧🇬14000", "XWSV", "XQIS" ]
+					"pathSuggestion": [ "XFPO", "XFVAR", "XFCM", "XFLE", "XFTU", "XFFD", "XFRD", "XFMH", "XFVH", "XFHG", "RWND", "RWRT", "RK", "TPH", "TM", "TV", "TBM", "TLU", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MP", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE", "XAL", "XAWW", "XMG", "XMBK", "XUA", "XUSN", "XUBN", "XUV", "🇧🇬14000", "XWSV", "XQIS" ]
 				}
 			],
 			"neededCapacity": [
@@ -2890,7 +2890,7 @@
 				"Dieser Nachtzug ist berüchtigt für seine hohe Verspätungen und seinen langen Laufweg."
 			],
 			"stations": [ "EDO", "EDG", "KK", "FMZ", "RM", "TS", "MH", "XASB", "XAVH", "XZL", "XRZ", "XJBC", "XJNI", "ZAS", "XGT", "XGA" ],
-			"pathSuggestion": [ "EDO", "EE", "EDG", "KD", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RFT", "RM", "RSAB", "RBR", "TV", "TS", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XABO", "XASW", "XAVH", "XZL", "XRZ", "XRDS", "XRSV", "XJSP", "XJBC", "XJBR", "XJNI", "ZAS", "XGT", "XGA" ],
+			"pathSuggestion": [ "EDO", "EE", "EDG", "KD", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RFT", "RM", "RSAB", "RBR", "TV", "TS", "TU", "MGZB", "MA", "MMR", "MP", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XABO", "XASW", "XAVH", "XZJ", "XZL", "XZZM", "XZSN", "XRZ", "XRDS", "XRSV", "XJSP", "XJBC", "XJBR", "XJNI", "ZAS", "XGT", "XGA" ],
 			"neededCapacity": [
 				{ "name": "passengers" },
 				{ "name": "bistroseats" },
@@ -2984,7 +2984,7 @@
 				},
 				{
 					"stations": [ "XAWW", "XAP", "XAL", "XAWE", "XASB", "MRO", "MH", "RK", "XFSTG", "XFN", "XFPO" ],
-					"pathSuggestion": [ "XAWW", "XAP", "XAL", "XAWE", "XAAT", "XASF", "XASB", "MFL", "MTS", "MRO", "MGB", "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "TM", "TPH", "RK", "RRA", "RAP", "XFSTG", "XFVH", "XFMH", "XFRD", "XFN", "XFFD", "XFTU", "XFLE", "XFCM", "XFVAR", "XFPO" ]
+					"pathSuggestion": [ "XAWW", "XAP", "XAL", "XAWE", "XAAT", "XASF", "XASB", "MFL", "MTS", "MRO", "MGB", "MH", "MP", "MMR", "MA", "MGZB", "TU", "TAM", "TP", "TS", "TV", "TM", "TPH", "RK", "RRA", "RAP", "XFSTG", "XFVH", "XFMH", "XFRD", "XFN", "XFFD", "XFTU", "XFLE", "XFCM", "XFVAR", "XFPO" ]
 				},
 				{
 					"stations": [ "XSZH", "XSBE", "XSLA", "XSGE", "XFLPD", "XFAVV", "XFNB", "XFPE", "XEB" ],
@@ -6883,7 +6883,7 @@
 			"neededCapacity": [
 				{ "name": "containers", "value": 15 }
 			],
-			"pathSuggestion": [ "SWAB", "SKL", "SHY", "RN", "RSD", "RM", "RSAB", "RBR", "TV", "TS", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE" ]
+			"pathSuggestion": [ "SWAB", "SKL", "SHY", "RN", "RSD", "RM", "RSAB", "RBR", "TV", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MP", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE" ]
 		},
 		{
 			"group": 0,
@@ -13557,7 +13557,15 @@
 				},
 				{
 					"stations": [ "RSP", "MFHB" ],
-					"pathSuggestion": [ "RSP", "RGE", "RGN", "RBR", "TM", "TV", "TBM", "TLU", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MH", "MNF", "MFHB" ]
+					"pathSuggestion": [ "RSP", "RGE", "RGN", "RBR", "TM", "TV", "TBM", "TLU", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MP", "MH", "MNF", "MFHB" ]
+				},
+				{
+					"stations": [ "XZKO", "MFHB" ],
+					"pathSuggestion": [ "XZKO", "XZPN", "XZDV", "XZPV", "XZL", "XZJ", "XAVH", "XASW", "XABO", "XASB", "MFL", "MTS", "MRO", "MGB", "MH", "MNF", "MFHB" ]
+				},
+				{
+					"stations": [ "XZKO", "🇦🇹O1362117623" ],
+					"pathSuggestion": [ "XZKO", "XZPN", "XZDV", "XZPV", "XZL", "XZZM", "XZCE", "XZPG", "🇦🇹O1362117623" ]
 				}
 			],
 			"neededCapacity": [
@@ -14738,56 +14746,6 @@
 			],
 			"stations": [ "RNHF", "RSGB" ],
 			"stopsEverywhere": true,
-			"neededCapacity": [
-				{ "name": "passengers" }
-			]
-		},
-		{
-			"group": 1,
-			"name": "SLOVAK EXPRES Tatran von %s nach %s",
-			"service": 1,
-			"descriptions": [
-				"Der Tatran ist der wichtigste Schnellzug in der Slowakei.",
-				"Bringe die Fahrgäste im SLOVAK EXPRES von %s nach %s."
-			],
-			"objects": [
-				{
-					"stations": [ "XYB", "XYTRN", "XYTRE", "XYPU", "XYZ", "XYVU", "XYRU", "XYLIM", "XYPT", "XYSN", "XYMC", "XYKY", "XYK" ],
-					"pathSuggestion": [ "XYB", "XYTRN", "XYTRE", "XYPU", "XYZ", "XYVU", "XYRU", "XYLIM", "XYPT", "XYSN", "XYMC", "XYKY", "XYK" ]
-				},
-				{
-					"stations": [ "XYK", "XYKY", "XYMC", "XYSN", "XYPT", "XYLIM", "XYRU", "XYVU", "XYZ", "XYPU", "XYTRE", "XYTRN", "XYB" ],
-					"pathSuggestion": [ "XYK", "XYKY", "XYMC", "XYSN", "XYPT", "XYLIM", "XYRU", "XYVU", "XYZ", "XYPU", "XYTRE", "XYTRN", "XYB" ]
-				}
-			],
-			"neededCapacity": [
-				{ "name": "passengers" }
-			]
-		},
-		{
-			"group": 1,
-			"name": "RB74 von %s nach %s",
-			"service": 2,
-			"descriptions": [
-				"Fahre eine Regionalbahn der Linie 74 von %s nach %s.",
-				"Bring deine Fahrgäste pünktlich auf der Nagoldtalbahn nach %2$s!",
-				"Fahre einen Zug der Linie RB74 von %s nach %s. Halte dabei an jeder Station."
-			],
-			"objects": [
-				{
-					"stations": [ "TPH", "TPB", "THF", "TET", "THB", "TT" ],
-					"stopsEverywhere": true
-				},
-				{
-					"stations": [ "TPH", "TPB", "TNA M" ],
-					"descriptions": [
-						"Fahre einen verkürzten Verstärkerzug der Linie RB74 nach %2$s.",
-						"Bring deine Fahrgäste pünktlich auf der Nagoldtalbahn nach %2$s!",
-						"Fahre einen Zug der Linie RB74 von %s nach %s. Halte dabei an jeder Station."
-					],
-					"stopsEverywhere": true
-				}
-			],
 			"neededCapacity": [
 				{ "name": "passengers" }
 			]
