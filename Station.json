@@ -23072,6 +23072,154 @@
 			"proj": 3
 		},
 		{
+			"name": "Wetter (Hessen)",
+			"ril100": "FWT",
+			"group": 2,
+			"x": 304,
+			"y": 142,
+			"platformLength": 105,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Simtshausen",
+			"ril100": "FSMH",
+			"group": 5,
+			"x": 301,
+			"y": 136,
+			"platformLength": 100,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Münchhausen",
+			"ril100": "FMHN",
+			"group": 2,
+			"x": 303,
+			"y": 132,
+			"platformLength": 105,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Burgwald-Ernsthausen",
+			"ril100": "FERH",
+			"group": 5,
+			"x": 305,
+			"y": 130,
+			"platformLength": 103,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Wiesenfeld",
+			"ril100": "FWIF",
+			"group": 5,
+			"x": 307,
+			"y": 125,
+			"platformLength": 69,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Birkenbringhausen",
+			"ril100": "FBBH",
+			"group": 5,
+			"x": 307,
+			"y": 122,
+			"platformLength": 104,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Frankenberg (Eder)",
+			"ril100": "FFRK",
+			"group": 2,
+			"x": 313,
+			"y": 117,
+			"proj": 3
+		},
+		{
+			"name": "Frankenberg (Eder) Viermünden",
+			"ril100": "FVI",
+			"group": 5,
+			"x": 318,
+			"y": 110,
+			"platformLength": 102,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vöhl Ederbringhausen",
+			"ril100": "FEDN",
+			"group": 5,
+			"x": 324,
+			"y": 105,
+			"platformLength": 99,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vöhl Herzhausen",
+			"ril100": "FHZN",
+			"group": 5,
+			"x": 326,
+			"y": 96,
+			"platformLength": 98,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Vöhl Thalitter",
+			"ril100": "FTHA",
+			"group": 5,
+			"x": 327,
+			"y": 90,
+			"platformLength": 81,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Korbach Süd",
+			"ril100": "FKBS",
+			"group": 5,
+			"x": 325,
+			"y": 82,
+			"platformLength": 100,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Korbach Hauptbahnhof",
+			"ril100": "FKOB",
+			"group": 2,
+			"x": 324,
+			"y": 80,
+			"platformLength": 180,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Usseln",
+			"ril100": "FUS",
+			"group": 2,
+			"x": 297,
+			"y": 80,
+			"platformLength": 222,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Willingen",
+			"ril100": "FWLN",
+			"group": 2,
+			"x": 288,
+			"y": 78,
+			"platformLength": 222,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Artix",
 			"ril100": "🇫🇷ATI",
 			"group": 2,

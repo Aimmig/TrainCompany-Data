@@ -58693,6 +58693,135 @@
 			]
 		},
 		{
+			"name": "Burgwaldbahn",
+			"electrified": false,
+			"group": 1,
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 60,
+			"objects": [
+				{
+					"start": "FCOE",
+					"end": "FWT",
+					"length": 8,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "FWT",
+					"end": "FSMH",
+					"length": 4,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "FSMH",
+					"end": "FMHN",
+					"length": 2,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "FMHN",
+					"end": "FERH",
+					"length": 1,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FERH",
+					"end": "FWIF",
+					"length": 4,
+					"twistingFactor": 0.36
+				},
+				{
+					"start": "FWIF",
+					"end": "FBBH",
+					"length": 1,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "FBBH",
+					"end": "FFRK",
+					"length": 4,
+					"twistingFactor": 0.13
+				}
+			]
+		},
+		{
+			"name": "Untere Edertalbahn",
+			"electrified": false,
+			"group": 1,
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 60,
+			"objects": [
+				{
+					"start": "FFRK",
+					"end": "FVI",
+					"length": 6,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "FVI",
+					"end": "FEDN",
+					"length": 4,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "FEDN",
+					"end": "FHZN",
+					"length": 7,
+					"twistingFactor": 0.35
+				},
+				{
+					"start": "FHZN",
+					"end": "FTHA",
+					"length": 4,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "FTHA",
+					"end": "FKBS",
+					"length": 6,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "FKBS",
+					"end": "FKOB",
+					"length": 1,
+					"twistingFactor": 0.03
+				}
+			]
+		},
+		{
+			"name": "Uplandbahn",
+			"electrified": false,
+			"group": 1,
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 80,
+			"objects": [
+				{
+					"start": "FKOB",
+					"end": "FUS",
+					"length": 17,
+					"twistingFactor": 0.32
+				},
+				{
+					"start": "FUS",
+					"end": "FWLN",
+					"length": 5,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "FWLN",
+					"end": "EBRW",
+					"length": 7,
+					"twistingFactor": 0.18
+				}
+			]
+		},
+		{
 			"name": "SŽDC 225 Veselí nad Lužnicí - Jihlava",
 			"electrified": true,
 			"group": 0,
