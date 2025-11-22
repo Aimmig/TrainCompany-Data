@@ -90205,6 +90205,84 @@
 			"proj": 3
 		},
 		{
+			"name": "Twiste",
+			"ril100": "FTW",
+			"group": 5,
+			"x": 336,
+			"y": 71,
+			"proj": 3
+		},
+		{
+			"name": "Mengeringhausen",
+			"ril100": "FMGH",
+			"group": 5,
+			"x": 340,
+			"y": 67,
+			"proj": 3
+		},
+		{
+			"name": "Bad Arolsen",
+			"ril100": "FAR",
+			"group": 2,
+			"x": 341,
+			"y": 63,
+			"proj": 3
+		},
+		{
+			"name": "Külte-Wetterburg",
+			"ril100": "FKWB",
+			"group": 5,
+			"x": 351,
+			"y": 61,
+			"proj": 3
+		},
+		{
+			"name": "Volkmarsen",
+			"ril100": "FVA",
+			"group": 2,
+			"x": 357,
+			"y": 59,
+			"proj": 3
+		},
+		{
+			"name": "Volkmarsen-Ehringen",
+			"ril100": "FEGN",
+			"group": 5,
+			"x": 362,
+			"y": 63,
+			"proj": 3
+		},
+		{
+			"name": "Wolfhagen",
+			"ril100": "FWFH",
+			"group": 2,
+			"x": 365,
+			"y": 71,
+			"platformLength": 111,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Zierenberg",
+			"ril100": "FZB",
+			"group": 5,
+			"x": 382,
+			"y": 66,
+			"platformLength": 111,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Ahnatal-Weimar",
+			"ril100": "FWEI",
+			"group": 5,
+			"x": 394,
+			"y": 66,
+			"platformLength": 126,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
 			"name": "Borup",
 			"ril100": "XDBOP",
 			"group": 2,

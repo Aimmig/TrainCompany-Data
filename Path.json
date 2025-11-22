@@ -58822,6 +58822,87 @@
 			]
 		},
 		{
+			"name": "Twistetalbahn",
+			"electrified": false,
+			"group": 1,
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 80,
+			"objects": [
+				{
+					"start": "FKOB",
+					"end": "FTW",
+					"length": 12,
+					"twistingFactor": 0.23
+				},
+				{
+					"start": "FTW",
+					"end": "FMGH",
+					"length": 4,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "FMGH",
+					"end": "FAR",
+					"length": 3,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "FAR",
+					"end": "FKWB",
+					"length": 6,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "FKWB",
+					"end": "FVA",
+					"length": 4,
+					"twistingFactor": 0.15
+				}
+			]
+		},
+		{
+			"neededEquipments": [
+				"DE"
+			],
+			"electrified": false,
+			"group": 1,
+			"maxSpeed": 100,
+			"objects": [
+				{
+					"start": "FVA",
+					"end": "FEGN",
+					"length": 4,
+					"twistingFactor": 0.26
+				},
+				{
+					"start": "FEGN",
+					"end": "FWFH",
+					"length": 6,
+					"twistingFactor": 0.19
+				},
+				{
+					"start": "FWFH",
+					"end": "FZB",
+					"length": 12,
+					"twistingFactor": 0.31
+				},
+				{
+					"start": "FZB",
+					"end": "FWEI",
+					"length": 7,
+					"twistingFactor": 0.28
+				},
+				{
+					"start": "FWEI",
+					"end": "FKW",
+					"length": 11,
+					"twistingFactor": 0.35
+				}
+			]
+		},
+		{
 			"name": "SŽDC 225 Veselí nad Lužnicí - Jihlava",
 			"electrified": true,
 			"group": 0,
