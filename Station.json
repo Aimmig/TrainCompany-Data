@@ -10861,6 +10861,86 @@
 			"proj": 3
 		},
 		{
+			"name": "Heggen",
+			"ril100": "EHEG",
+			"group": 5,
+			"x": 200,
+			"y": 102,
+			"platformLength": 101,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Attendorn",
+			"ril100": "EAT",
+			"group": 2,
+			"x": 194,
+			"y": 106,
+			"platformLength": 140,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Kraghammer",
+			"ril100": "EKRG",
+			"group": 5,
+			"x": 189,
+			"y": 108,
+			"platformLength": 156,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Listerscheid",
+			"ril100": "ELIS",
+			"group": 5,
+			"x": 186,
+			"y": 108,
+			"platformLength": 151,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Attendorn-Hohen Hagen",
+			"ril100": "EHOH",
+			"group": 5,
+			"x": 186,
+			"y": 111,
+			"platformLength": 148,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Sondern",
+			"ril100": "ESON",
+			"group": 5,
+			"x": 184,
+			"y": 114,
+			"platformLength": 119,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Eichhagen",
+			"ril100": "EEHG",
+			"group": 5,
+			"x": 184,
+			"y": 117,
+			"platformLength": 151,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Olpe",
+			"ril100": "EOLP",
+			"group": 2,
+			"x": 184,
+			"y": 121,
+			"platformLength": 140,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Rentrisch",
 			"ril100": "SRE",

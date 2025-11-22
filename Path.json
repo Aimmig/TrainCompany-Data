@@ -44624,6 +44624,72 @@
 			]
 		},
 		{
+			"name": "Biggetalbahn",
+			"electrified": false,
+			"neededEquipments": [
+				"DE"
+			],
+			"group": 1,
+			"objects": [
+				{
+					"start": "EFP",
+					"end": "EHEG",
+					"length": 2,
+					"maxSpeed": 70,
+					"twistingFactor": 0.14
+				},
+				{
+					"start": "EHEG",
+					"end": "EAT",
+					"length": 5,
+					"maxSpeed": 70,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "EAT",
+					"end": "EKRG",
+					"length": 3,
+					"maxSpeed": 80,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "EKRG",
+					"end": "ELIS",
+					"length": 1,
+					"maxSpeed": 80,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "ELIS",
+					"end": "EHOH",
+					"length": 2,
+					"maxSpeed": 80,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "EHOH",
+					"end": "ESON",
+					"length": 1,
+					"maxSpeed": 80,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "ESON",
+					"end": "EEHG",
+					"length": 1,
+					"maxSpeed": 80,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "EEHG",
+					"end": "EOLP",
+					"length": 3,
+					"maxSpeed": 80,
+					"twistingFactor": 0.28
+				}
+			]
+		},
+		{
 			"group": 0,
 			"objects": [
 				{
