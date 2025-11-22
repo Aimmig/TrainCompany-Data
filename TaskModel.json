@@ -6605,7 +6605,7 @@
 				},
 				{
 					"stations": [ "FNSM", "HNRU" ],
-					"pathSuggestion": [ "FNSM", "FGTH", "FKW", "HG", "HH", "HWUN", "HNRU" ]
+					"pathSuggestion": [ "FNSM", "FWAB", "FGTH", "FKW", "HG", "HH", "HWUN", "HNRU" ]
 				},
 				{
 					"stations": [ "HNRU", "NNA" ],
@@ -14267,7 +14267,7 @@
 				"Bei den Feierlichkeiten des Jubiläums 100 Jahre elektrischer Betrieb in Schweden soll ein Schweizer Krokodil teilnehmen."
 			],
 			"stations": [ "XSOL", "XVGA" ],
-			"pathSuggestion": [ "XSOL", "XSB", "RB", "RML", "RF", "RO", "RAP", "RRA", "RK", "RBR", "RH", "RMF", "FD", "FF", "FG", "FCOE", "FGTH", "FKW", "HEBG", "HG", "HN", "HK", "HELZ", "HH", "HU", "ALBG", "AHAR", "AH", "AEL", "AN", "AR", "AJ", "AF", "XDTI", "XDLU", "XDTA", "XDMF", "XDRI", "XDRK", "XDHT", "XDKH", "XVM", "XVLD", "XVEV", "XVHH", "XVAL", "XVN", "XVMJ", "XVHA", "XVO", "XVFV", "🇸🇪7400054", "XVAV", "🇸🇪7400630", "XVGA" ],
+			"pathSuggestion": [ "XSOL", "XSB", "RB", "RML", "RF", "RO", "RAP", "RRA", "RK", "RBR", "RH", "RMF", "FD", "FF", "FG", "FCOE", "FWAB", "FGTH", "FKW", "HEBG", "HG", "HN", "HK", "HELZ", "HH", "HU", "ALBG", "AHAR", "AH", "AEL", "AN", "AR", "AJ", "AF", "XDTI", "XDLU", "XDTA", "XDMF", "XDRI", "XDRK", "XDHT", "XDKH", "XVM", "XVLD", "XVEV", "XVHH", "XVAL", "XVN", "XVMJ", "XVHA", "XVO", "XVFV", "🇸🇪7400054", "XVAV", "🇸🇪7400630", "XVGA" ],
 			"neededCapacity": [
 				{ "name": "passengers", "value": 20 },
 				{ "name": "beds", "value": 20 },
