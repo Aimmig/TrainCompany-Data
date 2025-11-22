@@ -24594,6 +24594,60 @@
 			"proj": 3
 		},
 		{
+			"name": "Zennern",
+			"ril100": "FZE",
+			"group": 5,
+			"x": 381,
+			"y": 108,
+			"proj": 3
+		},
+		{
+			"name": "Fritzlar",
+			"ril100": "FFZ",
+			"group": 2,
+			"x": 377,
+			"y": 105,
+			"platformLength": 99,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Ungedanken",
+			"ril100": "FUNG",
+			"group": 5,
+			"x": 371,
+			"y": 106,
+			"proj": 3
+		},
+		{
+			"name": "Mandern",
+			"ril100": "FMAN",
+			"group": 5,
+			"x": 369,
+			"y": 105,
+			"proj": 3
+		},
+		{
+			"name": "Wega",
+			"ril100": "FWGA",
+			"group": 5,
+			"x": 365,
+			"y": 105,
+			"platformLength": 101,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bad Wildungen",
+			"ril100": "FBWD",
+			"group": 2,
+			"x": 360,
+			"y": 106,
+			"platformLength": 105,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
 			"name": "Groß-Umstadt-Wiebelsbach",
 			"ril100": "FWH",
 			"group": 2,

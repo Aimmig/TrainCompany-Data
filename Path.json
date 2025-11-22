@@ -14667,6 +14667,52 @@
 			]
 		},
 		{
+			"group": 1,
+			"electrified": false,
+			"neededEquipments": [
+				"DE"
+			],
+			"maxSpeed": 60,
+			"objects": [
+				{
+					"start": "FWAB",
+					"end": "FZE",
+					"length": 3,
+					"twistingFactor": 0.32
+				},
+				{
+					"start": "FZE",
+					"end": "FFZ",
+					"length": 2,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FFZ",
+					"end": "FUNG",
+					"length": 4,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "FUNG",
+					"end": "FMAN",
+					"length": 1,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FMAN",
+					"end": "FWGA",
+					"length": 2,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "FWGA",
+					"end": "FBWD",
+					"length": 2,
+					"twistingFactor": 0.01
+				}
+			]
+		},
+		{
 			"electrified": false,
 			"group": 0,
 			"neededEquipments": [
