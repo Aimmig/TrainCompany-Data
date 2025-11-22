@@ -73570,6 +73570,40 @@
 		},
 		{
 			"electrified": false,
+			"neededEquipments": [
+				"DE"
+			],
+			"group": 1,
+			"maxSpeed": 60,
+			"objects": [
+				{
+					"start": "EBWG",
+					"end": "EBIG",
+					"length": 6,
+					"twistingFactor": 0.29
+				},
+				{
+					"start": "EBIG",
+					"end": "ESIH",
+					"length": 11,
+					"twistingFactor": 0.16
+				},
+				{
+					"start": "ESIH",
+					"end": "ESIL",
+					"length": 4,
+					"twistingFactor": 0.18
+				},
+				{
+					"start": "ESIL",
+					"end": "EWTB",
+					"length": 5,
+					"twistingFactor": 0.24
+				}
+			]
+		},
+		{
+			"electrified": false,
 			"group": 0,
 			"maxSpeed": 127,
 			"neededEquipments": [

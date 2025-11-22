@@ -22658,7 +22658,7 @@
 			"proj": 3
 		},
 		{
-			"group": 5,
+			"group": 2,
 			"name": "Bestwig",
 			"ril100": "EBWG",
 			"x": 259,
@@ -23788,7 +23788,7 @@
 			"name": "Olsberg",
 			"ril100": "EOLS",
 			"x": 268,
-			"y": 66,
+			"y": 65,
 			"platformLength": 250,
 			"platforms": 3,
 			"proj": 3
@@ -101005,6 +101005,46 @@
 			"x": 988,
 			"y": -2443,
 			"platformLength": 350,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Bigge",
+			"ril100": "EBIG",
+			"group": 5,
+			"x": 271,
+			"y": 70,
+			"platformLength": 170,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Siedlinghausen",
+			"ril100": "ESIH",
+			"group": 5,
+			"x": 270,
+			"y": 83,
+			"platformLength": 114,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Silbach",
+			"ril100": "ESIL",
+			"group": 5,
+			"x": 271,
+			"y": 89,
+			"platformLength": 127,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Winterberg (Westf)",
+			"ril100": "EWTB",
+			"group": 2,
+			"x": 278,
+			"y": 93,
+			"platformLength": 278,
 			"platforms": 2,
 			"proj": 3
 		},
